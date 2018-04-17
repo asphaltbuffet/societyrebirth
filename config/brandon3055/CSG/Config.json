@@ -1,0 +1,13 @@
+{
+  "inventory": {
+    "0:7": "ironbackpacks:basicBackpack",
+    "0:3": "tconstruct:broadsword,1,0,{StatsOriginal:{AttackSpeedMultiplier:1.0f,MiningSpeed:2.0f,FreeModifiers:3,Durability:82,HarvestLevel:0,Attack:3.0f},Stats:{AttackSpeedMultiplier:1.0f,MiningSpeed:2.0f,FreeModifiers:3,Durability:82,HarvestLevel:0,Attack:3.0f},Special:{Categories:[0:\"weapon\",1:\"tool\"]},TinkerData:{Materials:[0:\"wood\",1:\"wood\",2:\"wood\"],Modifiers:[0:\"toolleveling\"]},Modifiers:[0:{identifier:\"ecological\",color:-7444965,level:1},1:{identifier:\"toolleveling\",color:16777215,level:1}],Traits:[0:\"ecological\",1:\"toolleveling\"]}",
+    "0:9": "openblocks:info_book",
+    "0:0": "tconstruct:pickaxe,1,0,{StatsOriginal:{AttackSpeedMultiplier:1.0f,MiningSpeed:2.0f,FreeModifiers:3,Durability:75,HarvestLevel:0,Attack:2.0f},Stats:{AttackSpeedMultiplier:1.0f,MiningSpeed:2.0f,FreeModifiers:3,Durability:75,HarvestLevel:0,Attack:2.0f},Special:{Categories:[0:\"harvest\",1:\"tool\"]},TinkerData:{Materials:[0:\"wood\",1:\"wood\",2:\"wood\"],Modifiers:[0:\"toolleveling\"]},Modifiers:[0:{identifier:\"ecological\",color:-7444965,level:1},1:{identifier:\"toolleveling\",color:16777215,level:1}],Traits:[0:\"ecological\",1:\"toolleveling\"]}",
+    "0:1": "tconstruct:hatchet,1,0,{StatsOriginal:{AttackSpeedMultiplier:1.0f,MiningSpeed:2.0f,FreeModifiers:3,Durability:75,HarvestLevel:0,Attack:2.5f},Stats:{AttackSpeedMultiplier:1.0f,MiningSpeed:2.0f,FreeModifiers:3,Durability:75,HarvestLevel:0,Attack:2.5f},Special:{Categories:[0:\"weapon\",1:\"harvest\",2:\"tool\"]},TinkerData:{Materials:[0:\"wood\",1:\"wood\",2:\"wood\"],Modifiers:[0:\"toolleveling\"]},Modifiers:[0:{identifier:\"ecological\",color:-7444965,level:1},1:{identifier:\"toolleveling\",color:16777215,level:1}],Traits:[0:\"ecological\",1:\"toolleveling\"]}",
+    "0:8": "minecraft:torch,16",
+    "0:5": "tconstruct:edible,8,11",
+    "0:11": "questbook:ItemQuestBook",
+    "0:10": "tconstruct:book"
+  }
+}
