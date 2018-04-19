@@ -54,6 +54,7 @@ Mod | Version | Note
 [Mantle](https://minecraft.curseforge.com/projects/mantle) | 1.10.2-1.1.5 |
 [MCMultiPart](https://minecraft.curseforge.com/projects/mcmultipart) | 1.4.0-universal |
 [Mekanism](https://minecraft.curseforge.com/projects/mekanism) | 1.10.2-9.2.4.103 |
+[Mekanism Generators](https://minecraft.curseforge.com/projects/mekanism-generators) | 1.10.2-9.2.4.103 | D (Mekanism)
 [Morpheus](https://minecraft.curseforge.com/projects/morpheus) | 1.10.2-3.1.13 |
 [MouseTweaks](https://minecraft.curseforge.com/projects/mouse-tweaks) | 2.8-mc1.10.2 |
 [Mystical Agradditions](https://minecraft.curseforge.com/projects/mystical-agradditions) | 1.10.2-1.0.4 | Requires Mystical Agriculture
@@ -65,7 +66,7 @@ Mod | Version | Note
 [PassableLeaves](https://minecraft.curseforge.com/projects/passable-leaves) | 1.10.2-4.1.0.1 |
 [Quark](https://minecraft.curseforge.com/projects/quark) | r1.1-70 | 
 [Better Questing - Quest Book](https://minecraft.curseforge.com/projects/better-questing-quest-book) | 2.1.0-1.10 |
-SimplyJetpacks2-1.10.2-2.1.3.55.jar                                   
+[Simply Jetpacks 2](https://minecraft.curseforge.com/projects/simply-jetpacks-2) | 1.10.2-2.1.3.55 |
 StandardExpansion-2.3.131.jar                                         
 StorageDrawers-1.10.2-3.7.10.jar                                      
 StorageDrawersExtras-1.10-1.1.0.jar                                   
