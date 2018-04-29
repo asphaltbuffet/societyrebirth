@@ -9,9 +9,6 @@ Forge Version: 12.18.3.2511
 
 
 ## Mods Included
-
-![https://img.shields.io/badge/AppleSkin-v1.0.9-green.svg](https://minecraft.curseforge.com/projects/appleskin)
-
 Mod | Version | Note
 --- | ------- | -------
 [Agricraft](https://minecraft.curseforge.com/projects/agricraft) | 2.0.0-0.11.0-a21 | 
