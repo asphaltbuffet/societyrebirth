@@ -11,6 +11,7 @@ Forge Version: 12.18.3.2511
 ## Mods Included
 Mod | Version | Note
 --- | ------- | -------
+[AppleSkin](https://minecraft.curseforge.com/projects/appleskin) | 1.0.9 |
 [Agricraft](https://minecraft.curseforge.com/projects/agricraft) | 2.0.0-0.11.0-a21 | 
 [AutoRegLib](https://minecraft.curseforge.com/projects/autoreglib) | 1.0-2 | D (Quark)
 [Baubles](https://minecraft.curseforge.com/projects/baubles) | 1.10.2-1.3.13 | D 
