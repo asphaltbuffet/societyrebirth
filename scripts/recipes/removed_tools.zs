@@ -1,3 +1,45 @@
+// ===== AXES =====
+
+// VANILLA
+recipes.remove(<minecraft:wooden_axe>);
+recipes.remove(<minecraft:stone_axe>);
+recipes.remove(<minecraft:iron_axe>);
+recipes.remove(<minecraft:golden_axe>);
+recipes.remove(<minecraft:diamond_axe>);
+
+// BOP
+recipes.remove(<biomesoplenty:mud_axe>);
+
+// MEKANISM
+recipes.remove(<mekanismtools:ObsidianAxe>);
+recipes.remove(<mekanismtools:LapisLazuliAxe>);
+recipes.remove(<mekanismtools:OsmiumAxe>);
+recipes.remove(<mekanismtools:BronzeAxe>);
+recipes.remove(<mekanismtools:GlowstoneAxe>);
+recipes.remove(<mekanismtools:SteelAxe>);
+
+// MYSTICAL AGRICULTURE
+recipes.remove(<mysticalagriculture:inferium_axe>);
+recipes.remove(<mysticalagriculture:prudentium_axe>);
+recipes.remove(<mysticalagriculture:intermedium_axe>);
+recipes.remove(<mysticalagriculture:superium_axe>);
+recipes.remove(<mysticalagriculture:supremium_axe>);
+recipes.remove(<mysticalagriculture:supremium_axe_aoe>);
+
+// THERMAL FOUNDATION
+recipes.remove(<thermalfoundation:tool.axe_copper>);
+recipes.remove(<thermalfoundation:tool.axe_tin>);
+recipes.remove(<thermalfoundation:tool.axe_silver>);
+recipes.remove(<thermalfoundation:tool.axe_lead>);
+recipes.remove(<thermalfoundation:tool.axe_aluminum>);
+recipes.remove(<thermalfoundation:tool.axe_nickel>);
+recipes.remove(<thermalfoundation:tool.axe_platinum>);
+recipes.remove(<thermalfoundation:tool.axe_steel>);
+recipes.remove(<thermalfoundation:tool.axe_electrum>);
+recipes.remove(<thermalfoundation:tool.axe_invar>);
+recipes.remove(<thermalfoundation:tool.axe_bronze>);
+recipes.remove(<thermalfoundation:tool.axe_constantan>);
+
 // ===== PICKAXES =====
 
 // VANILLA
