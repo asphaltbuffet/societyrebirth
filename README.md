@@ -48,7 +48,6 @@ Mod | Version | Note
 [JourneyMap](https://minecraft.curseforge.com/projects/journeymap) | 1.10.2-5.5.2 |
 [Just Enough Resources (JER)](https://minecraft.curseforge.com/projects/just-enough-resources-jer) | 1.10.2-0.5.8.98 |
 [Light Level Overlay Reloaded](https://minecraft.curseforge.com/projects/light-level-overlay-reloaded) | 1.1.1-mc[1.9-1.11] |
-[LootBags](https://minecraft.curseforge.com/projects/lootbags) | 1.10.2-2.5.0 |
 [The Lost Cities](https://minecraft.curseforge.com/projects/the-lost-cities) | 1.1x-1.0.2 |
 [MalisisCore](https://minecraft.curseforge.com/projects/malisiscore) | 1.10.2-4.4.0 |
 [MalisisDoors](https://minecraft.curseforge.com/projects/malisisdoors) | 1.10.2-5.2.0 |
@@ -67,11 +66,9 @@ Mod | Version | Note
 [PassableLeaves](https://minecraft.curseforge.com/projects/passable-leaves) | 1.10.2-4.1.0.1 |
 [Quark](https://minecraft.curseforge.com/projects/quark) | r1.1-70 | 
 [Better Questing - Quest Book](https://minecraft.curseforge.com/projects/better-questing-quest-book) | 2.1.0-1.10 |
-[Simply Jetpacks 2](https://minecraft.curseforge.com/projects/simply-jetpacks-2) | 1.10.2-2.1.3.55 |
-StandardExpansion-2.3.131.jar                                         
+[StandardExpansion](https://minecraft.curseforge.com/projects/better-questing-standard-expansion) | 2.3.131 |
 StorageDrawers-1.10.2-3.7.10.jar                                      
 StorageDrawersExtras-1.10-1.1.0.jar                                   
-[TAIGA (Tinkers alloying addon)](https://minecraft.curseforge.com/projects/taiga-tinkers-alloying-addon) | 1.10.2-1.2.6 |
 [Tinkers' Construct](https://minecraft.curseforge.com/projects/tinkers-construct) | 1.10.2-2.6.5 |
 [Tinkers Tool Leveling](https://minecraft.curseforge.com/projects/tinkers-tool-leveling) | 1.10.2-1.0.1 | 
 tinker_io-1.10.2-release 2.4.4b.jar                                   
