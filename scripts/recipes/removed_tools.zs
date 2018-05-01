@@ -1,3 +1,18 @@
+// ===== PAXELS =====
+
+// MEKANISM
+recipes.remove(<mekanismtools:WoodPaxel>);
+recipes.remove(<mekanismtools:StonePaxel>);
+recipes.remove(<mekanismtools:IronPaxel>);
+recipes.remove(<mekanismtools:DiamondPaxel>);
+recipes.remove(<mekanismtools:GoldPaxel>);
+recipes.remove(<mekanismtools:ObsidianPaxel>);
+recipes.remove(<mekanismtools:LapisLazuliPaxel>);
+recipes.remove(<mekanismtools:OsmiumPaxel>);
+recipes.remove(<mekanismtools:BronzePaxel>);
+recipes.remove(<mekanismtools:GlowstonePaxel>);
+recipes.remove(<mekanismtools:SteelPaxel>);
+
 // ===== AXES =====
 
 // VANILLA
