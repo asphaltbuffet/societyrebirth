@@ -1,3 +1,45 @@
+// ===== HOES =====
+
+// VANILLA
+recipes.remove(<minecraft:wooden_hoe>);
+recipes.remove(<minecraft:stone_hoe>);
+recipes.remove(<minecraft:iron_hoe>);
+recipes.remove(<minecraft:golden_hoe>);
+recipes.remove(<minecraft:diamond_hoe>);
+
+// BOP
+recipes.remove(<biomesoplenty:mud_hoe>);
+
+// MEKANISM
+recipes.remove(<mekanismtools:ObsidianHoe>);
+recipes.remove(<mekanismtools:LapisLazuliHoe>);
+recipes.remove(<mekanismtools:OsmiumHoe>);
+recipes.remove(<mekanismtools:BronzeHoe>);
+recipes.remove(<mekanismtools:GlowstoneHoe>);
+recipes.remove(<mekanismtools:SteelHoe>);
+
+// MYSTICAL AGRICULTURE
+recipes.remove(<mysticalagriculture:inferium_hoe>);
+recipes.remove(<mysticalagriculture:prudentium_hoe>);
+recipes.remove(<mysticalagriculture:intermedium_hoe>);
+recipes.remove(<mysticalagriculture:superium_hoe>);
+recipes.remove(<mysticalagriculture:supremium_hoe>);
+recipes.remove(<mysticalagriculture:supremium_hoe_aoe>);
+
+// THERMAL FOUNDATION
+recipes.remove(<thermalfoundation:tool.hoe_copper>);
+recipes.remove(<thermalfoundation:tool.hoe_tin>);
+recipes.remove(<thermalfoundation:tool.hoe_silver>);
+recipes.remove(<thermalfoundation:tool.hoe_lead>);
+recipes.remove(<thermalfoundation:tool.hoe_aluminum>);
+recipes.remove(<thermalfoundation:tool.hoe_nickel>);
+recipes.remove(<thermalfoundation:tool.hoe_platinum>);
+recipes.remove(<thermalfoundation:tool.hoe_steel>);
+recipes.remove(<thermalfoundation:tool.hoe_electrum>);
+recipes.remove(<thermalfoundation:tool.hoe_invar>);
+recipes.remove(<thermalfoundation:tool.hoe_bronze>);
+recipes.remove(<thermalfoundation:tool.hoe_constantan>);
+
 // ===== PAXELS =====
 
 // MEKANISM
