@@ -1,3 +1,46 @@
+// ===== PICKAXES =====
+
+// VANILLA
+recipes.remove(<minecraft:wooden_pickaxe>);
+recipes.remove(<minecraft:stone_pickaxe>);
+recipes.remove(<minecraft:iron_pickaxe>);
+recipes.remove(<minecraft:golden_pickaxe>);
+recipes.remove(<minecraft:diamond_pickaxe>);
+
+// BOP
+recipes.remove(<biomesoplenty:mud_pickaxe>);
+
+// MEKANISM
+recipes.remove(<mekanismtools:ObsidianPickaxe>);
+recipes.remove(<mekanismtools:LapisLazuliPickaxe>);
+recipes.remove(<mekanismtools:OsmiumPickaxe>);
+recipes.remove(<mekanismtools:BronzePickaxe>);
+recipes.remove(<mekanismtools:GlowstonePickaxe>);
+recipes.remove(<mekanismtools:SteelPickaxe>);
+
+// MYSTICAL AGRICULTURE
+recipes.remove(<mysticalagriculture:inferium_pickaxe>);
+recipes.remove(<mysticalagriculture:prudentium_pickaxe>);
+recipes.remove(<mysticalagriculture:intermedium_pickaxe>);
+recipes.remove(<mysticalagriculture:superium_pickaxe>);
+recipes.remove(<mysticalagriculture:supremium_pickaxe>);
+recipes.remove(<mysticalagriculture:supremium_pickaxe_miners>);
+recipes.remove(<mysticalagriculture:supremium_pickaxe_aoe>);
+
+// THERMAL FOUNDATION
+recipes.remove(<thermalfoundation:tool.pickaxe_copper>);
+recipes.remove(<thermalfoundation:tool.pickaxe_tin>);
+recipes.remove(<thermalfoundation:tool.pickaxe_silver>);
+recipes.remove(<thermalfoundation:tool.pickaxe_lead>);
+recipes.remove(<thermalfoundation:tool.pickaxe_aluminum>);
+recipes.remove(<thermalfoundation:tool.pickaxe_nickel>);
+recipes.remove(<thermalfoundation:tool.pickaxe_platinum>);
+recipes.remove(<thermalfoundation:tool.pickaxe_steel>);
+recipes.remove(<thermalfoundation:tool.pickaxe_electrum>);
+recipes.remove(<thermalfoundation:tool.pickaxe_invar>);
+recipes.remove(<thermalfoundation:tool.pickaxe_bronze>);
+recipes.remove(<thermalfoundation:tool.pickaxe_constantan>);
+
 // ===== SWORDS =====
 
 // VANILLA
