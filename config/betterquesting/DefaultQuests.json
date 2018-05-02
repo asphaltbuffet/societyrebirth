@@ -7,7 +7,7 @@
       "home_anchor_x": 0.5,
       "hardcore": false,
       "home_image": "betterquesting:textures/gui/default_title.png",
-      "editMode": true,
+      "editMode": false,
       "home_offset_x": -128,
       "home_offset_y": 0
     }
@@ -54,9 +54,15 @@
               "Damage": 0
             },
             {
-              "id": "minecraft:stone",
-              "Count": 24,
-              "OreDict": "",
+              "id": "minecraft:cobblestone",
+              "Count": 1,
+              "OreDict": "cobblestone",
+              "Damage": 0
+            },
+            {
+              "id": "minecraft:wool",
+              "Count": 3,
+              "OreDict": "blockWool",
               "Damage": 0
             }
           ],
@@ -70,6 +76,12 @@
             {
               "id": "minecraft:spruce_door",
               "Count": 1,
+              "OreDict": "",
+              "Damage": 0
+            },
+            {
+              "id": "tconstruct:stone_torch",
+              "Count": 16,
               "OreDict": "",
               "Damage": 0
             }
@@ -133,7 +145,7 @@
         }
       ],
       "preRequisites": [
-        0
+        3
       ],
       "questID": 1
     },
@@ -193,7 +205,7 @@
         }
       ],
       "preRequisites": [
-        0
+        3
       ],
       "questID": 2
     },
@@ -203,7 +215,7 @@
           "snd_complete": "minecraft:entity.player.levelup",
           "taskLogic": "AND",
           "partySingleReward": false,
-          "isMain": false,
+          "isMain": true,
           "simultaneous": false,
           "icon": {
             "id": "minecraft:crafting_table",
@@ -843,6 +855,1047 @@
         6
       ],
       "questID": 9
+    },
+    {
+      "properties": {
+        "betterquesting": {
+          "snd_complete": "minecraft:entity.player.levelup",
+          "taskLogic": "AND",
+          "partySingleReward": false,
+          "isMain": true,
+          "simultaneous": false,
+          "icon": {
+            "id": "minecraft:diamond_pickaxe",
+            "Count": 1,
+            "OreDict": "",
+            "Damage": 0
+          },
+          "snd_update": "minecraft:entity.player.levelup",
+          "repeatTime": -1,
+          "globalShare": false,
+          "questLogic": "AND",
+          "name": "A lever to move the world.",
+          "lockedProgress": false,
+          "autoClaim": false,
+          "isSilent": false,
+          "desc": "Without tools, you will die. Here is a start. It\u0027s dangerous out there. Use them and return. I will show you more ways to use the world to give you better tools."
+        }
+      },
+      "tasks": [
+        {
+          "taskID": "bq_standard:checkbox",
+          "index": 0
+        }
+      ],
+      "rewards": [
+        {
+          "rewards": [
+            {
+              "id": "tconstruct:pickaxe",
+              "Count": 1,
+              "OreDict": "",
+              "Damage": 0,
+              "tag": {
+                "StatsOriginal:10": {
+                  "AttackSpeedMultiplier:5": 1.0,
+                  "MiningSpeed:5": 2.0,
+                  "FreeModifiers:3": 3,
+                  "Durability:3": 75,
+                  "HarvestLevel:3": 0,
+                  "Attack:5": 2.0
+                },
+                "Special:10": {
+                  "Categories:9": {
+                    "8": "tool"
+                  }
+                },
+                "Stats:10": {
+                  "AttackSpeedMultiplier:5": 1.0,
+                  "MiningSpeed:5": 2.0,
+                  "FreeModifiers:3": 3,
+                  "Durability:3": 75,
+                  "HarvestLevel:3": 0,
+                  "Attack:5": 2.0
+                },
+                "TinkerData:10": {
+                  "Materials:9": {
+                    "8": "wood"
+                  },
+                  "Modifiers:9": {
+                    "8": "toolleveling"
+                  }
+                },
+                "Traits:9": {
+                  "8": "toolleveling"
+                },
+                "Modifiers:9": {
+                  "10": {
+                    "identifier:8": "toolleveling",
+                    "color:3": 16777215,
+                    "level:3": 1
+                  }
+                }
+              }
+            },
+            {
+              "id": "tconstruct:hatchet",
+              "Count": 1,
+              "OreDict": "",
+              "Damage": 0,
+              "tag": {
+                "StatsOriginal:10": {
+                  "AttackSpeedMultiplier:5": 1.0,
+                  "MiningSpeed:5": 2.0,
+                  "FreeModifiers:3": 3,
+                  "Durability:3": 75,
+                  "HarvestLevel:3": 0,
+                  "Attack:5": 2.5
+                },
+                "Special:10": {
+                  "Categories:9": {
+                    "8": "weapon"
+                  }
+                },
+                "Stats:10": {
+                  "AttackSpeedMultiplier:5": 1.0,
+                  "MiningSpeed:5": 2.0,
+                  "FreeModifiers:3": 3,
+                  "Durability:3": 75,
+                  "HarvestLevel:3": 0,
+                  "Attack:5": 2.5
+                },
+                "TinkerData:10": {
+                  "Materials:9": {
+                    "8": "wood"
+                  },
+                  "Modifiers:9": {
+                    "8": "toolleveling"
+                  }
+                },
+                "Traits:9": {
+                  "8": "toolleveling"
+                },
+                "Modifiers:9": {
+                  "10": {
+                    "identifier:8": "toolleveling",
+                    "color:3": 16777215,
+                    "level:3": 1
+                  }
+                }
+              }
+            },
+            {
+              "id": "tconstruct:broadsword",
+              "Count": 1,
+              "OreDict": "",
+              "Damage": 0,
+              "tag": {
+                "StatsOriginal:10": {
+                  "AttackSpeedMultiplier:5": 1.0,
+                  "MiningSpeed:5": 2.0,
+                  "FreeModifiers:3": 3,
+                  "Durability:3": 82,
+                  "HarvestLevel:3": 0,
+                  "Attack:5": 3.0
+                },
+                "Special:10": {
+                  "Categories:9": {
+                    "8": "weapon"
+                  }
+                },
+                "Stats:10": {
+                  "AttackSpeedMultiplier:5": 1.0,
+                  "MiningSpeed:5": 2.0,
+                  "FreeModifiers:3": 3,
+                  "Durability:3": 82,
+                  "HarvestLevel:3": 0,
+                  "Attack:5": 3.0
+                },
+                "TinkerData:10": {
+                  "Materials:9": {
+                    "8": "wood"
+                  },
+                  "Modifiers:9": {
+                    "8": "toolleveling"
+                  }
+                },
+                "Traits:9": {
+                  "8": "toolleveling"
+                },
+                "Modifiers:9": {
+                  "10": {
+                    "identifier:8": "toolleveling",
+                    "color:3": 16777215,
+                    "level:3": 1
+                  }
+                }
+              }
+            }
+          ],
+          "rewardID": "bq_standard:item",
+          "index": 0
+        }
+      ],
+      "preRequisites": [],
+      "questID": 10
+    },
+    {
+      "properties": {
+        "betterquesting": {
+          "snd_complete": "minecraft:entity.player.levelup",
+          "taskLogic": "AND",
+          "partySingleReward": false,
+          "visibility": "CHAIN",
+          "isMain": true,
+          "simultaneous": false,
+          "icon": {
+            "id": "tconstruct:tooltables",
+            "Count": 1,
+            "OreDict": "",
+            "Damage": 1,
+            "tag": {
+              "textureBlock:10": {
+                "id:8": "minecraft:planks",
+                "Count:1": 1,
+                "Damage:2": 0
+              }
+            }
+          },
+          "snd_update": "minecraft:entity.player.levelup",
+          "repeatTime": -1,
+          "globalShare": false,
+          "questLogic": "AND",
+          "name": "Tinkering",
+          "lockedProgress": false,
+          "autoClaim": false,
+          "isSilent": false,
+          "desc": "No Description"
+        }
+      },
+      "tasks": [
+        {
+          "partialMatch": true,
+          "ignoreNBT": false,
+          "consume": false,
+          "groupDetect": false,
+          "autoConsume": false,
+          "requiredItems": [
+            {
+              "id": "tconstruct:tooltables",
+              "Count": 1,
+              "OreDict": "",
+              "Damage": 1,
+              "tag": {
+                "textureBlock:10": {
+                  "id:8": "minecraft:planks",
+                  "Count:1": 1,
+                  "Damage:2": 0
+                }
+              }
+            },
+            {
+              "id": "tconstruct:tooltables",
+              "Count": 1,
+              "OreDict": "",
+              "Damage": 2,
+              "tag": {
+                "textureBlock:10": {
+                  "id:8": "minecraft:log",
+                  "Count:1": 1,
+                  "Damage:2": 0
+                }
+              }
+            },
+            {
+              "id": "tconstruct:tooltables",
+              "Count": 1,
+              "OreDict": "",
+              "Damage": 3
+            },
+            {
+              "id": "tconstruct:tooltables",
+              "Count": 1,
+              "OreDict": "",
+              "Damage": 0
+            }
+          ],
+          "taskID": "bq_standard:retrieval",
+          "index": 0
+        }
+      ],
+      "rewards": [
+        {
+          "rewards": [
+            {
+              "id": "tconstruct:tooltables",
+              "Count": 1,
+              "OreDict": "",
+              "Damage": 4
+            }
+          ],
+          "rewardID": "bq_standard:item",
+          "index": 0
+        }
+      ],
+      "preRequisites": [
+        10
+      ],
+      "questID": 11
+    },
+    {
+      "properties": {
+        "betterquesting": {
+          "snd_complete": "minecraft:entity.player.levelup",
+          "taskLogic": "AND",
+          "partySingleReward": false,
+          "isMain": false,
+          "simultaneous": false,
+          "icon": {
+            "id": "tconstruct:hatchet",
+            "Count": 1,
+            "OreDict": "",
+            "Damage": 75,
+            "tag": {
+              "StatsOriginal:10": {
+                "AttackSpeedMultiplier:5": 1.0,
+                "MiningSpeed:5": 2.0,
+                "FreeModifiers:3": 3,
+                "Durability:3": 75,
+                "HarvestLevel:3": 0,
+                "Attack:5": 2.5
+              },
+              "Special:10": {
+                "Categories:9": {
+                  "8": "tool"
+                }
+              },
+              "Stats:10": {
+                "AttackSpeedMultiplier:5": 1.0,
+                "MiningSpeed:5": 2.0,
+                "FreeModifiers:3": 3,
+                "Durability:3": 75,
+                "HarvestLevel:3": 0,
+                "Attack:5": 2.5,
+                "Broken:1": 1
+              },
+              "TinkerData:10": {
+                "Materials:9": {
+                  "8": "wood"
+                },
+                "Modifiers:9": {
+                  "8": "toolleveling"
+                }
+              },
+              "Traits:9": {
+                "8": "toolleveling"
+              },
+              "Modifiers:9": {
+                "10": {
+                  "identifier:8": "toolleveling",
+                  "color:3": 16777215,
+                  "level:3": 1,
+                  "xp:3": 21,
+                  "bonus_modifiers:3": 0
+                }
+              }
+            }
+          },
+          "snd_update": "minecraft:entity.player.levelup",
+          "repeatTime": -1,
+          "globalShare": false,
+          "questLogic": "AND",
+          "name": "YOU BROKE IT?!",
+          "lockedProgress": false,
+          "autoClaim": false,
+          "isSilent": false,
+          "desc": "No Description"
+        }
+      },
+      "tasks": [
+        {
+          "partialMatch": true,
+          "ignoreNBT": false,
+          "consume": true,
+          "groupDetect": false,
+          "autoConsume": false,
+          "requiredItems": [
+            {
+              "id": "tconstruct:pickaxe",
+              "Count": 1,
+              "OreDict": "",
+              "Damage": 75,
+              "tag": {
+                "StatsOriginal:10": {
+                  "AttackSpeedMultiplier:5": 1.0,
+                  "MiningSpeed:5": 2.0,
+                  "FreeModifiers:3": 3,
+                  "Durability:3": 75,
+                  "HarvestLevel:3": 0,
+                  "Attack:5": 2.0
+                },
+                "Special:10": {
+                  "Categories:9": {
+                    "8": "tool"
+                  }
+                },
+                "Stats:10": {
+                  "AttackSpeedMultiplier:5": 1.0,
+                  "MiningSpeed:5": 2.0,
+                  "FreeModifiers:3": 3,
+                  "Durability:3": 75,
+                  "HarvestLevel:3": 0,
+                  "Attack:5": 2.0
+                },
+                "TinkerData:10": {
+                  "Materials:9": {
+                    "8": "wood"
+                  },
+                  "Modifiers:9": {
+                    "8": "toolleveling"
+                  }
+                },
+                "Traits:9": {
+                  "8": "toolleveling"
+                },
+                "Modifiers:9": {
+                  "10": {
+                    "identifier:8": "toolleveling",
+                    "color:3": 16777215,
+                    "level:3": 1
+                  }
+                }
+              }
+            }
+          ],
+          "taskID": "bq_standard:retrieval",
+          "index": 0
+        }
+      ],
+      "rewards": [],
+      "preRequisites": [
+        10
+      ],
+      "questID": 12
+    },
+    {
+      "properties": {
+        "betterquesting": {
+          "snd_complete": "minecraft:entity.player.levelup",
+          "taskLogic": "AND",
+          "partySingleReward": false,
+          "isMain": false,
+          "simultaneous": false,
+          "icon": {
+            "id": "minecraft:lava_bucket",
+            "Count": 1,
+            "OreDict": "",
+            "Damage": 0
+          },
+          "snd_update": "minecraft:entity.player.levelup",
+          "repeatTime": -1,
+          "globalShare": false,
+          "questLogic": "AND",
+          "name": "Fuel",
+          "lockedProgress": false,
+          "autoClaim": false,
+          "isSilent": false,
+          "desc": "No Description"
+        }
+      },
+      "tasks": [
+        {
+          "partialMatch": true,
+          "ignoreNBT": false,
+          "consume": false,
+          "groupDetect": false,
+          "autoConsume": false,
+          "requiredItems": [
+            {
+              "id": "minecraft:lava_bucket",
+              "Count": 1,
+              "OreDict": "",
+              "Damage": 0
+            }
+          ],
+          "taskID": "bq_standard:retrieval",
+          "index": 0
+        }
+      ],
+      "rewards": [],
+      "preRequisites": [
+        14
+      ],
+      "questID": 13
+    },
+    {
+      "properties": {
+        "betterquesting": {
+          "snd_complete": "minecraft:entity.player.levelup",
+          "taskLogic": "AND",
+          "partySingleReward": false,
+          "visibility": "CHAIN",
+          "isMain": true,
+          "simultaneous": false,
+          "icon": {
+            "id": "tconstruct:smeltery_controller",
+            "Count": 1,
+            "OreDict": "",
+            "Damage": 0
+          },
+          "snd_update": "minecraft:entity.player.levelup",
+          "repeatTime": -1,
+          "globalShare": false,
+          "questLogic": "AND",
+          "name": "Metal time",
+          "lockedProgress": false,
+          "autoClaim": false,
+          "isSilent": false,
+          "desc": "No Description"
+        }
+      },
+      "tasks": [
+        {
+          "partialMatch": true,
+          "ignoreNBT": false,
+          "consume": false,
+          "groupDetect": false,
+          "autoConsume": false,
+          "requiredItems": [
+            {
+              "id": "tconstruct:soil",
+              "Count": 64,
+              "OreDict": "",
+              "Damage": 0
+            }
+          ],
+          "taskID": "bq_standard:retrieval",
+          "index": 0
+        }
+      ],
+      "rewards": [],
+      "preRequisites": [
+        10
+      ],
+      "questID": 14
+    },
+    {
+      "properties": {
+        "betterquesting": {
+          "snd_complete": "minecraft:entity.player.levelup",
+          "taskLogic": "AND",
+          "partySingleReward": false,
+          "isMain": true,
+          "simultaneous": false,
+          "icon": {
+            "id": "tconstruct:shortbow",
+            "Count": 1,
+            "OreDict": "",
+            "Damage": 0,
+            "tag": {
+              "StatsOriginal:10": {
+                "AttackSpeedMultiplier:5": 1.0,
+                "DrawSpeed:5": 1.0,
+                "MiningSpeed:5": 2.0,
+                "ProjectileBonusDamage:5": 0.0,
+                "FreeModifiers:3": 3,
+                "Durability:3": 35,
+                "HarvestLevel:3": 0,
+                "Attack:5": 2.0,
+                "Range:5": 1.0
+              },
+              "Special:10": {
+                "Categories:9": {
+                  "8": "tool"
+                }
+              },
+              "Stats:10": {
+                "AttackSpeedMultiplier:5": 1.0,
+                "DrawSpeed:5": 1.0,
+                "MiningSpeed:5": 2.0,
+                "ProjectileBonusDamage:5": 0.0,
+                "FreeModifiers:3": 3,
+                "Durability:3": 35,
+                "HarvestLevel:3": 0,
+                "Attack:5": 2.0,
+                "Range:5": 1.0
+              },
+              "TinkerData:10": {
+                "Materials:9": {
+                  "8": "string"
+                },
+                "Modifiers:9": {
+                  "8": "toolleveling"
+                }
+              },
+              "Traits:9": {
+                "8": "toolleveling"
+              },
+              "Modifiers:9": {
+                "10": {
+                  "identifier:8": "toolleveling",
+                  "color:3": 16777215,
+                  "level:3": 1
+                }
+              }
+            }
+          },
+          "snd_update": "minecraft:entity.player.levelup",
+          "repeatTime": -1,
+          "globalShare": false,
+          "questLogic": "AND",
+          "name": "Fight!",
+          "lockedProgress": false,
+          "autoClaim": false,
+          "isSilent": false,
+          "desc": "No Description"
+        }
+      },
+      "tasks": [
+        {
+          "partialMatch": true,
+          "ignoreNBT": false,
+          "consume": false,
+          "groupDetect": false,
+          "autoConsume": false,
+          "requiredItems": [
+            {
+              "id": "tconstruct:cross_guard",
+              "Count": 1,
+              "OreDict": "",
+              "Damage": 0,
+              "tag": {
+                "Material:8": "wood"
+              }
+            },
+            {
+              "id": "tconstruct:sword_blade",
+              "Count": 1,
+              "OreDict": "",
+              "Damage": 0,
+              "tag": {
+                "Material:8": "flint"
+              }
+            },
+            {
+              "id": "tconstruct:tool_rod",
+              "Count": 1,
+              "OreDict": "",
+              "Damage": 0,
+              "tag": {
+                "Material:8": "wood"
+              }
+            }
+          ],
+          "taskID": "bq_standard:retrieval",
+          "index": 0
+        }
+      ],
+      "rewards": [
+        {
+          "rewards": [
+            {
+              "id": "bibliocraft:SwordPedestal",
+              "Count": 1,
+              "OreDict": "",
+              "Damage": 4
+            },
+            {
+              "id": "minecraft:shield",
+              "Count": 1,
+              "OreDict": "",
+              "Damage": 0
+            }
+          ],
+          "rewardID": "bq_standard:item",
+          "index": 0
+        }
+      ],
+      "preRequisites": [
+        16
+      ],
+      "questID": 15
+    },
+    {
+      "properties": {
+        "betterquesting": {
+          "snd_complete": "minecraft:entity.player.levelup",
+          "taskLogic": "AND",
+          "partySingleReward": false,
+          "visibility": "CHAIN",
+          "isMain": true,
+          "simultaneous": false,
+          "icon": {
+            "id": "tconstruct:mattock",
+            "Count": 1,
+            "OreDict": "",
+            "Damage": 0,
+            "tag": {
+              "StatsOriginal:10": {
+                "AttackSpeedMultiplier:5": 1.0,
+                "HarvestLevelAxe:3": 0,
+                "MiningSpeed:5": 2.0,
+                "FreeModifiers:3": 3,
+                "HarvestLevelShovel:3": 0,
+                "Durability:3": 60,
+                "HarvestLevel:3": 0,
+                "Attack:5": 5.0
+              },
+              "Special:10": {
+                "Categories:9": {
+                  "8": "tool"
+                }
+              },
+              "Stats:10": {
+                "AttackSpeedMultiplier:5": 1.0,
+                "HarvestLevelAxe:3": 0,
+                "MiningSpeed:5": 2.0,
+                "FreeModifiers:3": 3,
+                "HarvestLevelShovel:3": 0,
+                "Durability:3": 60,
+                "HarvestLevel:3": 0,
+                "Attack:5": 5.0
+              },
+              "TinkerData:10": {
+                "Materials:9": {
+                  "8": "wood"
+                },
+                "Modifiers:9": {
+                  "8": "toolleveling"
+                }
+              },
+              "Traits:9": {
+                "8": "toolleveling"
+              },
+              "Modifiers:9": {
+                "10": {
+                  "identifier:8": "toolleveling",
+                  "color:3": 16777215,
+                  "level:3": 1
+                }
+              }
+            }
+          },
+          "snd_update": "minecraft:entity.player.levelup",
+          "repeatTime": -1,
+          "globalShare": false,
+          "questLogic": "AND",
+          "name": "New Tools",
+          "lockedProgress": false,
+          "autoClaim": false,
+          "isSilent": false,
+          "desc": "No Description"
+        }
+      },
+      "tasks": [
+        {
+          "partialMatch": true,
+          "ignoreNBT": false,
+          "consume": false,
+          "groupDetect": false,
+          "autoConsume": false,
+          "requiredItems": [
+            {
+              "id": "tconstruct:axe_head",
+              "Count": 1,
+              "OreDict": "",
+              "Damage": 0,
+              "tag": {
+                "Material:8": "wood"
+              }
+            },
+            {
+              "id": "tconstruct:shovel_head",
+              "Count": 1,
+              "OreDict": "",
+              "Damage": 0,
+              "tag": {
+                "Material:8": "wood"
+              }
+            },
+            {
+              "id": "tconstruct:tool_rod",
+              "Count": 1,
+              "OreDict": "",
+              "Damage": 0,
+              "tag": {
+                "Material:8": "wood"
+              }
+            },
+            {
+              "id": "tconstruct:binding",
+              "Count": 1,
+              "OreDict": "",
+              "Damage": 0,
+              "tag": {
+                "Material:8": "wood"
+              }
+            }
+          ],
+          "taskID": "bq_standard:retrieval",
+          "index": 0
+        }
+      ],
+      "rewards": [
+        {
+          "rewards": [
+            {
+              "id": "tconstruct:tooltables",
+              "Count": 1,
+              "OreDict": "",
+              "Damage": 5
+            }
+          ],
+          "rewardID": "bq_standard:item",
+          "index": 0
+        }
+      ],
+      "preRequisites": [
+        11
+      ],
+      "questID": 16
+    },
+    {
+      "properties": {
+        "betterquesting": {
+          "snd_complete": "minecraft:entity.player.levelup",
+          "taskLogic": "AND",
+          "partySingleReward": false,
+          "visibility": "CHAIN",
+          "isMain": true,
+          "simultaneous": false,
+          "icon": {
+            "id": "tconstruct:clay_cast",
+            "Count": 1,
+            "OreDict": "",
+            "Damage": 0,
+            "tag": {
+              "PartType:8": "tconstruct:axe_head"
+            }
+          },
+          "snd_update": "minecraft:entity.player.levelup",
+          "repeatTime": -1,
+          "globalShare": false,
+          "questLogic": "AND",
+          "name": "Casting",
+          "lockedProgress": false,
+          "autoClaim": false,
+          "isSilent": false,
+          "desc": "No Description"
+        }
+      },
+      "tasks": [
+        {
+          "partialMatch": true,
+          "ignoreNBT": false,
+          "consume": false,
+          "groupDetect": false,
+          "autoConsume": false,
+          "requiredItems": [
+            {
+              "id": "minecraft:clay_ball",
+              "Count": 12,
+              "OreDict": "itemClay",
+              "Damage": 0
+            }
+          ],
+          "taskID": "bq_standard:retrieval",
+          "index": 0
+        }
+      ],
+      "rewards": [],
+      "preRequisites": [
+        13
+      ],
+      "questID": 17
+    },
+    {
+      "properties": {
+        "betterquesting": {
+          "snd_complete": "minecraft:entity.player.levelup",
+          "taskLogic": "AND",
+          "partySingleReward": false,
+          "visibility": "CHAIN",
+          "isMain": false,
+          "simultaneous": false,
+          "icon": {
+            "id": "mekanism:Ingot",
+            "Count": 1,
+            "OreDict": "",
+            "Damage": 2
+          },
+          "snd_update": "minecraft:entity.player.levelup",
+          "repeatTime": -1,
+          "globalShare": false,
+          "questLogic": "AND",
+          "name": "Alloys",
+          "lockedProgress": false,
+          "autoClaim": false,
+          "isSilent": false,
+          "desc": "No Description"
+        }
+      },
+      "tasks": [
+        {
+          "partialMatch": true,
+          "ignoreNBT": false,
+          "consume": true,
+          "groupDetect": false,
+          "autoConsume": false,
+          "requiredItems": [
+            {
+              "id": "mekanism:Ingot",
+              "Count": 1,
+              "OreDict": "ingotBronze",
+              "Damage": 2
+            }
+          ],
+          "taskID": "bq_standard:retrieval",
+          "index": 0
+        }
+      ],
+      "rewards": [],
+      "preRequisites": [
+        17
+      ],
+      "questID": 18
+    },
+    {
+      "properties": {
+        "betterquesting": {
+          "snd_complete": "minecraft:entity.player.levelup",
+          "taskLogic": "AND",
+          "partySingleReward": false,
+          "visibility": "COMPLETED",
+          "isMain": false,
+          "simultaneous": false,
+          "icon": {
+            "id": "tconstruct:cast",
+            "Count": 1,
+            "OreDict": "",
+            "Damage": 0,
+            "tag": {
+              "PartType:8": "tconstruct:axe_head"
+            }
+          },
+          "snd_update": "minecraft:entity.player.levelup",
+          "repeatTime": -1,
+          "globalShare": false,
+          "questLogic": "AND",
+          "name": "Re-usable casts!",
+          "lockedProgress": false,
+          "autoClaim": false,
+          "isSilent": false,
+          "desc": "This material you found is so good, I think we can use it to make a parts cast that will last forever."
+        }
+      },
+      "tasks": [
+        {
+          "partialMatch": true,
+          "ignoreNBT": false,
+          "consume": true,
+          "groupDetect": false,
+          "autoConsume": true,
+          "requiredItems": [
+            {
+              "id": "tconstruct:ingots",
+              "Count": 1,
+              "OreDict": "",
+              "Damage": 5
+            }
+          ],
+          "taskID": "bq_standard:retrieval",
+          "index": 0
+        }
+      ],
+      "rewards": [
+        {
+          "rewards": [
+            {
+              "id": "tconstruct:cast",
+              "Count": 1,
+              "OreDict": "",
+              "Damage": 0,
+              "tag": {
+                "PartType:8": "tconstruct:pick_head"
+              }
+            }
+          ],
+          "rewardID": "bq_standard:item",
+          "index": 0
+        }
+      ],
+      "preRequisites": [
+        17
+      ],
+      "questID": 19
+    },
+    {
+      "properties": {
+        "betterquesting": {
+          "snd_complete": "minecraft:entity.player.levelup",
+          "taskLogic": "AND",
+          "partySingleReward": false,
+          "isMain": true,
+          "simultaneous": false,
+          "icon": {
+            "id": "quark:thatch_stairs",
+            "Count": 1,
+            "OreDict": "",
+            "Damage": 0
+          },
+          "snd_update": "minecraft:entity.player.levelup",
+          "repeatTime": -1,
+          "globalShare": false,
+          "questLogic": "AND",
+          "name": "Home Sweet Home",
+          "lockedProgress": false,
+          "autoClaim": false,
+          "isSilent": false,
+          "desc": "A roof, some walls to keep it up, and a door to be safe. You can now build a home, or at the very least, a place to store your weapons.\n\nFloor:\nCCC\nCCC\nCCC\n\nWalls:\nPPP\nP  P\nP  P\n\nPPP\nP  P\nP  P\n\n  P\n\n  P\n\nRoof:\nS  S\nS  S\nS  S\n\n  T\n  T\n  T"
+        }
+      },
+      "tasks": [
+        {
+          "partialMatch": true,
+          "ignoreNBT": false,
+          "consume": false,
+          "groupDetect": false,
+          "autoConsume": false,
+          "requiredItems": [
+            {
+              "id": "minecraft:cobblestone",
+              "Count": 9,
+              "OreDict": "cobblestone",
+              "Damage": 0
+            },
+            {
+              "id": "minecraft:planks",
+              "Count": 16,
+              "OreDict": "plankWood",
+              "Damage": 0
+            },
+            {
+              "id": "quark:thatch_stairs",
+              "Count": 6,
+              "OreDict": "",
+              "Damage": 0
+            },
+            {
+              "id": "quark:thatch_slab",
+              "Count": 3,
+              "OreDict": "",
+              "Damage": 0
+            }
+          ],
+          "taskID": "bq_standard:retrieval",
+          "index": 0
+        }
+      ],
+      "rewards": [],
+      "preRequisites": [
+        3
+      ],
+      "questID": 20
     }
   ],
   "questLines": [
@@ -858,31 +1911,37 @@
       "quests": [
         {
           "size": 24,
-          "x": -128,
-          "y": 16,
+          "x": -132,
+          "y": 12,
           "id": 0
         },
         {
           "size": 24,
-          "x": -168,
-          "y": 56,
+          "x": -84,
+          "y": 72,
           "id": 1
         },
         {
           "size": 24,
-          "x": -128,
-          "y": 56,
+          "x": -186,
+          "y": 72,
           "id": 2
         },
         {
           "size": 24,
-          "x": -88,
-          "y": 56,
+          "x": -132,
+          "y": 72,
           "id": 3
+        },
+        {
+          "size": 24,
+          "x": -132,
+          "y": 132,
+          "id": 20
         }
       ],
       "lineID": 0,
-      "order": 0
+      "order": 1
     },
     {
       "properties": {
@@ -932,7 +1991,7 @@
         }
       ],
       "lineID": 1,
-      "order": 2
+      "order": 3
     },
     {
       "properties": {
@@ -945,7 +2004,7 @@
       },
       "quests": [],
       "lineID": 2,
-      "order": 1
+      "order": 2
     },
     {
       "properties": {
@@ -958,7 +2017,7 @@
       },
       "quests": [],
       "lineID": 3,
-      "order": 3
+      "order": 4
     },
     {
       "properties": {
@@ -969,9 +2028,70 @@
           "desc": "No Description"
         }
       },
-      "quests": [],
+      "quests": [
+        {
+          "size": 24,
+          "x": -174,
+          "y": 90,
+          "id": 16
+        },
+        {
+          "size": 24,
+          "x": -78,
+          "y": 132,
+          "id": 17
+        },
+        {
+          "size": 24,
+          "x": -78,
+          "y": 174,
+          "id": 18
+        },
+        {
+          "size": 24,
+          "x": -30,
+          "y": 132,
+          "id": 19
+        },
+        {
+          "size": 24,
+          "x": -126,
+          "y": 6,
+          "id": 10
+        },
+        {
+          "size": 24,
+          "x": -174,
+          "y": 48,
+          "id": 11
+        },
+        {
+          "size": 24,
+          "x": -126,
+          "y": 48,
+          "id": 12
+        },
+        {
+          "size": 24,
+          "x": -78,
+          "y": 90,
+          "id": 13
+        },
+        {
+          "size": 24,
+          "x": -78,
+          "y": 48,
+          "id": 14
+        },
+        {
+          "size": 24,
+          "x": -174,
+          "y": 132,
+          "id": 15
+        }
+      ],
       "lineID": 4,
-      "order": 4
+      "order": 0
     }
   ],
   "format": "1.0.0"
