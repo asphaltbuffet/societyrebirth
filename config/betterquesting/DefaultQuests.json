@@ -7,7 +7,7 @@
       "home_anchor_x": 0.5,
       "hardcore": false,
       "home_image": "betterquesting:textures/gui/default_title.png",
-      "editMode": false,
+      "editMode": true,
       "home_offset_x": -128,
       "home_offset_y": 0
     }
@@ -353,17 +353,13 @@
         {
           "rewards": [
             {
-              "id": "mocreatures:amuletbonefull",
+              "id": "openblocks:trophy",
               "Count": 1,
               "OreDict": "",
               "Damage": 0,
-              "tag": {}
-            },
-            {
-              "id": "tconstruct:materials",
-              "Count": 3,
-              "OreDict": "",
-              "Damage": 17
+              "tag": {
+                "entity:8": "Skeleton"
+              }
             }
           ],
           "rewardID": "bq_standard:item",
@@ -416,16 +412,13 @@
         {
           "rewards": [
             {
-              "id": "enderio:itemFrankenSkull",
+              "id": "openblocks:trophy",
               "Count": 1,
               "OreDict": "",
-              "Damage": 0
-            },
-            {
-              "id": "harvestcraft:zombiejerkyitem",
-              "Count": 4,
-              "OreDict": "",
-              "Damage": 0
+              "Damage": 0,
+              "tag": {
+                "entity:8": "Zombie"
+              }
             }
           ],
           "rewardID": "bq_standard:item",
@@ -529,12 +522,6 @@
       "rewards": [
         {
           "rewards": [
-            {
-              "id": "harvestcraft:spidereyesoupitem",
-              "Count": 3,
-              "OreDict": "",
-              "Damage": 0
-            },
             {
               "id": "openblocks:trophy",
               "Count": 1,
@@ -722,7 +709,7 @@
             },
             {
               "id": "harvestcraft:zombiejerkyitem",
-              "Count": 4,
+              "Count": 24,
               "OreDict": "",
               "Damage": 0
             }
@@ -887,155 +874,7 @@
           "index": 0
         }
       ],
-      "rewards": [
-        {
-          "rewards": [
-            {
-              "id": "tconstruct:pickaxe",
-              "Count": 1,
-              "OreDict": "",
-              "Damage": 0,
-              "tag": {
-                "StatsOriginal:10": {
-                  "AttackSpeedMultiplier:5": 1.0,
-                  "MiningSpeed:5": 2.0,
-                  "FreeModifiers:3": 3,
-                  "Durability:3": 75,
-                  "HarvestLevel:3": 0,
-                  "Attack:5": 2.0
-                },
-                "Special:10": {
-                  "Categories:9": {
-                    "8": "tool"
-                  }
-                },
-                "Stats:10": {
-                  "AttackSpeedMultiplier:5": 1.0,
-                  "MiningSpeed:5": 2.0,
-                  "FreeModifiers:3": 3,
-                  "Durability:3": 75,
-                  "HarvestLevel:3": 0,
-                  "Attack:5": 2.0
-                },
-                "TinkerData:10": {
-                  "Materials:9": {
-                    "8": "wood"
-                  },
-                  "Modifiers:9": {
-                    "8": "toolleveling"
-                  }
-                },
-                "Traits:9": {
-                  "8": "toolleveling"
-                },
-                "Modifiers:9": {
-                  "10": {
-                    "identifier:8": "toolleveling",
-                    "color:3": 16777215,
-                    "level:3": 1
-                  }
-                }
-              }
-            },
-            {
-              "id": "tconstruct:hatchet",
-              "Count": 1,
-              "OreDict": "",
-              "Damage": 0,
-              "tag": {
-                "StatsOriginal:10": {
-                  "AttackSpeedMultiplier:5": 1.0,
-                  "MiningSpeed:5": 2.0,
-                  "FreeModifiers:3": 3,
-                  "Durability:3": 75,
-                  "HarvestLevel:3": 0,
-                  "Attack:5": 2.5
-                },
-                "Special:10": {
-                  "Categories:9": {
-                    "8": "weapon"
-                  }
-                },
-                "Stats:10": {
-                  "AttackSpeedMultiplier:5": 1.0,
-                  "MiningSpeed:5": 2.0,
-                  "FreeModifiers:3": 3,
-                  "Durability:3": 75,
-                  "HarvestLevel:3": 0,
-                  "Attack:5": 2.5
-                },
-                "TinkerData:10": {
-                  "Materials:9": {
-                    "8": "wood"
-                  },
-                  "Modifiers:9": {
-                    "8": "toolleveling"
-                  }
-                },
-                "Traits:9": {
-                  "8": "toolleveling"
-                },
-                "Modifiers:9": {
-                  "10": {
-                    "identifier:8": "toolleveling",
-                    "color:3": 16777215,
-                    "level:3": 1
-                  }
-                }
-              }
-            },
-            {
-              "id": "tconstruct:broadsword",
-              "Count": 1,
-              "OreDict": "",
-              "Damage": 0,
-              "tag": {
-                "StatsOriginal:10": {
-                  "AttackSpeedMultiplier:5": 1.0,
-                  "MiningSpeed:5": 2.0,
-                  "FreeModifiers:3": 3,
-                  "Durability:3": 82,
-                  "HarvestLevel:3": 0,
-                  "Attack:5": 3.0
-                },
-                "Special:10": {
-                  "Categories:9": {
-                    "8": "weapon"
-                  }
-                },
-                "Stats:10": {
-                  "AttackSpeedMultiplier:5": 1.0,
-                  "MiningSpeed:5": 2.0,
-                  "FreeModifiers:3": 3,
-                  "Durability:3": 82,
-                  "HarvestLevel:3": 0,
-                  "Attack:5": 3.0
-                },
-                "TinkerData:10": {
-                  "Materials:9": {
-                    "8": "wood"
-                  },
-                  "Modifiers:9": {
-                    "8": "toolleveling"
-                  }
-                },
-                "Traits:9": {
-                  "8": "toolleveling"
-                },
-                "Modifiers:9": {
-                  "10": {
-                    "identifier:8": "toolleveling",
-                    "color:3": 16777215,
-                    "level:3": 1
-                  }
-                }
-              }
-            }
-          ],
-          "rewardID": "bq_standard:item",
-          "index": 0
-        }
-      ],
+      "rewards": [],
       "preRequisites": [],
       "questID": 10
     },
@@ -1069,7 +908,7 @@
           "lockedProgress": false,
           "autoClaim": false,
           "isSilent": false,
-          "desc": "No Description"
+          "desc": "The tools must be created from their parts. It\u0027s not like you can just put some wood and sticks on a table to get a tool..."
         }
       },
       "tasks": [
@@ -1208,70 +1047,32 @@
           "lockedProgress": false,
           "autoClaim": false,
           "isSilent": false,
-          "desc": "No Description"
+          "desc": "Fixing tools is pretty easy, you can put a few blocks needed to repair it in the tool station with the tool. OR, you create a sharpening stone from the base material for your tool (wooden pickaxe needs a wood sharpening kit) and repair tools on the go. The kits even stack! \n\nHere, I\u0027ll give you a basic kit to test out.\n\nYou can also use these kits to upgrade your tools a bit too..."
         }
       },
       "tasks": [
         {
-          "partialMatch": true,
-          "ignoreNBT": false,
-          "consume": true,
-          "groupDetect": false,
-          "autoConsume": false,
-          "requiredItems": [
-            {
-              "id": "tconstruct:pickaxe",
-              "Count": 1,
-              "OreDict": "",
-              "Damage": 75,
-              "tag": {
-                "StatsOriginal:10": {
-                  "AttackSpeedMultiplier:5": 1.0,
-                  "MiningSpeed:5": 2.0,
-                  "FreeModifiers:3": 3,
-                  "Durability:3": 75,
-                  "HarvestLevel:3": 0,
-                  "Attack:5": 2.0
-                },
-                "Special:10": {
-                  "Categories:9": {
-                    "8": "tool"
-                  }
-                },
-                "Stats:10": {
-                  "AttackSpeedMultiplier:5": 1.0,
-                  "MiningSpeed:5": 2.0,
-                  "FreeModifiers:3": 3,
-                  "Durability:3": 75,
-                  "HarvestLevel:3": 0,
-                  "Attack:5": 2.0
-                },
-                "TinkerData:10": {
-                  "Materials:9": {
-                    "8": "wood"
-                  },
-                  "Modifiers:9": {
-                    "8": "toolleveling"
-                  }
-                },
-                "Traits:9": {
-                  "8": "toolleveling"
-                },
-                "Modifiers:9": {
-                  "10": {
-                    "identifier:8": "toolleveling",
-                    "color:3": 16777215,
-                    "level:3": 1
-                  }
-                }
-              }
-            }
-          ],
-          "taskID": "bq_standard:retrieval",
+          "taskID": "bq_standard:checkbox",
           "index": 0
         }
       ],
-      "rewards": [],
+      "rewards": [
+        {
+          "rewards": [
+            {
+              "id": "tconstruct:sharpening_kit",
+              "Count": 1,
+              "OreDict": "",
+              "Damage": 0,
+              "tag": {
+                "Material:8": "wood"
+              }
+            }
+          ],
+          "rewardID": "bq_standard:item",
+          "index": 0
+        }
+      ],
       "preRequisites": [
         10
       ],
@@ -1283,7 +1084,7 @@
           "snd_complete": "minecraft:entity.player.levelup",
           "taskLogic": "AND",
           "partySingleReward": false,
-          "isMain": false,
+          "isMain": true,
           "simultaneous": false,
           "icon": {
             "id": "minecraft:lava_bucket",
@@ -1350,7 +1151,7 @@
           "lockedProgress": false,
           "autoClaim": false,
           "isSilent": false,
-          "desc": "No Description"
+          "desc": "To get better materials, you need to step up  your game. Let\u0027s create a smeltery to get you started on basic metals and alloys. Cook your grout and we\u0027ll move on to making this structure."
         }
       },
       "tasks": [
@@ -1372,7 +1173,20 @@
           "index": 0
         }
       ],
-      "rewards": [],
+      "rewards": [
+        {
+          "rewards": [
+            {
+              "id": "tconstruct:casting",
+              "Count": 1,
+              "OreDict": "",
+              "Damage": 1
+            }
+          ],
+          "rewardID": "bq_standard:item",
+          "index": 0
+        }
+      ],
       "preRequisites": [
         10
       ],
@@ -1387,57 +1201,10 @@
           "isMain": true,
           "simultaneous": false,
           "icon": {
-            "id": "tconstruct:shortbow",
+            "id": "minecraft:diamond_sword",
             "Count": 1,
             "OreDict": "",
-            "Damage": 0,
-            "tag": {
-              "StatsOriginal:10": {
-                "AttackSpeedMultiplier:5": 1.0,
-                "DrawSpeed:5": 1.0,
-                "MiningSpeed:5": 2.0,
-                "ProjectileBonusDamage:5": 0.0,
-                "FreeModifiers:3": 3,
-                "Durability:3": 35,
-                "HarvestLevel:3": 0,
-                "Attack:5": 2.0,
-                "Range:5": 1.0
-              },
-              "Special:10": {
-                "Categories:9": {
-                  "8": "tool"
-                }
-              },
-              "Stats:10": {
-                "AttackSpeedMultiplier:5": 1.0,
-                "DrawSpeed:5": 1.0,
-                "MiningSpeed:5": 2.0,
-                "ProjectileBonusDamage:5": 0.0,
-                "FreeModifiers:3": 3,
-                "Durability:3": 35,
-                "HarvestLevel:3": 0,
-                "Attack:5": 2.0,
-                "Range:5": 1.0
-              },
-              "TinkerData:10": {
-                "Materials:9": {
-                  "8": "string"
-                },
-                "Modifiers:9": {
-                  "8": "toolleveling"
-                }
-              },
-              "Traits:9": {
-                "8": "toolleveling"
-              },
-              "Modifiers:9": {
-                "10": {
-                  "identifier:8": "toolleveling",
-                  "color:3": 16777215,
-                  "level:3": 1
-                }
-              }
-            }
+            "Damage": 0
           },
           "snd_update": "minecraft:entity.player.levelup",
           "repeatTime": -1,
@@ -1447,7 +1214,7 @@
           "lockedProgress": false,
           "autoClaim": false,
           "isSilent": false,
-          "desc": "No Description"
+          "desc": "The world isn\u0027t going to leave you alone. It\u0027s time to go out and take control. You need better weapons... learn to craft them now!"
         }
       },
       "tasks": [
@@ -1532,32 +1299,32 @@
             "tag": {
               "StatsOriginal:10": {
                 "AttackSpeedMultiplier:5": 1.0,
-                "HarvestLevelAxe:3": 0,
-                "MiningSpeed:5": 2.0,
+                "HarvestLevelAxe:3": 1,
+                "MiningSpeed:5": 0.5,
                 "FreeModifiers:3": 3,
-                "HarvestLevelShovel:3": 0,
-                "Durability:3": 60,
-                "HarvestLevel:3": 0,
-                "Attack:5": 5.0
+                "HarvestLevelShovel:3": 1,
+                "Durability:3": 120,
+                "HarvestLevel:3": 1,
+                "Attack:5": 11.25
               },
               "Special:10": {
                 "Categories:9": {
-                  "8": "tool"
+                  "8": "harvest"
                 }
               },
               "Stats:10": {
                 "AttackSpeedMultiplier:5": 1.0,
-                "HarvestLevelAxe:3": 0,
-                "MiningSpeed:5": 2.0,
+                "HarvestLevelAxe:3": 1,
+                "MiningSpeed:5": 0.5,
                 "FreeModifiers:3": 3,
-                "HarvestLevelShovel:3": 0,
-                "Durability:3": 60,
-                "HarvestLevel:3": 0,
-                "Attack:5": 5.0
+                "HarvestLevelShovel:3": 1,
+                "Durability:3": 120,
+                "HarvestLevel:3": 1,
+                "Attack:5": 11.25
               },
               "TinkerData:10": {
                 "Materials:9": {
-                  "8": "wood"
+                  "8": "xu_demonic_metal"
                 },
                 "Modifiers:9": {
                   "8": "toolleveling"
@@ -1583,7 +1350,7 @@
           "lockedProgress": false,
           "autoClaim": false,
           "isSilent": false,
-          "desc": "No Description"
+          "desc": "Why carry two tools when you can have 1 that does 2 or more jobs?\n\nCheck out the mattock in the tool station to make a handy efficient tool! You can repair it with either tool head material as well."
         }
       },
       "tasks": [
@@ -1896,6 +1663,436 @@
         3
       ],
       "questID": 20
+    },
+    {
+      "properties": {
+        "betterquesting": {
+          "snd_complete": "minecraft:entity.player.levelup",
+          "taskLogic": "AND",
+          "partySingleReward": false,
+          "visibility": "CHAIN",
+          "isMain": false,
+          "simultaneous": false,
+          "icon": {
+            "id": "tconstruct:smeltery_controller",
+            "Count": 1,
+            "OreDict": "",
+            "Damage": 0
+          },
+          "snd_update": "minecraft:entity.player.levelup",
+          "repeatTime": -1,
+          "globalShare": false,
+          "questLogic": "AND",
+          "name": "Bricks and blocks",
+          "lockedProgress": false,
+          "autoClaim": false,
+          "isSilent": false,
+          "desc": "Stick those bricks together to get blocks and parts. We\u0027re almost there!"
+        }
+      },
+      "tasks": [
+        {
+          "partialMatch": true,
+          "ignoreNBT": false,
+          "consume": false,
+          "groupDetect": false,
+          "autoConsume": false,
+          "requiredItems": [
+            {
+              "id": "tconstruct:seared",
+              "Count": 50,
+              "OreDict": "blockSeared",
+              "Damage": 0
+            },
+            {
+              "id": "tconstruct:faucet",
+              "Count": 1,
+              "OreDict": "",
+              "Damage": 0
+            },
+            {
+              "id": "tconstruct:smeltery_io",
+              "Count": 1,
+              "OreDict": "",
+              "Damage": 0
+            },
+            {
+              "id": "tconstruct:seared_tank",
+              "Count": 1,
+              "OreDict": "",
+              "Damage": 0
+            },
+            {
+              "id": "tconstruct:smeltery_controller",
+              "Count": 1,
+              "OreDict": "",
+              "Damage": 0
+            }
+          ],
+          "taskID": "bq_standard:retrieval",
+          "index": 0
+        }
+      ],
+      "rewards": [
+        {
+          "rewards": [
+            {
+              "id": "tconstruct:casting",
+              "Count": 1,
+              "OreDict": "",
+              "Damage": 1
+            }
+          ],
+          "rewardID": "bq_standard:item",
+          "index": 0
+        }
+      ],
+      "preRequisites": [
+        14
+      ],
+      "questID": 21
+    },
+    {
+      "properties": {
+        "betterquesting": {
+          "snd_complete": "minecraft:entity.player.levelup",
+          "taskLogic": "AND",
+          "partySingleReward": false,
+          "isMain": false,
+          "simultaneous": false,
+          "icon": {
+            "id": "minecraft:planks",
+            "Count": 1,
+            "OreDict": "",
+            "Damage": 0
+          },
+          "snd_update": "minecraft:entity.player.levelup",
+          "repeatTime": -1,
+          "globalShare": false,
+          "questLogic": "AND",
+          "name": "Logs to Lumber",
+          "lockedProgress": false,
+          "autoClaim": false,
+          "isSilent": false,
+          "desc": "Get that into a usable state."
+        }
+      },
+      "tasks": [
+        {
+          "partialMatch": true,
+          "ignoreNBT": false,
+          "requiredItems": [
+            {
+              "id": "minecraft:planks",
+              "Count": 16,
+              "OreDict": "plankWood",
+              "Damage": 0
+            }
+          ],
+          "taskID": "bq_standard:crafting",
+          "index": 0
+        }
+      ],
+      "rewards": [],
+      "preRequisites": [
+        0
+      ],
+      "questID": 22
+    },
+    {
+      "properties": {
+        "betterquesting": {
+          "snd_complete": "minecraft:entity.player.levelup",
+          "taskLogic": "AND",
+          "partySingleReward": false,
+          "isMain": false,
+          "simultaneous": false,
+          "icon": {
+            "id": "minecraft:stick",
+            "Count": 1,
+            "OreDict": "",
+            "Damage": 0
+          },
+          "snd_update": "minecraft:entity.player.levelup",
+          "repeatTime": -1,
+          "globalShare": false,
+          "questLogic": "AND",
+          "name": "Even smaller",
+          "lockedProgress": false,
+          "autoClaim": false,
+          "isSilent": false,
+          "desc": "Yes, you have boards, but you COULD have little sticks."
+        }
+      },
+      "tasks": [
+        {
+          "partialMatch": true,
+          "ignoreNBT": false,
+          "requiredItems": [
+            {
+              "id": "minecraft:stick",
+              "Count": 8,
+              "OreDict": "",
+              "Damage": 0
+            }
+          ],
+          "taskID": "bq_standard:crafting",
+          "index": 0
+        }
+      ],
+      "rewards": [],
+      "preRequisites": [
+        22
+      ],
+      "questID": 23
+    },
+    {
+      "properties": {
+        "betterquesting": {
+          "snd_complete": "minecraft:entity.player.levelup",
+          "taskLogic": "AND",
+          "partySingleReward": false,
+          "isMain": true,
+          "simultaneous": false,
+          "icon": {
+            "id": "minecraft:stone",
+            "Count": 1,
+            "OreDict": "",
+            "Damage": 0
+          },
+          "snd_update": "minecraft:entity.player.levelup",
+          "repeatTime": -1,
+          "globalShare": false,
+          "questLogic": "AND",
+          "name": "Get a canary",
+          "lockedProgress": false,
+          "autoClaim": false,
+          "isSilent": false,
+          "desc": "You\u0027ve broken your first block of stone and the depths call to you. Get ready with some torches and a decent pickaxe. You\u0027ll need to find ore to get your mine on."
+        }
+      },
+      "tasks": [
+        {
+          "blocks": [
+            {
+              "blockID": "minecraft:stone",
+              "meta": -1,
+              "nbt": {},
+              "amount": 1,
+              "oreDict": "stone"
+            }
+          ],
+          "taskID": "bq_standard:block_break",
+          "index": 0
+        }
+      ],
+      "rewards": [
+        {
+          "rewards": [
+            {
+              "id": "minecraft:coal",
+              "Count": 8,
+              "OreDict": "",
+              "Damage": 1
+            },
+            {
+              "id": "claybucket:claybucket",
+              "Count": 1,
+              "OreDict": "",
+              "Damage": 1
+            }
+          ],
+          "rewardID": "bq_standard:item",
+          "index": 0
+        }
+      ],
+      "preRequisites": [],
+      "questID": 24
+    },
+    {
+      "properties": {
+        "betterquesting": {
+          "snd_complete": "minecraft:entity.player.levelup",
+          "taskLogic": "AND",
+          "partySingleReward": false,
+          "isMain": true,
+          "simultaneous": false,
+          "icon": {
+            "id": "minecraft:furnace",
+            "Count": 1,
+            "OreDict": "",
+            "Damage": 0
+          },
+          "snd_update": "minecraft:entity.player.levelup",
+          "repeatTime": -1,
+          "globalShare": false,
+          "questLogic": "AND",
+          "name": "Cooking time",
+          "lockedProgress": false,
+          "autoClaim": false,
+          "isSilent": false,
+          "desc": "Yes, you could use this to make food, charcoal, leather... but right now, let\u0027s heat up rocks!"
+        }
+      },
+      "tasks": [
+        {
+          "partialMatch": true,
+          "ignoreNBT": false,
+          "requiredItems": [
+            {
+              "id": "minecraft:furnace",
+              "Count": 1,
+              "OreDict": "",
+              "Damage": 0
+            }
+          ],
+          "taskID": "bq_standard:crafting",
+          "index": 0
+        }
+      ],
+      "rewards": [],
+      "preRequisites": [
+        26
+      ],
+      "questID": 25
+    },
+    {
+      "properties": {
+        "betterquesting": {
+          "snd_complete": "minecraft:entity.player.levelup",
+          "taskLogic": "AND",
+          "partySingleReward": false,
+          "isMain": true,
+          "simultaneous": false,
+          "icon": {
+            "id": "mekanism:OreBlock",
+            "Count": 1,
+            "OreDict": "",
+            "Damage": 1
+          },
+          "snd_update": "minecraft:entity.player.levelup",
+          "repeatTime": -1,
+          "globalShare": false,
+          "questLogic": "AND",
+          "name": "ORE!",
+          "lockedProgress": false,
+          "autoClaim": false,
+          "isSilent": false,
+          "desc": "There seems to be something useful in this stone. Maybe you can cook it out!"
+        }
+      },
+      "tasks": [
+        {
+          "blocks": [
+            {
+              "blockID": "thermalfoundation:ore",
+              "meta": -1,
+              "nbt": {},
+              "amount": 1,
+              "oreDict": "oreCopper"
+            }
+          ],
+          "taskID": "bq_standard:block_break",
+          "index": 0
+        }
+      ],
+      "rewards": [],
+      "preRequisites": [
+        24
+      ],
+      "questID": 26
+    },
+    {
+      "properties": {
+        "betterquesting": {
+          "snd_complete": "minecraft:entity.player.levelup",
+          "taskLogic": "AND",
+          "partySingleReward": false,
+          "isMain": false,
+          "simultaneous": false,
+          "icon": {
+            "id": "thermalfoundation:ore",
+            "Count": 1,
+            "OreDict": "",
+            "Damage": 1
+          },
+          "snd_update": "minecraft:entity.player.levelup",
+          "repeatTime": -1,
+          "globalShare": false,
+          "questLogic": "AND",
+          "name": "ORE!",
+          "lockedProgress": false,
+          "autoClaim": false,
+          "isSilent": false,
+          "desc": "There seems to be something useful in this stone. Maybe you can cook it out!"
+        }
+      },
+      "tasks": [
+        {
+          "blocks": [
+            {
+              "blockID": "thermalfoundation:ore",
+              "meta": -1,
+              "nbt": {},
+              "amount": 1,
+              "oreDict": "oreTin"
+            }
+          ],
+          "taskID": "bq_standard:block_break",
+          "index": 0
+        }
+      ],
+      "rewards": [],
+      "preRequisites": [
+        26
+      ],
+      "questID": 27
+    },
+    {
+      "properties": {
+        "betterquesting": {
+          "snd_complete": "minecraft:entity.player.levelup",
+          "taskLogic": "AND",
+          "partySingleReward": false,
+          "isMain": false,
+          "simultaneous": false,
+          "icon": {
+            "id": "minecraft:iron_ore",
+            "Count": 1,
+            "OreDict": "",
+            "Damage": 0
+          },
+          "snd_update": "minecraft:entity.player.levelup",
+          "repeatTime": -1,
+          "globalShare": false,
+          "questLogic": "AND",
+          "name": "ORE!",
+          "lockedProgress": false,
+          "autoClaim": false,
+          "isSilent": false,
+          "desc": "There seems to be something useful in this stone. Maybe you can cook it out!"
+        }
+      },
+      "tasks": [
+        {
+          "blocks": [
+            {
+              "blockID": "minecraft:iron_ore",
+              "meta": -1,
+              "nbt": {},
+              "amount": 1,
+              "oreDict": "oreIron"
+            }
+          ],
+          "taskID": "bq_standard:block_break",
+          "index": 0
+        }
+      ],
+      "rewards": [],
+      "preRequisites": [
+        27
+      ],
+      "questID": 28
     }
   ],
   "questLines": [
@@ -1923,8 +2120,8 @@
         },
         {
           "size": 24,
-          "x": -186,
-          "y": 72,
+          "x": -84,
+          "y": 108,
           "id": 2
         },
         {
@@ -1938,6 +2135,18 @@
           "x": -132,
           "y": 132,
           "id": 20
+        },
+        {
+          "size": 24,
+          "x": -84,
+          "y": 12,
+          "id": 22
+        },
+        {
+          "size": 24,
+          "x": -36,
+          "y": 12,
+          "id": 23
         }
       ],
       "lineID": 0,
@@ -2015,7 +2224,38 @@
           "desc": "No Description"
         }
       },
-      "quests": [],
+      "quests": [
+        {
+          "size": 24,
+          "x": -126,
+          "y": 12,
+          "id": 24
+        },
+        {
+          "size": 24,
+          "x": -126,
+          "y": 96,
+          "id": 25
+        },
+        {
+          "size": 24,
+          "x": -126,
+          "y": 54,
+          "id": 26
+        },
+        {
+          "size": 24,
+          "x": -84,
+          "y": 54,
+          "id": 27
+        },
+        {
+          "size": 24,
+          "x": -42,
+          "y": 54,
+          "id": 28
+        }
+      ],
       "lineID": 3,
       "order": 4
     },
@@ -2052,6 +2292,12 @@
           "x": -30,
           "y": 132,
           "id": 19
+        },
+        {
+          "size": 24,
+          "x": -30,
+          "y": 48,
+          "id": 21
         },
         {
           "size": 24,
