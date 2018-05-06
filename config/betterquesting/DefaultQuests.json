@@ -1,0 +1,2344 @@
+{
+  "questSettings": {
+    "betterquesting": {
+      "livesMax": 10,
+      "home_anchor_y": 0.0,
+      "livesDef": 3,
+      "home_anchor_x": 0.5,
+      "hardcore": false,
+      "home_image": "betterquesting:textures/gui/default_title.png",
+      "editMode": true,
+      "home_offset_x": -128,
+      "home_offset_y": 0
+    }
+  },
+  "questDatabase": [
+    {
+      "properties": {
+        "betterquesting": {
+          "snd_complete": "minecraft:entity.player.levelup",
+          "taskLogic": "AND",
+          "partySingleReward": false,
+          "visibility": "NORMAL",
+          "isMain": true,
+          "simultaneous": false,
+          "icon": {
+            "id": "minecraft:log",
+            "Count": 1,
+            "OreDict": "",
+            "Damage": 0
+          },
+          "snd_update": "minecraft:entity.player.levelup",
+          "repeatTime": -1,
+          "globalShare": false,
+          "questLogic": "AND",
+          "name": "Building Supplies",
+          "lockedProgress": false,
+          "autoClaim": false,
+          "isSilent": false,
+          "desc": "Welcome, the day is ahead of you, but please work quickly. \n\nYou\u0027ll need someplace to stay during the night. Grab some materials and we\u0027ll try to race the sun."
+        }
+      },
+      "tasks": [
+        {
+          "partialMatch": true,
+          "ignoreNBT": false,
+          "consume": false,
+          "groupDetect": false,
+          "autoConsume": false,
+          "requiredItems": [
+            {
+              "id": "minecraft:log",
+              "Count": 8,
+              "OreDict": "logWood",
+              "Damage": 0
+            },
+            {
+              "id": "minecraft:cobblestone",
+              "Count": 1,
+              "OreDict": "cobblestone",
+              "Damage": 0
+            },
+            {
+              "id": "minecraft:wool",
+              "Count": 3,
+              "OreDict": "blockWool",
+              "Damage": 0
+            }
+          ],
+          "taskID": "bq_standard:retrieval",
+          "index": 0
+        }
+      ],
+      "rewards": [
+        {
+          "rewards": [
+            {
+              "id": "minecraft:spruce_door",
+              "Count": 1,
+              "OreDict": "",
+              "Damage": 0
+            },
+            {
+              "id": "tconstruct:stone_torch",
+              "Count": 16,
+              "OreDict": "",
+              "Damage": 0
+            }
+          ],
+          "rewardID": "bq_standard:item",
+          "index": 0
+        }
+      ],
+      "preRequisites": [],
+      "questID": 0
+    },
+    {
+      "properties": {
+        "betterquesting": {
+          "snd_complete": "minecraft:entity.player.levelup",
+          "taskLogic": "AND",
+          "partySingleReward": false,
+          "isMain": false,
+          "simultaneous": false,
+          "icon": {
+            "id": "minecraft:bed",
+            "Count": 1,
+            "OreDict": "",
+            "Damage": 0
+          },
+          "snd_update": "minecraft:entity.player.levelup",
+          "repeatTime": -1,
+          "globalShare": false,
+          "questLogic": "AND",
+          "name": "Sweet Dreams",
+          "lockedProgress": false,
+          "autoClaim": true,
+          "isSilent": false,
+          "desc": "The best way to get through the night is by trying to forget it. Try to get some sleep. You\u0027ll need your energy tomorrow."
+        }
+      },
+      "tasks": [
+        {
+          "partialMatch": true,
+          "ignoreNBT": false,
+          "requiredItems": [
+            {
+              "id": "quark:colored_bed_item",
+              "Count": 1,
+              "OreDict": "",
+              "Damage": 0
+            }
+          ],
+          "taskID": "bq_standard:crafting",
+          "index": 0
+        }
+      ],
+      "rewards": [
+        {
+          "score": "Reputation",
+          "type": "dummy",
+          "value": 10,
+          "relative": true,
+          "rewardID": "bq_standard:scoreboard",
+          "index": 0
+        }
+      ],
+      "preRequisites": [
+        3
+      ],
+      "questID": 1
+    },
+    {
+      "properties": {
+        "betterquesting": {
+          "snd_complete": "minecraft:entity.player.levelup",
+          "taskLogic": "AND",
+          "partySingleReward": false,
+          "isMain": false,
+          "simultaneous": false,
+          "icon": {
+            "id": "minecraft:chest",
+            "Count": 1,
+            "OreDict": "",
+            "Damage": 0
+          },
+          "snd_update": "minecraft:entity.player.levelup",
+          "repeatTime": -1,
+          "globalShare": false,
+          "questLogic": "AND",
+          "name": "Save your things",
+          "lockedProgress": false,
+          "autoClaim": false,
+          "isSilent": false,
+          "desc": "Make a spot to store stuff"
+        }
+      },
+      "tasks": [
+        {
+          "partialMatch": true,
+          "ignoreNBT": false,
+          "requiredItems": [
+            {
+              "id": "minecraft:chest",
+              "Count": 1,
+              "OreDict": "",
+              "Damage": 0
+            }
+          ],
+          "taskID": "bq_standard:crafting",
+          "index": 0
+        }
+      ],
+      "rewards": [
+        {
+          "rewards": [
+            {
+              "id": "ironchest:woodIronUpgrade",
+              "Count": 1,
+              "OreDict": "",
+              "Damage": 0
+            }
+          ],
+          "rewardID": "bq_standard:item",
+          "index": 0
+        }
+      ],
+      "preRequisites": [
+        3
+      ],
+      "questID": 2
+    },
+    {
+      "properties": {
+        "betterquesting": {
+          "snd_complete": "minecraft:entity.player.levelup",
+          "taskLogic": "AND",
+          "partySingleReward": false,
+          "isMain": true,
+          "simultaneous": false,
+          "icon": {
+            "id": "minecraft:crafting_table",
+            "Count": 1,
+            "OreDict": "",
+            "Damage": 0
+          },
+          "snd_update": "minecraft:entity.player.levelup",
+          "repeatTime": -1,
+          "globalShare": false,
+          "questLogic": "AND",
+          "name": "Build it!",
+          "lockedProgress": false,
+          "autoClaim": false,
+          "isSilent": false,
+          "desc": "You\u0027ll need a surface to make more interesting things."
+        }
+      },
+      "tasks": [
+        {
+          "partialMatch": true,
+          "ignoreNBT": false,
+          "requiredItems": [
+            {
+              "id": "minecraft:crafting_table",
+              "Count": 1,
+              "OreDict": "craftingTableWood",
+              "Damage": 0
+            }
+          ],
+          "taskID": "bq_standard:crafting",
+          "index": 0
+        }
+      ],
+      "rewards": [],
+      "preRequisites": [
+        0
+      ],
+      "questID": 3
+    },
+    {
+      "properties": {
+        "betterquesting": {
+          "snd_complete": "minecraft:entity.player.levelup",
+          "taskLogic": "AND",
+          "partySingleReward": false,
+          "visibility": "UNLOCKED",
+          "isMain": false,
+          "simultaneous": false,
+          "icon": {
+            "id": "openblocks:trophy",
+            "Count": 1,
+            "OreDict": "",
+            "Damage": 0,
+            "tag": {
+              "entity:8": "Skeleton"
+            }
+          },
+          "snd_update": "minecraft:entity.player.levelup",
+          "repeatTime": -1,
+          "globalShare": false,
+          "questLogic": "AND",
+          "name": "Bone Cracker",
+          "lockedProgress": false,
+          "autoClaim": false,
+          "isSilent": false,
+          "desc": "Killing skeletons"
+        }
+      },
+      "tasks": [
+        {
+          "target": "Skeleton",
+          "required": 25,
+          "subtypes": true,
+          "ignoreNBT": true,
+          "targetNBT": {
+            "HurtByTimestamp:3": 0,
+            "ForgeData:10": {},
+            "Attributes:9": {
+              "10": {
+                "Base:6": 2.0,
+                "Name:8": "generic.attackDamage"
+              }
+            },
+            "Invulnerable:1": 0,
+            "FallFlying:1": 0,
+            "PortalCooldown:3": 0,
+            "AbsorptionAmount:5": 0.0,
+            "FallDistance:5": 0.0,
+            "DeathTime:2": 0,
+            "SkeletonType:1": 0,
+            "HandDropChances:9": {
+              "5": 0.085
+            },
+            "ForgeCaps:10": {
+              "tinkertoolleveling:entityxp:9": {}
+            },
+            "PersistenceRequired:1": 0,
+            "id:8": "Skeleton",
+            "Motion:9": {
+              "6": 0.0
+            },
+            "Leashed:1": 0,
+            "UUIDLeast:4": -6658154129515719340,
+            "Health:5": 20.0,
+            "LeftHanded:1": 0,
+            "Dimension:3": 0,
+            "OnGround:1": 0,
+            "Air:2": 0,
+            "Rotation:9": {
+              "5": 0.0
+            },
+            "HandItems:9": {
+              "10": {}
+            },
+            "ArmorDropChances:9": {
+              "5": 0.085
+            },
+            "UUIDMost:4": -1316902874560970746,
+            "Pos:9": {
+              "6": 0.0
+            },
+            "ArmorItems:9": {
+              "10": {}
+            },
+            "Fire:2": 0,
+            "CanPickUpLoot:1": 0,
+            "HurtTime:2": 0
+          },
+          "taskID": "bq_standard:hunt",
+          "index": 0
+        }
+      ],
+      "rewards": [
+        {
+          "rewards": [
+            {
+              "id": "openblocks:trophy",
+              "Count": 1,
+              "OreDict": "",
+              "Damage": 0,
+              "tag": {
+                "entity:8": "Skeleton"
+              }
+            }
+          ],
+          "rewardID": "bq_standard:item",
+          "index": 0
+        }
+      ],
+      "preRequisites": [],
+      "questID": 4
+    },
+    {
+      "properties": {
+        "betterquesting": {
+          "snd_complete": "minecraft:entity.player.levelup",
+          "taskLogic": "AND",
+          "partySingleReward": false,
+          "isMain": false,
+          "simultaneous": false,
+          "icon": {
+            "id": "openblocks:trophy",
+            "Count": 1,
+            "OreDict": "",
+            "Damage": 0,
+            "tag": {
+              "entity:8": "Zombie"
+            }
+          },
+          "snd_update": "minecraft:entity.player.levelup",
+          "repeatTime": -1,
+          "globalShare": false,
+          "questLogic": "AND",
+          "name": "Re-killing",
+          "lockedProgress": false,
+          "autoClaim": false,
+          "isSilent": false,
+          "desc": "A world without zombies is a better world."
+        }
+      },
+      "tasks": [
+        {
+          "target": "Zombie",
+          "required": 25,
+          "subtypes": true,
+          "ignoreNBT": true,
+          "targetNBT": {},
+          "taskID": "bq_standard:hunt",
+          "index": 0
+        }
+      ],
+      "rewards": [
+        {
+          "rewards": [
+            {
+              "id": "openblocks:trophy",
+              "Count": 1,
+              "OreDict": "",
+              "Damage": 0,
+              "tag": {
+                "entity:8": "Zombie"
+              }
+            }
+          ],
+          "rewardID": "bq_standard:item",
+          "index": 0
+        }
+      ],
+      "preRequisites": [],
+      "questID": 5
+    },
+    {
+      "properties": {
+        "betterquesting": {
+          "snd_complete": "minecraft:entity.player.levelup",
+          "taskLogic": "AND",
+          "partySingleReward": false,
+          "isMain": false,
+          "simultaneous": false,
+          "icon": {
+            "id": "openblocks:trophy",
+            "Count": 1,
+            "OreDict": "",
+            "Damage": 0,
+            "tag": {
+              "entity:8": "Spider"
+            }
+          },
+          "snd_update": "minecraft:entity.player.levelup",
+          "repeatTime": -1,
+          "globalShare": false,
+          "questLogic": "AND",
+          "name": "Spidey senses",
+          "lockedProgress": false,
+          "autoClaim": false,
+          "isSilent": false,
+          "desc": "Smash them all"
+        }
+      },
+      "tasks": [
+        {
+          "target": "Spider",
+          "required": 25,
+          "subtypes": true,
+          "ignoreNBT": true,
+          "targetNBT": {
+            "HurtByTimestamp:3": 0,
+            "ForgeData:10": {},
+            "Attributes:9": {
+              "10": {
+                "Base:6": 2.0,
+                "Name:8": "generic.attackDamage"
+              }
+            },
+            "Invulnerable:1": 0,
+            "FallFlying:1": 0,
+            "PortalCooldown:3": 0,
+            "AbsorptionAmount:5": 0.0,
+            "FallDistance:5": 0.0,
+            "DeathTime:2": 0,
+            "HandDropChances:9": {
+              "5": 0.085
+            },
+            "ForgeCaps:10": {
+              "tinkertoolleveling:entityxp:9": {}
+            },
+            "PersistenceRequired:1": 0,
+            "id:8": "Spider",
+            "Motion:9": {
+              "6": 0.0
+            },
+            "Leashed:1": 0,
+            "UUIDLeast:4": -8816575226060231864,
+            "Health:5": 16.0,
+            "LeftHanded:1": 0,
+            "Dimension:3": 0,
+            "OnGround:1": 0,
+            "Air:2": 0,
+            "Rotation:9": {
+              "5": 0.0
+            },
+            "HandItems:9": {
+              "10": {}
+            },
+            "ArmorDropChances:9": {
+              "5": 0.085
+            },
+            "UUIDMost:4": -7096095347511705315,
+            "Pos:9": {
+              "6": 0.0
+            },
+            "ArmorItems:9": {
+              "10": {}
+            },
+            "Fire:2": 0,
+            "CanPickUpLoot:1": 0,
+            "HurtTime:2": 0
+          },
+          "taskID": "bq_standard:hunt",
+          "index": 0
+        }
+      ],
+      "rewards": [
+        {
+          "rewards": [
+            {
+              "id": "openblocks:trophy",
+              "Count": 1,
+              "OreDict": "",
+              "Damage": 0,
+              "tag": {
+                "entity:8": "Spider"
+              }
+            }
+          ],
+          "rewardID": "bq_standard:item",
+          "index": 0
+        }
+      ],
+      "preRequisites": [],
+      "questID": 6
+    },
+    {
+      "properties": {
+        "betterquesting": {
+          "snd_complete": "minecraft:entity.player.levelup",
+          "taskLogic": "AND",
+          "partySingleReward": false,
+          "visibility": "UNLOCKED",
+          "isMain": false,
+          "simultaneous": false,
+          "icon": {
+            "id": "openblocks:trophy",
+            "Count": 1,
+            "OreDict": "",
+            "Damage": 0,
+            "tag": {
+              "entity:8": "Skeleton"
+            }
+          },
+          "snd_update": "minecraft:entity.player.levelup",
+          "repeatTime": -1,
+          "globalShare": false,
+          "questLogic": "AND",
+          "name": "Bone Cracker",
+          "lockedProgress": false,
+          "autoClaim": false,
+          "isSilent": false,
+          "desc": "Killing skeletons"
+        }
+      },
+      "tasks": [
+        {
+          "target": "Skeleton",
+          "required": 250,
+          "subtypes": true,
+          "ignoreNBT": true,
+          "targetNBT": {
+            "HurtByTimestamp:3": 0,
+            "ForgeData:10": {},
+            "Attributes:9": {
+              "10": {
+                "Base:6": 2.0,
+                "Name:8": "generic.attackDamage"
+              }
+            },
+            "Invulnerable:1": 0,
+            "FallFlying:1": 0,
+            "PortalCooldown:3": 0,
+            "AbsorptionAmount:5": 0.0,
+            "FallDistance:5": 0.0,
+            "DeathTime:2": 0,
+            "SkeletonType:1": 0,
+            "HandDropChances:9": {
+              "5": 0.085
+            },
+            "ForgeCaps:10": {
+              "tinkertoolleveling:entityxp:9": {}
+            },
+            "PersistenceRequired:1": 0,
+            "id:8": "Skeleton",
+            "Motion:9": {
+              "6": 0.0
+            },
+            "Leashed:1": 0,
+            "UUIDLeast:4": -6658154129515719340,
+            "Health:5": 20.0,
+            "LeftHanded:1": 0,
+            "Dimension:3": 0,
+            "OnGround:1": 0,
+            "Air:2": 0,
+            "Rotation:9": {
+              "5": 0.0
+            },
+            "HandItems:9": {
+              "10": {}
+            },
+            "ArmorDropChances:9": {
+              "5": 0.085
+            },
+            "UUIDMost:4": -1316902874560970746,
+            "Pos:9": {
+              "6": 0.0
+            },
+            "ArmorItems:9": {
+              "10": {}
+            },
+            "Fire:2": 0,
+            "CanPickUpLoot:1": 0,
+            "HurtTime:2": 0
+          },
+          "taskID": "bq_standard:hunt",
+          "index": 0
+        }
+      ],
+      "rewards": [
+        {
+          "rewards": [
+            {
+              "id": "mocreatures:amuletbonefull",
+              "Count": 1,
+              "OreDict": "",
+              "Damage": 0,
+              "tag": {}
+            },
+            {
+              "id": "tconstruct:materials",
+              "Count": 3,
+              "OreDict": "",
+              "Damage": 17
+            }
+          ],
+          "rewardID": "bq_standard:item",
+          "index": 0
+        }
+      ],
+      "preRequisites": [
+        4
+      ],
+      "questID": 7
+    },
+    {
+      "properties": {
+        "betterquesting": {
+          "snd_complete": "minecraft:entity.player.levelup",
+          "taskLogic": "AND",
+          "partySingleReward": false,
+          "visibility": "UNLOCKED",
+          "isMain": false,
+          "simultaneous": false,
+          "icon": {
+            "id": "openblocks:trophy",
+            "Count": 1,
+            "OreDict": "",
+            "Damage": 0,
+            "tag": {
+              "entity:8": "Zombie"
+            }
+          },
+          "snd_update": "minecraft:entity.player.levelup",
+          "repeatTime": -1,
+          "globalShare": false,
+          "questLogic": "AND",
+          "name": "Re-killing",
+          "lockedProgress": false,
+          "autoClaim": false,
+          "isSilent": false,
+          "desc": "A world without zombies is a better world."
+        }
+      },
+      "tasks": [
+        {
+          "target": "Zombie",
+          "required": 250,
+          "subtypes": true,
+          "ignoreNBT": true,
+          "targetNBT": {},
+          "taskID": "bq_standard:hunt",
+          "index": 0
+        }
+      ],
+      "rewards": [
+        {
+          "rewards": [
+            {
+              "id": "enderio:itemFrankenSkull",
+              "Count": 1,
+              "OreDict": "",
+              "Damage": 0
+            },
+            {
+              "id": "harvestcraft:zombiejerkyitem",
+              "Count": 24,
+              "OreDict": "",
+              "Damage": 0
+            }
+          ],
+          "rewardID": "bq_standard:item",
+          "index": 0
+        }
+      ],
+      "preRequisites": [
+        5
+      ],
+      "questID": 8
+    },
+    {
+      "properties": {
+        "betterquesting": {
+          "snd_complete": "minecraft:entity.player.levelup",
+          "taskLogic": "AND",
+          "partySingleReward": false,
+          "visibility": "UNLOCKED",
+          "isMain": false,
+          "simultaneous": false,
+          "icon": {
+            "id": "openblocks:trophy",
+            "Count": 1,
+            "OreDict": "",
+            "Damage": 0,
+            "tag": {
+              "entity:8": "Spider"
+            }
+          },
+          "snd_update": "minecraft:entity.player.levelup",
+          "repeatTime": -1,
+          "globalShare": false,
+          "questLogic": "AND",
+          "name": "Spidey senses",
+          "lockedProgress": false,
+          "autoClaim": false,
+          "isSilent": false,
+          "desc": "Smash them all"
+        }
+      },
+      "tasks": [
+        {
+          "target": "Spider",
+          "required": 250,
+          "subtypes": true,
+          "ignoreNBT": true,
+          "targetNBT": {
+            "HurtByTimestamp:3": 0,
+            "ForgeData:10": {},
+            "Attributes:9": {
+              "10": {
+                "Base:6": 2.0,
+                "Name:8": "generic.attackDamage"
+              }
+            },
+            "Invulnerable:1": 0,
+            "FallFlying:1": 0,
+            "PortalCooldown:3": 0,
+            "AbsorptionAmount:5": 0.0,
+            "FallDistance:5": 0.0,
+            "DeathTime:2": 0,
+            "HandDropChances:9": {
+              "5": 0.085
+            },
+            "ForgeCaps:10": {
+              "tinkertoolleveling:entityxp:9": {}
+            },
+            "PersistenceRequired:1": 0,
+            "id:8": "Spider",
+            "Motion:9": {
+              "6": 0.0
+            },
+            "Leashed:1": 0,
+            "UUIDLeast:4": -8816575226060231864,
+            "Health:5": 16.0,
+            "LeftHanded:1": 0,
+            "Dimension:3": 0,
+            "OnGround:1": 0,
+            "Air:2": 0,
+            "Rotation:9": {
+              "5": 0.0
+            },
+            "HandItems:9": {
+              "10": {}
+            },
+            "ArmorDropChances:9": {
+              "5": 0.085
+            },
+            "UUIDMost:4": -7096095347511705315,
+            "Pos:9": {
+              "6": 0.0
+            },
+            "ArmorItems:9": {
+              "10": {}
+            },
+            "Fire:2": 0,
+            "CanPickUpLoot:1": 0,
+            "HurtTime:2": 0
+          },
+          "taskID": "bq_standard:hunt",
+          "index": 0
+        }
+      ],
+      "rewards": [
+        {
+          "rewards": [
+            {
+              "id": "harvestcraft:spidereyesoupitem",
+              "Count": 3,
+              "OreDict": "",
+              "Damage": 0
+            },
+            {
+              "id": "openblocks:trophy",
+              "Count": 1,
+              "OreDict": "",
+              "Damage": 0,
+              "tag": {
+                "entity:8": "Spider"
+              }
+            }
+          ],
+          "rewardID": "bq_standard:item",
+          "index": 0
+        }
+      ],
+      "preRequisites": [
+        6
+      ],
+      "questID": 9
+    },
+    {
+      "properties": {
+        "betterquesting": {
+          "snd_complete": "minecraft:entity.player.levelup",
+          "taskLogic": "AND",
+          "partySingleReward": false,
+          "isMain": true,
+          "simultaneous": false,
+          "icon": {
+            "id": "minecraft:diamond_pickaxe",
+            "Count": 1,
+            "OreDict": "",
+            "Damage": 0
+          },
+          "snd_update": "minecraft:entity.player.levelup",
+          "repeatTime": -1,
+          "globalShare": false,
+          "questLogic": "AND",
+          "name": "A lever to move the world.",
+          "lockedProgress": false,
+          "autoClaim": false,
+          "isSilent": false,
+          "desc": "Without tools, you will die. Here is a start. It\u0027s dangerous out there. Use them and return. I will show you more ways to use the world to give you better tools."
+        }
+      },
+      "tasks": [
+        {
+          "taskID": "bq_standard:checkbox",
+          "index": 0
+        }
+      ],
+      "rewards": [],
+      "preRequisites": [],
+      "questID": 10
+    },
+    {
+      "properties": {
+        "betterquesting": {
+          "snd_complete": "minecraft:entity.player.levelup",
+          "taskLogic": "AND",
+          "partySingleReward": false,
+          "visibility": "CHAIN",
+          "isMain": true,
+          "simultaneous": false,
+          "icon": {
+            "id": "tconstruct:tooltables",
+            "Count": 1,
+            "OreDict": "",
+            "Damage": 1,
+            "tag": {
+              "textureBlock:10": {
+                "id:8": "minecraft:planks",
+                "Count:1": 1,
+                "Damage:2": 0
+              }
+            }
+          },
+          "snd_update": "minecraft:entity.player.levelup",
+          "repeatTime": -1,
+          "globalShare": false,
+          "questLogic": "AND",
+          "name": "Tinkering",
+          "lockedProgress": false,
+          "autoClaim": false,
+          "isSilent": false,
+          "desc": "The tools must be created from their parts. It\u0027s not like you can just put some wood and sticks on a table to get a tool..."
+        }
+      },
+      "tasks": [
+        {
+          "partialMatch": true,
+          "ignoreNBT": false,
+          "consume": false,
+          "groupDetect": false,
+          "autoConsume": false,
+          "requiredItems": [
+            {
+              "id": "tconstruct:tooltables",
+              "Count": 1,
+              "OreDict": "",
+              "Damage": 1,
+              "tag": {
+                "textureBlock:10": {
+                  "id:8": "minecraft:planks",
+                  "Count:1": 1,
+                  "Damage:2": 0
+                }
+              }
+            },
+            {
+              "id": "tconstruct:tooltables",
+              "Count": 1,
+              "OreDict": "",
+              "Damage": 2,
+              "tag": {
+                "textureBlock:10": {
+                  "id:8": "minecraft:log",
+                  "Count:1": 1,
+                  "Damage:2": 0
+                }
+              }
+            },
+            {
+              "id": "tconstruct:tooltables",
+              "Count": 1,
+              "OreDict": "",
+              "Damage": 3
+            },
+            {
+              "id": "tconstruct:tooltables",
+              "Count": 1,
+              "OreDict": "",
+              "Damage": 0
+            }
+          ],
+          "taskID": "bq_standard:retrieval",
+          "index": 0
+        }
+      ],
+      "rewards": [
+        {
+          "rewards": [
+            {
+              "id": "tconstruct:tooltables",
+              "Count": 1,
+              "OreDict": "",
+              "Damage": 4
+            }
+          ],
+          "rewardID": "bq_standard:item",
+          "index": 0
+        }
+      ],
+      "preRequisites": [
+        10
+      ],
+      "questID": 11
+    },
+    {
+      "properties": {
+        "betterquesting": {
+          "snd_complete": "minecraft:entity.player.levelup",
+          "taskLogic": "AND",
+          "partySingleReward": false,
+          "isMain": false,
+          "simultaneous": false,
+          "icon": {
+            "id": "tconstruct:hatchet",
+            "Count": 1,
+            "OreDict": "",
+            "Damage": 75,
+            "tag": {
+              "StatsOriginal:10": {
+                "AttackSpeedMultiplier:5": 1.0,
+                "MiningSpeed:5": 2.0,
+                "FreeModifiers:3": 3,
+                "Durability:3": 75,
+                "HarvestLevel:3": 0,
+                "Attack:5": 2.5
+              },
+              "Special:10": {
+                "Categories:9": {
+                  "8": "tool"
+                }
+              },
+              "Stats:10": {
+                "AttackSpeedMultiplier:5": 1.0,
+                "MiningSpeed:5": 2.0,
+                "FreeModifiers:3": 3,
+                "Durability:3": 75,
+                "HarvestLevel:3": 0,
+                "Attack:5": 2.5,
+                "Broken:1": 1
+              },
+              "TinkerData:10": {
+                "Materials:9": {
+                  "8": "wood"
+                },
+                "Modifiers:9": {
+                  "8": "toolleveling"
+                }
+              },
+              "Traits:9": {
+                "8": "toolleveling"
+              },
+              "Modifiers:9": {
+                "10": {
+                  "identifier:8": "toolleveling",
+                  "color:3": 16777215,
+                  "level:3": 1,
+                  "xp:3": 21,
+                  "bonus_modifiers:3": 0
+                }
+              }
+            }
+          },
+          "snd_update": "minecraft:entity.player.levelup",
+          "repeatTime": -1,
+          "globalShare": false,
+          "questLogic": "AND",
+          "name": "YOU BROKE IT?!",
+          "lockedProgress": false,
+          "autoClaim": false,
+          "isSilent": false,
+          "desc": "Fixing tools is pretty easy, you can put a few blocks needed to repair it in the tool station with the tool. OR, you create a sharpening stone from the base material for your tool (wooden pickaxe needs a wood sharpening kit) and repair tools on the go. The kits even stack! \n\nHere, I\u0027ll give you a basic kit to test out.\n\nYou can also use these kits to upgrade your tools a bit too..."
+        }
+      },
+      "tasks": [
+        {
+          "taskID": "bq_standard:checkbox",
+          "index": 0
+        }
+      ],
+      "rewards": [
+        {
+          "rewards": [
+            {
+              "id": "tconstruct:sharpening_kit",
+              "Count": 1,
+              "OreDict": "",
+              "Damage": 0,
+              "tag": {
+                "Material:8": "wood"
+              }
+            }
+          ],
+          "rewardID": "bq_standard:item",
+          "index": 0
+        }
+      ],
+      "preRequisites": [
+        10
+      ],
+      "questID": 12
+    },
+    {
+      "properties": {
+        "betterquesting": {
+          "snd_complete": "minecraft:entity.player.levelup",
+          "taskLogic": "AND",
+          "partySingleReward": false,
+          "isMain": true,
+          "simultaneous": false,
+          "icon": {
+            "id": "minecraft:lava_bucket",
+            "Count": 1,
+            "OreDict": "",
+            "Damage": 0
+          },
+          "snd_update": "minecraft:entity.player.levelup",
+          "repeatTime": -1,
+          "globalShare": false,
+          "questLogic": "AND",
+          "name": "Fuel",
+          "lockedProgress": false,
+          "autoClaim": false,
+          "isSilent": false,
+          "desc": "No Description"
+        }
+      },
+      "tasks": [
+        {
+          "partialMatch": true,
+          "ignoreNBT": false,
+          "consume": false,
+          "groupDetect": false,
+          "autoConsume": false,
+          "requiredItems": [
+            {
+              "id": "minecraft:lava_bucket",
+              "Count": 1,
+              "OreDict": "",
+              "Damage": 0
+            }
+          ],
+          "taskID": "bq_standard:retrieval",
+          "index": 0
+        }
+      ],
+      "rewards": [],
+      "preRequisites": [
+        14
+      ],
+      "questID": 13
+    },
+    {
+      "properties": {
+        "betterquesting": {
+          "snd_complete": "minecraft:entity.player.levelup",
+          "taskLogic": "AND",
+          "partySingleReward": false,
+          "visibility": "CHAIN",
+          "isMain": true,
+          "simultaneous": false,
+          "icon": {
+            "id": "tconstruct:smeltery_controller",
+            "Count": 1,
+            "OreDict": "",
+            "Damage": 0
+          },
+          "snd_update": "minecraft:entity.player.levelup",
+          "repeatTime": -1,
+          "globalShare": false,
+          "questLogic": "AND",
+          "name": "Metal time",
+          "lockedProgress": false,
+          "autoClaim": false,
+          "isSilent": false,
+          "desc": "To get better materials, you need to step up  your game. Let\u0027s create a smeltery to get you started on basic metals and alloys. Cook your grout and we\u0027ll move on to making this structure."
+        }
+      },
+      "tasks": [
+        {
+          "partialMatch": true,
+          "ignoreNBT": false,
+          "consume": false,
+          "groupDetect": false,
+          "autoConsume": false,
+          "requiredItems": [
+            {
+              "id": "tconstruct:soil",
+              "Count": 64,
+              "OreDict": "",
+              "Damage": 0
+            }
+          ],
+          "taskID": "bq_standard:retrieval",
+          "index": 0
+        }
+      ],
+      "rewards": [
+        {
+          "rewards": [
+            {
+              "id": "tconstruct:casting",
+              "Count": 1,
+              "OreDict": "",
+              "Damage": 1
+            }
+          ],
+          "rewardID": "bq_standard:item",
+          "index": 0
+        }
+      ],
+      "preRequisites": [
+        10
+      ],
+      "questID": 14
+    },
+    {
+      "properties": {
+        "betterquesting": {
+          "snd_complete": "minecraft:entity.player.levelup",
+          "taskLogic": "AND",
+          "partySingleReward": false,
+          "isMain": true,
+          "simultaneous": false,
+          "icon": {
+            "id": "minecraft:diamond_sword",
+            "Count": 1,
+            "OreDict": "",
+            "Damage": 0
+          },
+          "snd_update": "minecraft:entity.player.levelup",
+          "repeatTime": -1,
+          "globalShare": false,
+          "questLogic": "AND",
+          "name": "Fight!",
+          "lockedProgress": false,
+          "autoClaim": false,
+          "isSilent": false,
+          "desc": "The world isn\u0027t going to leave you alone. It\u0027s time to go out and take control. You need better weapons... learn to craft them now!"
+        }
+      },
+      "tasks": [
+        {
+          "partialMatch": true,
+          "ignoreNBT": false,
+          "consume": false,
+          "groupDetect": false,
+          "autoConsume": false,
+          "requiredItems": [
+            {
+              "id": "tconstruct:cross_guard",
+              "Count": 1,
+              "OreDict": "",
+              "Damage": 0,
+              "tag": {
+                "Material:8": "wood"
+              }
+            },
+            {
+              "id": "tconstruct:sword_blade",
+              "Count": 1,
+              "OreDict": "",
+              "Damage": 0,
+              "tag": {
+                "Material:8": "flint"
+              }
+            },
+            {
+              "id": "tconstruct:tool_rod",
+              "Count": 1,
+              "OreDict": "",
+              "Damage": 0,
+              "tag": {
+                "Material:8": "wood"
+              }
+            }
+          ],
+          "taskID": "bq_standard:retrieval",
+          "index": 0
+        }
+      ],
+      "rewards": [
+        {
+          "rewards": [
+            {
+              "id": "bibliocraft:SwordPedestal",
+              "Count": 1,
+              "OreDict": "",
+              "Damage": 4
+            },
+            {
+              "id": "minecraft:shield",
+              "Count": 1,
+              "OreDict": "",
+              "Damage": 0
+            }
+          ],
+          "rewardID": "bq_standard:item",
+          "index": 0
+        }
+      ],
+      "preRequisites": [
+        16
+      ],
+      "questID": 15
+    },
+    {
+      "properties": {
+        "betterquesting": {
+          "snd_complete": "minecraft:entity.player.levelup",
+          "taskLogic": "AND",
+          "partySingleReward": false,
+          "visibility": "CHAIN",
+          "isMain": true,
+          "simultaneous": false,
+          "icon": {
+            "id": "tconstruct:mattock",
+            "Count": 1,
+            "OreDict": "",
+            "Damage": 0,
+            "tag": {
+              "StatsOriginal:10": {
+                "AttackSpeedMultiplier:5": 1.0,
+                "HarvestLevelAxe:3": 1,
+                "MiningSpeed:5": 0.5,
+                "FreeModifiers:3": 3,
+                "HarvestLevelShovel:3": 1,
+                "Durability:3": 120,
+                "HarvestLevel:3": 1,
+                "Attack:5": 11.25
+              },
+              "Special:10": {
+                "Categories:9": {
+                  "8": "harvest"
+                }
+              },
+              "Stats:10": {
+                "AttackSpeedMultiplier:5": 1.0,
+                "HarvestLevelAxe:3": 1,
+                "MiningSpeed:5": 0.5,
+                "FreeModifiers:3": 3,
+                "HarvestLevelShovel:3": 1,
+                "Durability:3": 120,
+                "HarvestLevel:3": 1,
+                "Attack:5": 11.25
+              },
+              "TinkerData:10": {
+                "Materials:9": {
+                  "8": "xu_demonic_metal"
+                },
+                "Modifiers:9": {
+                  "8": "toolleveling"
+                }
+              },
+              "Traits:9": {
+                "8": "toolleveling"
+              },
+              "Modifiers:9": {
+                "10": {
+                  "identifier:8": "toolleveling",
+                  "color:3": 16777215,
+                  "level:3": 1
+                }
+              }
+            }
+          },
+          "snd_update": "minecraft:entity.player.levelup",
+          "repeatTime": -1,
+          "globalShare": false,
+          "questLogic": "AND",
+          "name": "New Tools",
+          "lockedProgress": false,
+          "autoClaim": false,
+          "isSilent": false,
+          "desc": "Why carry two tools when you can have 1 that does 2 or more jobs?\n\nCheck out the mattock in the tool station to make a handy efficient tool! You can repair it with either tool head material as well."
+        }
+      },
+      "tasks": [
+        {
+          "partialMatch": true,
+          "ignoreNBT": false,
+          "consume": false,
+          "groupDetect": false,
+          "autoConsume": false,
+          "requiredItems": [
+            {
+              "id": "tconstruct:axe_head",
+              "Count": 1,
+              "OreDict": "",
+              "Damage": 0,
+              "tag": {
+                "Material:8": "wood"
+              }
+            },
+            {
+              "id": "tconstruct:shovel_head",
+              "Count": 1,
+              "OreDict": "",
+              "Damage": 0,
+              "tag": {
+                "Material:8": "wood"
+              }
+            },
+            {
+              "id": "tconstruct:tool_rod",
+              "Count": 1,
+              "OreDict": "",
+              "Damage": 0,
+              "tag": {
+                "Material:8": "wood"
+              }
+            },
+            {
+              "id": "tconstruct:binding",
+              "Count": 1,
+              "OreDict": "",
+              "Damage": 0,
+              "tag": {
+                "Material:8": "wood"
+              }
+            }
+          ],
+          "taskID": "bq_standard:retrieval",
+          "index": 0
+        }
+      ],
+      "rewards": [
+        {
+          "rewards": [
+            {
+              "id": "tconstruct:tooltables",
+              "Count": 1,
+              "OreDict": "",
+              "Damage": 5
+            }
+          ],
+          "rewardID": "bq_standard:item",
+          "index": 0
+        }
+      ],
+      "preRequisites": [
+        11
+      ],
+      "questID": 16
+    },
+    {
+      "properties": {
+        "betterquesting": {
+          "snd_complete": "minecraft:entity.player.levelup",
+          "taskLogic": "AND",
+          "partySingleReward": false,
+          "visibility": "CHAIN",
+          "isMain": true,
+          "simultaneous": false,
+          "icon": {
+            "id": "tconstruct:clay_cast",
+            "Count": 1,
+            "OreDict": "",
+            "Damage": 0,
+            "tag": {
+              "PartType:8": "tconstruct:axe_head"
+            }
+          },
+          "snd_update": "minecraft:entity.player.levelup",
+          "repeatTime": -1,
+          "globalShare": false,
+          "questLogic": "AND",
+          "name": "Casting",
+          "lockedProgress": false,
+          "autoClaim": false,
+          "isSilent": false,
+          "desc": "No Description"
+        }
+      },
+      "tasks": [
+        {
+          "partialMatch": true,
+          "ignoreNBT": false,
+          "consume": false,
+          "groupDetect": false,
+          "autoConsume": false,
+          "requiredItems": [
+            {
+              "id": "minecraft:clay_ball",
+              "Count": 12,
+              "OreDict": "itemClay",
+              "Damage": 0
+            }
+          ],
+          "taskID": "bq_standard:retrieval",
+          "index": 0
+        }
+      ],
+      "rewards": [],
+      "preRequisites": [
+        13
+      ],
+      "questID": 17
+    },
+    {
+      "properties": {
+        "betterquesting": {
+          "snd_complete": "minecraft:entity.player.levelup",
+          "taskLogic": "AND",
+          "partySingleReward": false,
+          "visibility": "CHAIN",
+          "isMain": false,
+          "simultaneous": false,
+          "icon": {
+            "id": "mekanism:Ingot",
+            "Count": 1,
+            "OreDict": "",
+            "Damage": 2
+          },
+          "snd_update": "minecraft:entity.player.levelup",
+          "repeatTime": -1,
+          "globalShare": false,
+          "questLogic": "AND",
+          "name": "Alloys",
+          "lockedProgress": false,
+          "autoClaim": false,
+          "isSilent": false,
+          "desc": "No Description"
+        }
+      },
+      "tasks": [
+        {
+          "partialMatch": true,
+          "ignoreNBT": false,
+          "consume": true,
+          "groupDetect": false,
+          "autoConsume": false,
+          "requiredItems": [
+            {
+              "id": "mekanism:Ingot",
+              "Count": 1,
+              "OreDict": "ingotBronze",
+              "Damage": 2
+            }
+          ],
+          "taskID": "bq_standard:retrieval",
+          "index": 0
+        }
+      ],
+      "rewards": [],
+      "preRequisites": [
+        17
+      ],
+      "questID": 18
+    },
+    {
+      "properties": {
+        "betterquesting": {
+          "snd_complete": "minecraft:entity.player.levelup",
+          "taskLogic": "AND",
+          "partySingleReward": false,
+          "visibility": "COMPLETED",
+          "isMain": false,
+          "simultaneous": false,
+          "icon": {
+            "id": "tconstruct:cast",
+            "Count": 1,
+            "OreDict": "",
+            "Damage": 0,
+            "tag": {
+              "PartType:8": "tconstruct:axe_head"
+            }
+          },
+          "snd_update": "minecraft:entity.player.levelup",
+          "repeatTime": -1,
+          "globalShare": false,
+          "questLogic": "AND",
+          "name": "Re-usable casts!",
+          "lockedProgress": false,
+          "autoClaim": false,
+          "isSilent": false,
+          "desc": "This material you found is so good, I think we can use it to make a parts cast that will last forever."
+        }
+      },
+      "tasks": [
+        {
+          "partialMatch": true,
+          "ignoreNBT": false,
+          "consume": true,
+          "groupDetect": false,
+          "autoConsume": true,
+          "requiredItems": [
+            {
+              "id": "tconstruct:ingots",
+              "Count": 1,
+              "OreDict": "",
+              "Damage": 5
+            }
+          ],
+          "taskID": "bq_standard:retrieval",
+          "index": 0
+        }
+      ],
+      "rewards": [
+        {
+          "rewards": [
+            {
+              "id": "tconstruct:cast",
+              "Count": 1,
+              "OreDict": "",
+              "Damage": 0,
+              "tag": {
+                "PartType:8": "tconstruct:pick_head"
+              }
+            }
+          ],
+          "rewardID": "bq_standard:item",
+          "index": 0
+        }
+      ],
+      "preRequisites": [
+        17
+      ],
+      "questID": 19
+    },
+    {
+      "properties": {
+        "betterquesting": {
+          "snd_complete": "minecraft:entity.player.levelup",
+          "taskLogic": "AND",
+          "partySingleReward": false,
+          "isMain": true,
+          "simultaneous": false,
+          "icon": {
+            "id": "quark:thatch_stairs",
+            "Count": 1,
+            "OreDict": "",
+            "Damage": 0
+          },
+          "snd_update": "minecraft:entity.player.levelup",
+          "repeatTime": -1,
+          "globalShare": false,
+          "questLogic": "AND",
+          "name": "Home Sweet Home",
+          "lockedProgress": false,
+          "autoClaim": false,
+          "isSilent": false,
+          "desc": "A roof, some walls to keep it up, and a door to be safe. You can now build a home, or at the very least, a place to store your weapons.\n\nFloor:\nCCC\nCCC\nCCC\n\nWalls:\nPPP\nP  P\nP  P\n\nPPP\nP  P\nP  P\n\n  P\n\n  P\n\nRoof:\nS  S\nS  S\nS  S\n\n  T\n  T\n  T"
+        }
+      },
+      "tasks": [
+        {
+          "partialMatch": true,
+          "ignoreNBT": false,
+          "consume": false,
+          "groupDetect": false,
+          "autoConsume": false,
+          "requiredItems": [
+            {
+              "id": "minecraft:cobblestone",
+              "Count": 9,
+              "OreDict": "cobblestone",
+              "Damage": 0
+            },
+            {
+              "id": "minecraft:planks",
+              "Count": 16,
+              "OreDict": "plankWood",
+              "Damage": 0
+            },
+            {
+              "id": "quark:thatch_stairs",
+              "Count": 6,
+              "OreDict": "",
+              "Damage": 0
+            },
+            {
+              "id": "quark:thatch_slab",
+              "Count": 3,
+              "OreDict": "",
+              "Damage": 0
+            }
+          ],
+          "taskID": "bq_standard:retrieval",
+          "index": 0
+        }
+      ],
+      "rewards": [],
+      "preRequisites": [
+        3
+      ],
+      "questID": 20
+    },
+    {
+      "properties": {
+        "betterquesting": {
+          "snd_complete": "minecraft:entity.player.levelup",
+          "taskLogic": "AND",
+          "partySingleReward": false,
+          "visibility": "CHAIN",
+          "isMain": false,
+          "simultaneous": false,
+          "icon": {
+            "id": "tconstruct:smeltery_controller",
+            "Count": 1,
+            "OreDict": "",
+            "Damage": 0
+          },
+          "snd_update": "minecraft:entity.player.levelup",
+          "repeatTime": -1,
+          "globalShare": false,
+          "questLogic": "AND",
+          "name": "Bricks and blocks",
+          "lockedProgress": false,
+          "autoClaim": false,
+          "isSilent": false,
+          "desc": "Stick those bricks together to get blocks and parts. We\u0027re almost there!"
+        }
+      },
+      "tasks": [
+        {
+          "partialMatch": true,
+          "ignoreNBT": false,
+          "consume": false,
+          "groupDetect": false,
+          "autoConsume": false,
+          "requiredItems": [
+            {
+              "id": "tconstruct:seared",
+              "Count": 50,
+              "OreDict": "blockSeared",
+              "Damage": 0
+            },
+            {
+              "id": "tconstruct:faucet",
+              "Count": 1,
+              "OreDict": "",
+              "Damage": 0
+            },
+            {
+              "id": "tconstruct:smeltery_io",
+              "Count": 1,
+              "OreDict": "",
+              "Damage": 0
+            },
+            {
+              "id": "tconstruct:seared_tank",
+              "Count": 1,
+              "OreDict": "",
+              "Damage": 0
+            },
+            {
+              "id": "tconstruct:smeltery_controller",
+              "Count": 1,
+              "OreDict": "",
+              "Damage": 0
+            }
+          ],
+          "taskID": "bq_standard:retrieval",
+          "index": 0
+        }
+      ],
+      "rewards": [
+        {
+          "rewards": [
+            {
+              "id": "tconstruct:casting",
+              "Count": 1,
+              "OreDict": "",
+              "Damage": 1
+            }
+          ],
+          "rewardID": "bq_standard:item",
+          "index": 0
+        }
+      ],
+      "preRequisites": [
+        14
+      ],
+      "questID": 21
+    },
+    {
+      "properties": {
+        "betterquesting": {
+          "snd_complete": "minecraft:entity.player.levelup",
+          "taskLogic": "AND",
+          "partySingleReward": false,
+          "isMain": false,
+          "simultaneous": false,
+          "icon": {
+            "id": "minecraft:planks",
+            "Count": 1,
+            "OreDict": "",
+            "Damage": 0
+          },
+          "snd_update": "minecraft:entity.player.levelup",
+          "repeatTime": -1,
+          "globalShare": false,
+          "questLogic": "AND",
+          "name": "Logs to Lumber",
+          "lockedProgress": false,
+          "autoClaim": false,
+          "isSilent": false,
+          "desc": "Get that into a usable state."
+        }
+      },
+      "tasks": [
+        {
+          "partialMatch": true,
+          "ignoreNBT": false,
+          "requiredItems": [
+            {
+              "id": "minecraft:planks",
+              "Count": 16,
+              "OreDict": "plankWood",
+              "Damage": 0
+            }
+          ],
+          "taskID": "bq_standard:crafting",
+          "index": 0
+        }
+      ],
+      "rewards": [],
+      "preRequisites": [
+        0
+      ],
+      "questID": 22
+    },
+    {
+      "properties": {
+        "betterquesting": {
+          "snd_complete": "minecraft:entity.player.levelup",
+          "taskLogic": "AND",
+          "partySingleReward": false,
+          "isMain": false,
+          "simultaneous": false,
+          "icon": {
+            "id": "minecraft:stick",
+            "Count": 1,
+            "OreDict": "",
+            "Damage": 0
+          },
+          "snd_update": "minecraft:entity.player.levelup",
+          "repeatTime": -1,
+          "globalShare": false,
+          "questLogic": "AND",
+          "name": "Even smaller",
+          "lockedProgress": false,
+          "autoClaim": false,
+          "isSilent": false,
+          "desc": "Yes, you have boards, but you COULD have little sticks."
+        }
+      },
+      "tasks": [
+        {
+          "partialMatch": true,
+          "ignoreNBT": false,
+          "requiredItems": [
+            {
+              "id": "minecraft:stick",
+              "Count": 8,
+              "OreDict": "",
+              "Damage": 0
+            }
+          ],
+          "taskID": "bq_standard:crafting",
+          "index": 0
+        }
+      ],
+      "rewards": [],
+      "preRequisites": [
+        22
+      ],
+      "questID": 23
+    },
+    {
+      "properties": {
+        "betterquesting": {
+          "snd_complete": "minecraft:entity.player.levelup",
+          "taskLogic": "AND",
+          "partySingleReward": false,
+          "isMain": true,
+          "simultaneous": false,
+          "icon": {
+            "id": "minecraft:stone",
+            "Count": 1,
+            "OreDict": "",
+            "Damage": 0
+          },
+          "snd_update": "minecraft:entity.player.levelup",
+          "repeatTime": -1,
+          "globalShare": false,
+          "questLogic": "AND",
+          "name": "Get a canary",
+          "lockedProgress": false,
+          "autoClaim": false,
+          "isSilent": false,
+          "desc": "You\u0027ve broken your first block of stone and the depths call to you. Get ready with some torches and a decent pickaxe. You\u0027ll need to find ore to get your mine on."
+        }
+      },
+      "tasks": [
+        {
+          "blocks": [
+            {
+              "blockID": "minecraft:stone",
+              "meta": -1,
+              "nbt": {},
+              "amount": 1,
+              "oreDict": "stone"
+            }
+          ],
+          "taskID": "bq_standard:block_break",
+          "index": 0
+        }
+      ],
+      "rewards": [
+        {
+          "rewards": [
+            {
+              "id": "minecraft:coal",
+              "Count": 8,
+              "OreDict": "",
+              "Damage": 1
+            },
+            {
+              "id": "claybucket:claybucket",
+              "Count": 1,
+              "OreDict": "",
+              "Damage": 1
+            }
+          ],
+          "rewardID": "bq_standard:item",
+          "index": 0
+        }
+      ],
+      "preRequisites": [],
+      "questID": 24
+    },
+    {
+      "properties": {
+        "betterquesting": {
+          "snd_complete": "minecraft:entity.player.levelup",
+          "taskLogic": "AND",
+          "partySingleReward": false,
+          "isMain": true,
+          "simultaneous": false,
+          "icon": {
+            "id": "minecraft:furnace",
+            "Count": 1,
+            "OreDict": "",
+            "Damage": 0
+          },
+          "snd_update": "minecraft:entity.player.levelup",
+          "repeatTime": -1,
+          "globalShare": false,
+          "questLogic": "AND",
+          "name": "Cooking time",
+          "lockedProgress": false,
+          "autoClaim": false,
+          "isSilent": false,
+          "desc": "Yes, you could use this to make food, charcoal, leather... but right now, let\u0027s heat up rocks!"
+        }
+      },
+      "tasks": [
+        {
+          "partialMatch": true,
+          "ignoreNBT": false,
+          "requiredItems": [
+            {
+              "id": "minecraft:furnace",
+              "Count": 1,
+              "OreDict": "",
+              "Damage": 0
+            }
+          ],
+          "taskID": "bq_standard:crafting",
+          "index": 0
+        }
+      ],
+      "rewards": [],
+      "preRequisites": [
+        26
+      ],
+      "questID": 25
+    },
+    {
+      "properties": {
+        "betterquesting": {
+          "snd_complete": "minecraft:entity.player.levelup",
+          "taskLogic": "AND",
+          "partySingleReward": false,
+          "isMain": true,
+          "simultaneous": false,
+          "icon": {
+            "id": "mekanism:OreBlock",
+            "Count": 1,
+            "OreDict": "",
+            "Damage": 1
+          },
+          "snd_update": "minecraft:entity.player.levelup",
+          "repeatTime": -1,
+          "globalShare": false,
+          "questLogic": "AND",
+          "name": "ORE!",
+          "lockedProgress": false,
+          "autoClaim": false,
+          "isSilent": false,
+          "desc": "There seems to be something useful in this stone. Maybe you can cook it out!"
+        }
+      },
+      "tasks": [
+        {
+          "blocks": [
+            {
+              "blockID": "thermalfoundation:ore",
+              "meta": -1,
+              "nbt": {},
+              "amount": 1,
+              "oreDict": "oreCopper"
+            }
+          ],
+          "taskID": "bq_standard:block_break",
+          "index": 0
+        }
+      ],
+      "rewards": [],
+      "preRequisites": [
+        24
+      ],
+      "questID": 26
+    },
+    {
+      "properties": {
+        "betterquesting": {
+          "snd_complete": "minecraft:entity.player.levelup",
+          "taskLogic": "AND",
+          "partySingleReward": false,
+          "isMain": false,
+          "simultaneous": false,
+          "icon": {
+            "id": "thermalfoundation:ore",
+            "Count": 1,
+            "OreDict": "",
+            "Damage": 1
+          },
+          "snd_update": "minecraft:entity.player.levelup",
+          "repeatTime": -1,
+          "globalShare": false,
+          "questLogic": "AND",
+          "name": "ORE!",
+          "lockedProgress": false,
+          "autoClaim": false,
+          "isSilent": false,
+          "desc": "There seems to be something useful in this stone. Maybe you can cook it out!"
+        }
+      },
+      "tasks": [
+        {
+          "blocks": [
+            {
+              "blockID": "thermalfoundation:ore",
+              "meta": -1,
+              "nbt": {},
+              "amount": 1,
+              "oreDict": "oreTin"
+            }
+          ],
+          "taskID": "bq_standard:block_break",
+          "index": 0
+        }
+      ],
+      "rewards": [],
+      "preRequisites": [
+        26
+      ],
+      "questID": 27
+    },
+    {
+      "properties": {
+        "betterquesting": {
+          "snd_complete": "minecraft:entity.player.levelup",
+          "taskLogic": "AND",
+          "partySingleReward": false,
+          "isMain": false,
+          "simultaneous": false,
+          "icon": {
+            "id": "minecraft:iron_ore",
+            "Count": 1,
+            "OreDict": "",
+            "Damage": 0
+          },
+          "snd_update": "minecraft:entity.player.levelup",
+          "repeatTime": -1,
+          "globalShare": false,
+          "questLogic": "AND",
+          "name": "ORE!",
+          "lockedProgress": false,
+          "autoClaim": false,
+          "isSilent": false,
+          "desc": "There seems to be something useful in this stone. Maybe you can cook it out!"
+        }
+      },
+      "tasks": [
+        {
+          "blocks": [
+            {
+              "blockID": "minecraft:iron_ore",
+              "meta": -1,
+              "nbt": {},
+              "amount": 1,
+              "oreDict": "oreIron"
+            }
+          ],
+          "taskID": "bq_standard:block_break",
+          "index": 0
+        }
+      ],
+      "rewards": [],
+      "preRequisites": [
+        27
+      ],
+      "questID": 28
+    }
+  ],
+  "questLines": [
+    {
+      "properties": {
+        "betterquesting": {
+          "name": "Building",
+          "bg_image": "",
+          "bg_size": 256,
+          "desc": "There\u0027s no place like home."
+        }
+      },
+      "quests": [
+        {
+          "size": 24,
+          "x": -132,
+          "y": 12,
+          "id": 0
+        },
+        {
+          "size": 24,
+          "x": -84,
+          "y": 72,
+          "id": 1
+        },
+        {
+          "size": 24,
+          "x": -84,
+          "y": 108,
+          "id": 2
+        },
+        {
+          "size": 24,
+          "x": -132,
+          "y": 72,
+          "id": 3
+        },
+        {
+          "size": 24,
+          "x": -132,
+          "y": 132,
+          "id": 20
+        },
+        {
+          "size": 24,
+          "x": -84,
+          "y": 12,
+          "id": 22
+        },
+        {
+          "size": 24,
+          "x": -36,
+          "y": 12,
+          "id": 23
+        }
+      ],
+      "lineID": 0,
+      "order": 1
+    },
+    {
+      "properties": {
+        "betterquesting": {
+          "name": "Hunting",
+          "bg_image": "",
+          "bg_size": 256,
+          "desc": "No Description"
+        }
+      },
+      "quests": [
+        {
+          "size": 24,
+          "x": -168,
+          "y": 6,
+          "id": 4
+        },
+        {
+          "size": 24,
+          "x": -84,
+          "y": 6,
+          "id": 5
+        },
+        {
+          "size": 24,
+          "x": -6,
+          "y": 6,
+          "id": 6
+        },
+        {
+          "size": 24,
+          "x": -168,
+          "y": 42,
+          "id": 7
+        },
+        {
+          "size": 24,
+          "x": -84,
+          "y": 42,
+          "id": 8
+        },
+        {
+          "size": 24,
+          "x": -6,
+          "y": 42,
+          "id": 9
+        }
+      ],
+      "lineID": 1,
+      "order": 3
+    },
+    {
+      "properties": {
+        "betterquesting": {
+          "name": "Exploring",
+          "bg_image": "",
+          "bg_size": 256,
+          "desc": "No Description"
+        }
+      },
+      "quests": [],
+      "lineID": 2,
+      "order": 2
+    },
+    {
+      "properties": {
+        "betterquesting": {
+          "name": "Resources",
+          "bg_image": "",
+          "bg_size": 256,
+          "desc": "No Description"
+        }
+      },
+      "quests": [
+        {
+          "size": 24,
+          "x": -126,
+          "y": 12,
+          "id": 24
+        },
+        {
+          "size": 24,
+          "x": -126,
+          "y": 96,
+          "id": 25
+        },
+        {
+          "size": 24,
+          "x": -126,
+          "y": 54,
+          "id": 26
+        },
+        {
+          "size": 24,
+          "x": -84,
+          "y": 54,
+          "id": 27
+        },
+        {
+          "size": 24,
+          "x": -42,
+          "y": 54,
+          "id": 28
+        }
+      ],
+      "lineID": 3,
+      "order": 4
+    },
+    {
+      "properties": {
+        "betterquesting": {
+          "name": "Tools",
+          "bg_image": "",
+          "bg_size": 256,
+          "desc": "No Description"
+        }
+      },
+      "quests": [
+        {
+          "size": 24,
+          "x": -174,
+          "y": 90,
+          "id": 16
+        },
+        {
+          "size": 24,
+          "x": -78,
+          "y": 132,
+          "id": 17
+        },
+        {
+          "size": 24,
+          "x": -78,
+          "y": 174,
+          "id": 18
+        },
+        {
+          "size": 24,
+          "x": -30,
+          "y": 132,
+          "id": 19
+        },
+        {
+          "size": 24,
+          "x": -30,
+          "y": 48,
+          "id": 21
+        },
+        {
+          "size": 24,
+          "x": -126,
+          "y": 6,
+          "id": 10
+        },
+        {
+          "size": 24,
+          "x": -174,
+          "y": 48,
+          "id": 11
+        },
+        {
+          "size": 24,
+          "x": -126,
+          "y": 48,
+          "id": 12
+        },
+        {
+          "size": 24,
+          "x": -78,
+          "y": 90,
+          "id": 13
+        },
+        {
+          "size": 24,
+          "x": -78,
+          "y": 48,
+          "id": 14
+        },
+        {
+          "size": 24,
+          "x": -174,
+          "y": 132,
+          "id": 15
+        }
+      ],
+      "lineID": 4,
+      "order": 0
+    }
+  ],
+  "format": "1.0.0"
+}
