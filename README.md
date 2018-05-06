@@ -11,27 +11,27 @@ Forge Version: 12.18.3.2511
 ## Mods Included
 Mod | Version | Note
 --- | ------- | -------
-[AppleSkin](https://minecraft.curseforge.com/projects/appleskin) | 1.0.9 |
-[Agricraft](https://minecraft.curseforge.com/projects/agricraft) | 2.0.0-0.11.0-a21 | 
-[AutoRegLib](https://minecraft.curseforge.com/projects/autoreglib) | 1.0-2 | D (Quark)
-[Baubles](https://minecraft.curseforge.com/projects/baubles) | 1.10.2-1.3.13 | D 
-[Baubles Stuff](https://minecraft.curseforge.com/projects/baubles-stuff) | 3.0.2 | Requires Baubles
-[BetterFps](https://minecraft.curseforge.com/projects/betterfps) | 1.4.5-1.10 | 
-[BetterQuesting](https://minecraft.curseforge.com/projects/better-questing) | 2.3.234 |
-[Better Title Screen](https://minecraft.curseforge.com/projects/better-title-screen) | 1.10.2-1.2e |
+[AppleSkin](https://minecraft.curseforge.com/projects/appleskin) | v1.0.9 |
+[Agricraft](https://minecraft.curseforge.com/projects/agricraft) | v2.0.0-0.11.0-a21 | 
+[AutoRegLib](https://minecraft.curseforge.com/projects/autoreglib) | v1.0-2 | D (Quark)
+[Baubles](https://minecraft.curseforge.com/projects/baubles) | v1.3.13 | D 
+[Baubles Stuff](https://minecraft.curseforge.com/projects/baubles-stuff) | v3.0.2 | Requires Baubles
+[BetterFps](https://minecraft.curseforge.com/projects/betterfps) | v1.4.5 | 
+[BetterQuesting](https://minecraft.curseforge.com/projects/better-questing) | v2.3.234 |
+[Better Title Screen](https://minecraft.curseforge.com/projects/better-title-screen) | v1.2e |
 [BiblioCraft](https://minecraft.curseforge.com/projects/bibliocraft) | v2.2.5 |                   
-[Biomes O' Plenty](https://minecraft.curseforge.com/projects/biomes-o-plenty) | 1.10.2-5.0.0.2290-universal.jar                         
-[Chameleon](https://minecraft.curseforge.com/projects/chameleon) | 1.10.2-2.3.0 |                         
-[Chisel](https://minecraft.curseforge.com/projects/chisel) | MC1.10.2-0.2.0.43 |
-[ClayBucket](https://minecraft.curseforge.com/projects/clay-bucket) | 1.9.4-1.2 |
-[CompatLayer](https://minecraft.curseforge.com/projects/compatlayer) | 1.10-0.3.1 |
-[CoroUtil](https://minecraft.curseforge.com/projects/coroutil) | 1.10.2-1.1.18 | D (ZombieAwareness)
-[CraftTweaker](https://minecraft.curseforge.com/projects/crafttweaker) | 1.10.2-3.0.26 |
-[ConnectedTexturesMod](https://minecraft.curseforge.com/projects/ctm) | MC1.10.2-0.2.3.26 | D (Chisel)
-[CustomMobSpawner](https://minecraft.curseforge.com/projects/custom-mob-spawner) | 3.10.1 |
+[Biomes O' Plenty](https://minecraft.curseforge.com/projects/biomes-o-plenty) | v5.0.0.2290-universal |
+[Chameleon](https://minecraft.curseforge.com/projects/chameleon) | v2.3.0 |                         
+[Chisel](https://minecraft.curseforge.com/projects/chisel) | v0.2.0.43 |
+[ClayBucket](https://minecraft.curseforge.com/projects/clay-bucket) | v1.9.4-1.2 |
+[CompatLayer](https://minecraft.curseforge.com/projects/compatlayer) | v0.3.1 |
+[CoroUtil](https://minecraft.curseforge.com/projects/coroutil) | v1.1.18 | D (ZombieAwareness)
+[CraftTweaker](https://minecraft.curseforge.com/projects/crafttweaker) | v3.0.26 |
+[ConnectedTexturesMod](https://minecraft.curseforge.com/projects/ctm) | v0.2.3.26 | D (Chisel)
+[CustomMobSpawner](https://minecraft.curseforge.com/projects/custom-mob-spawner) | v3.10.1 |
 [CustomStarterGear](https://minecraft.curseforge.com/projects/custom-starter-gear) | v1.0.0.7-universal |
-[DefaultWorldGenerator (port)](https://minecraft.curseforge.com/projects/default-world-generator-port) | 1.9.4-0.4 |
-[Mo'Creatures](https://minecraft.curseforge.com/projects/mo-creatures) | 10.0.6 |
+[DefaultWorldGenerator (port)](https://minecraft.curseforge.com/projects/default-world-generator-port) | v1.9.4-0.4 |
+[Mo'Creatures](https://minecraft.curseforge.com/projects/mo-creatures) | v10.0.6 |
 [EnderCore](https://minecraft.curseforge.com/projects/endercore) | v0.4.1.66-beta | D (EnderIO)
 [EnderIO](https://minecraft.curseforge.com/projects/ender-io) | v3.1.193 |
 [Extra Utilities 2](https://minecraft.curseforge.com/projects/extra-utilities) | v1.7.6 |
@@ -39,7 +39,7 @@ Mod | Version | Note
 [FastLeaveDecay](https://minecraft.curseforge.com/projects/fast-leaf-decay) | v1.2.3 |
 [Gravestone Mod](https://minecraft.curseforge.com/projects/gravestone-mod) | 1.5.13 |
 [HardcoreDarkness](https://minecraft.curseforge.com/projects/hardcore-darkness) | v1.9 |
-[Hwyla](https://minecraft.curseforge.com/projects/hwyla) | 1.8.17-B31 |
+[Hwyla](https://minecraft.curseforge.com/projects/hwyla) | v1.8.17-B31 |
 [InfinityLib](https://minecraft.curseforge.com/projects/infinitylib) | v0.11.0 | D (Agricraft)
 [IronBackpacks](https://minecraft.curseforge.com/projects/iron-backpacks) | v2.2.33 |
 [Iron Chests](https://minecraft.curseforge.com/projects/iron-chests) | v7.0.15.804 | 
@@ -47,7 +47,7 @@ Mod | Version | Note
 [Just Enough Items (JEI)](https://minecraft.curseforge.com/projects/jei) | v3.14.7.420 |
 [JourneyMap](https://minecraft.curseforge.com/projects/journeymap) | v5.5.2 |
 [Just Enough Resources (JER)](https://minecraft.curseforge.com/projects/just-enough-resources-jer) | v0.5.8.98 |
-[Light Level Overlay Reloaded](https://minecraft.curseforge.com/projects/light-level-overlay-reloaded) | 1.1.1 |
+[Light Level Overlay Reloaded](https://minecraft.curseforge.com/projects/light-level-overlay-reloaded) | v1.1.1 |
 [The Lost Cities](https://minecraft.curseforge.com/projects/the-lost-cities) | v1.0.2 |
 [MalisisCore](https://minecraft.curseforge.com/projects/malisiscore) | v4.4.0 |
 [MalisisDoors](https://minecraft.curseforge.com/projects/malisisdoors) | v5.2.0 |
@@ -62,7 +62,7 @@ Mod | Version | Note
 [OpenBlocks](https://minecraft.curseforge.com/projects/openblocks) | v1.7.6 |
 [OpenModsLib](https://minecraft.curseforge.com/projects/openmodslib) | v0.11.5 |
 [Ore Excavation](https://minecraft.curseforge.com/projects/ore-excavation) | v1.2.114 |
-[Pam's HarvestCraft](https://minecraft.curseforge.com/projects/pams-harvestcraft) | 1.10.2j |
+[Pam's HarvestCraft](https://minecraft.curseforge.com/projects/pams-harvestcraft) | v1.10.2j |
 [PassableLeaves](https://minecraft.curseforge.com/projects/passable-leaves) | v4.1.0.1 |
 [Quark](https://minecraft.curseforge.com/projects/quark) | r1.1-70 | 
 [Better Questing - Quest Book](https://minecraft.curseforge.com/projects/better-questing-quest-book) | v2.1.0 |
