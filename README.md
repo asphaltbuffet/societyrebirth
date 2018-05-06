@@ -72,7 +72,7 @@ Mod | Version | Note
 [Tinkers' Construct](https://minecraft.curseforge.com/projects/tinkers-construct) | v2.6.5 |
 [Tinkers Tool Leveling](https://minecraft.curseforge.com/projects/tinkers-tool-leveling) | v1.0.1 | 
 [Tinker I/O](https://minecraft.curseforge.com/projects/tinker-i-o) | v2.4.4b |
-[Waila Harvestability(https://minecraft.curseforge.com/projects/waila-harvestability) | v1.1.10 |
+[Waila Harvestability](https://minecraft.curseforge.com/projects/waila-harvestability) | v1.1.10 |
 [Wawla](https://minecraft.curseforge.com/projects/wawla-what-are-we-looking-at) | v2.3.2.215 |
 [ZeroCore](https://minecraft.curseforge.com/projects/zerocore) | v0.1.2.0 |
 [Zombie Awareness](https://minecraft.curseforge.com/projects/zombie-awareness) | v1.11.8 |
