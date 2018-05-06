@@ -1,3 +1,82 @@
+// ===== BOWS =====
+
+// VANILLA
+recipes.remove(<minecraft:bow>);
+recipes.remove(<minecraft:arrow>);
+recipes.remove(<minecraft:spectral_arrow>);
+recipes.remove(<minecraft:tipped_arrow>);
+
+// MEKANISM
+recipes.remove(<mekanism:ElectricBow>);
+
+// MYSTICAL AGRICULTURE
+recipes.remove(<mysticalagriculture:inferium_bow>);
+recipes.remove(<mysticalagriculture:prudentium_bow>);
+recipes.remove(<mysticalagriculture:intermedium_bow>);
+recipes.remove(<mysticalagriculture:superium_bow>);
+recipes.remove(<mysticalagriculture:supremium_bow>);
+recipes.remove(<mysticalagriculture:supremium_bow_quick>);
+recipes.remove(<mysticalagriculture:supremium_bow_triple>);
+recipes.remove(<mysticalagriculture:arrow_head>);
+recipes.remove(<mysticalagriculture:inferium_arrow>);
+recipes.remove(<mysticalagriculture:prudentium_arrow>);
+recipes.remove(<mysticalagriculture:intermedium_arrow>);
+recipes.remove(<mysticalagriculture:superium_arrow>);
+recipes.remove(<mysticalagriculture:supremium_arrow>);
+
+// ENDER IO
+recipes.remove(<enderio:darkSteelBow>);
+
+// QUARK
+recipes.remove(<quark:arrow_ender>);
+recipes.remove(<quark:arrow_explosive>);
+recipes.remove(<quark:arrow_torch>);
+
+// ===== SICKLES =====
+
+// MYSTICAL AGRICULTURE
+recipes.remove(<mysticalagriculture:inferium_sickle>);
+recipes.remove(<mysticalagriculture:prudentium_sickle>);
+recipes.remove(<mysticalagriculture:intermedium_sickle>);
+recipes.remove(<mysticalagriculture:superium_sickle>);
+recipes.remove(<mysticalagriculture:supremium_sickle>);
+recipes.remove(<mysticalagriculture:supremium_sickle_aoe>);
+
+// THERMAL FOUNDATION
+recipes.remove(<thermalfoundation:tool.sickle_iron>);
+recipes.remove(<thermalfoundation:tool.sickle_diamond>);
+recipes.remove(<thermalfoundation:tool.sickle_gold>);
+recipes.remove(<thermalfoundation:tool.sickle_copper>);
+recipes.remove(<thermalfoundation:tool.sickle_tin>);
+recipes.remove(<thermalfoundation:tool.sickle_silver>);
+recipes.remove(<thermalfoundation:tool.sickle_lead>);
+recipes.remove(<thermalfoundation:tool.sickle_aluminum>);
+recipes.remove(<thermalfoundation:tool.sickle_nickel>);
+recipes.remove(<thermalfoundation:tool.sickle_platinum>);
+recipes.remove(<thermalfoundation:tool.sickle_steel>);
+recipes.remove(<thermalfoundation:tool.sickle_electrum>);
+recipes.remove(<thermalfoundation:tool.sickle_invar>);
+recipes.remove(<thermalfoundation:tool.sickle_bronze>);
+recipes.remove(<thermalfoundation:tool.sickle_constantan>);
+
+// ===== SCYTHES =====
+
+// BOP
+recipes.remove(<biomesoplenty:mud_scythe>);
+recipes.remove(<biomesoplenty:wooden_scythe>);
+recipes.remove(<biomesoplenty:stone_scythe>);
+recipes.remove(<biomesoplenty:iron_scythe>);
+recipes.remove(<biomesoplenty:golden_scythe>);
+recipes.remove(<biomesoplenty:diamond_scythe>);
+
+// MYSTICAL AGRICULTURE
+recipes.remove(<mysticalagriculture:inferium_scythe>);
+recipes.remove(<mysticalagriculture:prudentium_scythe>);
+recipes.remove(<mysticalagriculture:intermedium_scythe>);
+recipes.remove(<mysticalagriculture:superium_scythe>);
+recipes.remove(<mysticalagriculture:supremium_scythe>);
+recipes.remove(<mysticalagriculture:supremium_scythe_aoe>);
+
 // ===== HOES =====
 
 // VANILLA
@@ -97,6 +176,9 @@ recipes.remove(<thermalfoundation:tool.axe_invar>);
 recipes.remove(<thermalfoundation:tool.axe_bronze>);
 recipes.remove(<thermalfoundation:tool.axe_constantan>);
 
+// ENDER IO
+recipes.remove(<enderio:darkSteel_axe>);
+
 // ===== PICKAXES =====
 
 // VANILLA
@@ -139,6 +221,9 @@ recipes.remove(<thermalfoundation:tool.pickaxe_electrum>);
 recipes.remove(<thermalfoundation:tool.pickaxe_invar>);
 recipes.remove(<thermalfoundation:tool.pickaxe_bronze>);
 recipes.remove(<thermalfoundation:tool.pickaxe_constantan>);
+
+// ENDER IO
+recipes.remove(<enderio:darkSteel_pickaxe>);
 
 // ===== SWORDS =====
 
@@ -183,6 +268,15 @@ recipes.remove(<thermalfoundation:tool.sword_electrum>);
 recipes.remove(<thermalfoundation:tool.sword_invar>);
 recipes.remove(<thermalfoundation:tool.sword_bronze>);
 recipes.remove(<thermalfoundation:tool.sword_constantan>);
+
+// ENDER IO
+recipes.remove(<enderio:darkSteel_sword>);
+
+// MO'CREATURES
+recipes.remove(<mocreatures:scorpswordcave>);
+recipes.remove(<mocreatures:scorpswordfrost>);
+recipes.remove(<mocreatures:scorpswordnether>);
+recipes.remove(<mocreatures:scorpsworddirt>);
 
 // ===== SHOVELS =====
 
