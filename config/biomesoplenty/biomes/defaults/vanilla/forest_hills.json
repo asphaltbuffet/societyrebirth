@@ -109,7 +109,7 @@
       },
       "generationAttempts": 32,
       "amountPerChunk": 0.25,
-      "enable": true
+      "enable": false
     },
     "flax": {
       "with": {
