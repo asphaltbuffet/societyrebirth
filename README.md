@@ -78,7 +78,8 @@ Mod | Version | Note
 [Zombie Awareness](https://minecraft.curseforge.com/projects/zombie-awareness) | v1.11.12 |
 
 ## Recommended Mods
-OptiFine
+OptiFine - this is STRONGLY recommended with included darkness mods
 
 
-## Additional Info
+## Other Credits
+Logo Source: [MichaelGaida](https://pixabay.com/en/lost-places-leave-decay-old-ruin-3362259/)
