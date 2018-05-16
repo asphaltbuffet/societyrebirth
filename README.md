@@ -4,8 +4,8 @@
 A world that is filled with the husks of once-great cities. It's up to you to find their lost treasures and attempt to rebuild.
 
 ## Versioning
-Minecraft Version: 1.12.2 (modded)\n
-Forge Version: 14.23.3.2678
+Minecraft: v1.12.2 (modded)\
+Forge: v14.23.3.2691
 
 
 ## Mods Included
