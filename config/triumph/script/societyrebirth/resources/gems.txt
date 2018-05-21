@@ -1,0 +1,53 @@
+//Set icon item
+setIcon(<biomesoplenty:gem_ore, meta:1>)
+
+//Set title String
+setTitle("Gems")
+
+//Set description String
+setDescription("Not everything that shimmers is gold.")
+
+setFrameType("goal")
+
+setParent("triumph:societyrebirth/resources/root")
+
+//Set the toast notification in the top right corner of the screen to not show up when this advancement is achieved. 
+setShowToast(true)
+
+//Set the advancement to not send a chat message when it is achieved.
+setAnnounceToChat(false)
+
+addCriteria("oreDiamond", "triumph:player_break_block")
+criteria.setBlock(<ore:oreDiamond>)
+
+addCriteria("oreEmerald", "triumph:player_break_block")
+criteria.setBlock(<ore:oreEmerald>)
+
+addCriteria("oreQuartz", "triumph:player_break_block")
+criteria.setBlock(<ore:oreQuartz>)
+
+addCriteria("oreAmethyst", "triumph:player_break_block")
+criteria.setBlock(<ore:oreAmethyst>)
+
+addCriteria("oreRuby", "triumph:player_break_block")
+criteria.setBlock(<ore:oreRuby>)
+
+addCriteria("orePeridot", "triumph:player_break_block")
+criteria.setBlock(<ore:orePeridot>)
+
+addCriteria("oreTopaz", "triumph:player_break_block")
+criteria.setBlock(<ore:oreTopaz>)
+
+addCriteria("oreTanzanite", "triumph:player_break_block")
+criteria.setBlock(<ore:oreTanzanite>)
+
+addCriteria("oreMalachite", "triumph:player_break_block")
+criteria.setBlock(<ore:oreMalachite>)
+
+addCriteria("oreSapphire", "triumph:player_break_block")
+criteria.setBlock(<ore:oreSapphire>)
+
+addCriteria("oreAmber", "triumph:player_break_block")
+criteria.setBlock(<ore:oreAmber>)
+
+setRequirements("all")

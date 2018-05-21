@@ -14,13 +14,13 @@ Mod | Version | Note
 [Agricraft](https://minecraft.curseforge.com/projects/agricraft) | v2.12.0-1.12.0-a4 | 
 [AppleSkin](https://minecraft.curseforge.com/projects/appleskin) | v1.0.9 |
 [AutoRegLib](https://minecraft.curseforge.com/projects/autoreglib) | v1.3-17 |
-[Better Questing](https://minecraft.curseforge.com/projects/better-questing) | v3.5.256 |
-[Better Questing - Quest Book](https://minecraft.curseforge.com/projects/better-questing-quest-book) | v3.1.1 |
-[Better Questing - Standard Expansion](https://minecraft.curseforge.com/projects/better-questing-standard-expansion) | v3.4.141 |
+[Better Advancements]() | v0.0.5.17 |
 [Better Title Screen](https://minecraft.curseforge.com/projects/better-title-screen) | v1.4b |
 [BetterFps](https://minecraft.curseforge.com/projects/betterfps) | v1.4.8 | 
 [BiblioCraft](https://minecraft.curseforge.com/projects/bibliocraft) | v2.4.3 |                   
 [Biomes O' Plenty](https://minecraft.curseforge.com/projects/biomes-o-plenty) | v7.0.1.2387 |
+[BnBGamingCore]() | v0.8.0 |
+[BnBGamingLib]() | v11.2 |
 [Chameleon](https://minecraft.curseforge.com/projects/chameleon) | v4.1.3 |                         
 [Chisel](https://minecraft.curseforge.com/projects/chisel) | v0.2.0.31 |
 [ClayBucket](https://minecraft.curseforge.com/projects/clay-bucket) | v1.1 |
@@ -70,9 +70,10 @@ Mod | Version | Note
 [Thermal Expansion](https://minecraft.curseforge.com/projects/thermalexpansion) | v5.4.2.27 |
 [Thermal Foundation](https://minecraft.curseforge.com/projects/thermal-foundation) | v2.4.1.15 |
 [Tinker I/O](https://minecraft.curseforge.com/projects/tinker-i-o) | v2.6.1 |
-[Tinkered Hegemony](https://minecraft.curseforge.com/projects/tinkered-hegemony) | 0.1.1 |
+[Tinkered Hegemony](https://minecraft.curseforge.com/projects/tinkered-hegemony) | v0.1.1 |
 [Tinkers' Construct](https://minecraft.curseforge.com/projects/tinkers-construct) | v2.9.1.65 |
 [Tinkers Tool Leveling](https://minecraft.curseforge.com/projects/tinkers-tool-leveling) | v1.0.4 | 
+[Triumph](https://minecraft.curseforge.com/projects/triumph) | v1.13.0 |
 [Waila Harvestability](https://minecraft.curseforge.com/projects/waila-harvestability) | v1.1.12 |
 [Wawla](https://minecraft.curseforge.com/projects/wawla-what-are-we-looking-at) | v2.5.253 |
 [Zombie Awareness](https://minecraft.curseforge.com/projects/zombie-awareness) | v1.11.12 |
