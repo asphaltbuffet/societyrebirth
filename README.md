@@ -18,7 +18,7 @@ Mod | Version | Note
 [Better Title Screen](https://minecraft.curseforge.com/projects/better-title-screen) | v1.4b |
 [BetterFps](https://minecraft.curseforge.com/projects/betterfps) | v1.4.8 | 
 [BiblioCraft](https://minecraft.curseforge.com/projects/bibliocraft) | v2.4.3 |                   
-[Biomes O' Plenty](https://minecraft.curseforge.com/projects/biomes-o-plenty) | v7.0.1.2387 |
+[Biomes O' Plenty](https://minecraft.curseforge.com/projects/biomes-o-plenty) | v7.0.1.2389 |
 [BnBGamingCore]() | v0.8.0 |
 [BnBGamingLib]() | v11.2 |
 [Chameleon](https://minecraft.curseforge.com/projects/chameleon) | v4.1.3 |                         
@@ -28,7 +28,7 @@ Mod | Version | Note
 [CoFH Core](https://minecraft.curseforge.com/projects/cofhcore) | v4.4.1.12 |
 [CoFH World](https://minecraft.curseforge.com/projects/cofh-world) | 1.1.1.12 |
 [ConnectedTexturesMod](https://minecraft.curseforge.com/projects/ctm) | v0.2.3.12 | 
-[CoroUtil](https://minecraft.curseforge.com/projects/coroutil) | v1.2.7 | 
+[CoroUtil](https://minecraft.curseforge.com/projects/coroutil) | v1.2.9 | 
 [CraftTweaker](https://minecraft.curseforge.com/projects/crafttweaker) | v4.1.8 |
 [Cucumber Library](https://minecraft.curseforge.com/projects/cucumber) | v1.1.0 |
 [CustomStarterGear](https://minecraft.curseforge.com/projects/custom-starter-gear) | v1.2.0.9 |
@@ -45,8 +45,8 @@ Mod | Version | Note
 [IronBackpacks](https://minecraft.curseforge.com/projects/iron-backpacks) | v3.0.7-10 |
 [Iron Chests](https://minecraft.curseforge.com/projects/iron-chests) | v7.0.42.827 | 
 [JourneyMap](https://minecraft.curseforge.com/projects/journeymap) | v5.5.2 |
-[Just Enough HarvestCraft (JEHC)](https://minecraft.curseforge.com/projects/just-enough-harvestcraft) | v1.5.0.0 |
-[Just Enough Items (JEI)](https://minecraft.curseforge.com/projects/jei) | v4.9.1.175 |
+[Just Enough HarvestCraft (JEHC)](https://minecraft.curseforge.com/projects/just-enough-harvestcraft) | v1.5.1 |
+[Just Enough Items (JEI)](https://minecraft.curseforge.com/projects/jei) | v4.9.1.187 |
 [Just Enough Resources (JER)](https://minecraft.curseforge.com/projects/just-enough-resources-jer) | v0.8.6.28 |
 [Lost Souls](https://minecraft.curseforge.com/projects/lost-souls) | v1.1.4 | Server-side Only
 [MalisisCore](https://minecraft.curseforge.com/projects/malisiscore) | v6.4.0 |
@@ -57,11 +57,11 @@ Mod | Version | Note
 [Morpheus](https://minecraft.curseforge.com/projects/morpheus) | v3.3.2 | Server-side Only
 [MouseTweaks](https://minecraft.curseforge.com/projects/mouse-tweaks) | v2.8 |
 [Mystical Agradditions](https://minecraft.curseforge.com/projects/mystical-agradditions) | v1.2.8 | 
-[Mystical Agriculture](https://minecraft.curseforge.com/projects/mystical-agriculture) | v1.6.9 | 
+[Mystical Agriculture](https://minecraft.curseforge.com/projects/mystical-agriculture) | v1.6.10 | 
 [OpenBlocks](https://minecraft.curseforge.com/projects/openblocks) | v1.7.6 |
 [OpenModsLib](https://minecraft.curseforge.com/projects/openmodslib) | v0.11.5 |
 [Ore Excavation](https://minecraft.curseforge.com/projects/ore-excavation) | v1.4.118 |
-[Pam's HarvestCraft](https://minecraft.curseforge.com/projects/pams-harvestcraft) | v1.12.2t |
+[Pam's HarvestCraft](https://minecraft.curseforge.com/projects/pams-harvestcraft) | v1.12.2u |
 [Quark](https://minecraft.curseforge.com/projects/quark) | r1.4-123 | 
 [Redstone Flux](https://minecraft.curseforge.com/projects/redstone-flux) | v2.0.1.2 |
 [Storage Drawers](https://minecraft.curseforge.com/projects/storage-drawers) | v5.3.6 |
