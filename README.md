@@ -34,8 +34,6 @@ Mod | Version | Note
 [CustomStarterGear](https://minecraft.curseforge.com/projects/custom-starter-gear) | v1.2.0.9 |
 [Default Options](https://minecraft.curseforge.com/projects/default-options) | v9.2.7
 [DefaultWorldGenerator (port)](https://minecraft.curseforge.com/projects/default-world-generator-port) | v2.3 |
-[EnderIO](https://minecraft.curseforge.com/projects/ender-io) | v5.0.24 |
-[EnderCore](https://minecraft.curseforge.com/projects/endercore) | v0.5.22 | 
 [Extra Utilities](https://minecraft.curseforge.com/projects/extra-utilities) | v1.7.6 |
 [Fast Leaf Decay](https://minecraft.curseforge.com/projects/fast-leaf-decay) | v14 |
 [GraveStone Mod](https://minecraft.curseforge.com/projects/gravestone-mod) | 1.10.1 |
