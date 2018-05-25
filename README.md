@@ -36,6 +36,7 @@ Mod | Version | Note
 [DefaultWorldGenerator (port)](https://minecraft.curseforge.com/projects/default-world-generator-port) | v2.3 |
 [Extra Utilities](https://minecraft.curseforge.com/projects/extra-utilities) | v1.7.6 |
 [Fast Leaf Decay](https://minecraft.curseforge.com/projects/fast-leaf-decay) | v14 |
+[Geolosys](https://minecraft.curseforge.com/projects/geolosys) | v1.9 |
 [GraveStone Mod](https://minecraft.curseforge.com/projects/gravestone-mod) | 1.10.1 |
 [HardcoreDarkness](https://minecraft.curseforge.com/projects/hardcore-darkness) | v2.0 |
 [Hwyla](https://minecraft.curseforge.com/projects/hwyla) | v1.8.25-B40 |
