@@ -17,10 +17,10 @@ setShowToast(true)
 //Set the advancement to not send a chat message when it is achieved.
 setAnnounceToChat(false)
 
-addCriteria("oreProsperity", "triumph:player_break_block")
-criteria.setBlock(<ore:oreProsperity>)
+criteria = addCriteria("oreProsperity", "triumph:player_break_block")
+criteria.setBlock(<mysticalagriculture:prosperity_ore>)
 
-addCriteria("oreInferium", "triumph:player_break_block")
-criteria.setBlock(<ore:oreInferium>)
+criteria = addCriteria("oreInferium", "triumph:player_break_block")
+criteria.setBlock(<mysticalagriculture:inferium_ore>)
 
 setRequirements("all")

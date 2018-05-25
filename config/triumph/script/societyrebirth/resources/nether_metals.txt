@@ -17,10 +17,10 @@ setShowToast(true)
 //Set the advancement to not send a chat message when it is achieved.
 setAnnounceToChat(false)
 
-addCriteria("oreArdite", "triumph:player_break_block")
+criteria = addCriteria("oreArdite", "triumph:player_break_block")
 criteria.setBlock(<ore:oreArdite>)
 
-addCriteria("oreCobalt", "triumph:player_break_block")
+criteria = addCriteria("oreCobalt", "triumph:player_break_block")
 criteria.setBlock(<ore:oreCobalt>)
 
 setRequirements("all")

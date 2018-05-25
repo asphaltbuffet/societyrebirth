@@ -17,15 +17,16 @@ setRequiresParent(true)
 //Set this to use direct lines, so I can have a pretty shape
 drawDirectLines(true)
 
-//Adds criteria named "crafted" with the trigger type "triumph:player_crafted_item". This function returns the criteria as an object
-criteria = addCriteria("crafted_cts", "triumph:player_crafted_item")
-
-//Sets the item for the criteria. This is the item that needs to be crafted.
 // stencil table
+criteria = addCriteria("tooltables_1", "triumph:player_crafted_item")
 criteria.setItem(<tconstruct:tooltables, meta:1>)
+
 // part builder
+criteria = addCriteria("tooltables_2", "triumph:player_crafted_item")
 criteria.setItem(<tconstruct:tooltables, meta:2>)
+
 // tool station
+criteria = addCriteria("tooltables_3", "triumph:player_crafted_item")
 criteria.setItem(<tconstruct:tooltables, meta:3>)
 
 // Require all to be crafted
