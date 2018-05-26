@@ -13,13 +13,16 @@ setDescription("What hides below?")
 setBackground("minecraft:textures/gui/advancements/backgrounds/adventure.png")
 
 //Set the toast notification in the top right corner of the screen to not show up when this advancement is achieved. 
-setShowToast(false)
+setShowToast(true)
 
 //Set the advancement to not send a chat message when it is achieved.
 setAnnounceToChat(false)
 
 //Set the position
 //setPos(10, 10)
+
+addCriteria("geolosysOre", "triumph:player_break_block")
+criteria.setBlock(<geolosys:ore>)
 
 addCriteria("oreGold", "triumph:player_break_block")
 criteria.setBlock(<ore:oreGold>)
