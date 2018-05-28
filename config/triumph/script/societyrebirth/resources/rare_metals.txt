@@ -1,0 +1,35 @@
+//Set icon item
+setIcon("minecraft:gold_ore")
+
+//Set title String
+setTitle("Rare metals")
+
+//Set description String
+setDescription("High rarity leads to value and power.")
+
+setFrameType("goal")
+
+setParent("triumph:societyrebirth/resources/root")
+
+//Set the toast notification in the top right corner of the screen to not show up when this advancement is achieved. 
+setShowToast(true)
+
+//Set the advancement to not send a chat message when it is achieved.
+setAnnounceToChat(false)
+
+criteria = addCriteria("oreGold", "triumph:player_break_block")
+criteria.setBlock(<ore:oreGold>)
+
+criteria = addCriteria("oreSilver", "triumph:player_break_block")
+criteria.setBlock(<ore:oreSilver>)
+
+criteria = addCriteria("orePlatinum", "triumph:player_break_block")
+criteria.setBlock(<ore:orePlatinum>)
+
+criteria = addCriteria("oreIridium", "triumph:player_break_block")
+criteria.setBlock(<ore:oreIridium>)
+
+criteria = addCriteria("oreMithril", "triumph:player_break_block")
+criteria.setBlock(<ore:oreMithril>)
+
+setRequirements("all")

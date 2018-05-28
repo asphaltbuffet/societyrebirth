@@ -1,0 +1,41 @@
+//Set icon item
+setIcon("minecraft:iron_ore")
+
+//Set title String
+setTitle("Metal Ores")
+
+//Set description String
+setDescription("Common metal is the backbone of industry.")
+
+setFrameType("goal")
+
+setParent("triumph:societyrebirth/resources/root")
+
+//Set the toast notification in the top right corner of the screen to not show up when this advancement is achieved. 
+setShowToast(true)
+
+//Set the advancement to not send a chat message when it is achieved.
+setAnnounceToChat(false)
+
+criteria = addCriteria("oreIron", "triumph:player_break_block")
+criteria.setBlock(<ore:oreIron>)
+
+criteria = addCriteria("oreCopper", "triumph:player_break_block")
+criteria.setBlock(<ore:oreCopper>)
+
+criteria = addCriteria("oreTin", "triumph:player_break_block")
+criteria.setBlock(<ore:oreTin>)
+
+criteria = addCriteria("oreLead", "triumph:player_break_block")
+criteria.setBlock(<ore:oreLead>)
+
+criteria = addCriteria("oreAluminum", "triumph:player_break_block")
+criteria.setBlock(<ore:oreAluminum>)
+
+criteria = addCriteria("oreNickel", "triumph:player_break_block")
+criteria.setBlock(<ore:oreNickel>)
+
+criteria = addCriteria("oreOsmium", "triumph:player_break_block")
+criteria.setBlock(<ore:oreOsmium>)
+
+setRequirements("all")

@@ -1,0 +1,26 @@
+//Set icon item
+setIcon(<mysticalagriculture:inferium_ore>)
+
+//Set title String
+setTitle("Magical Ores")
+
+//Set description String
+setDescription("Magical metals behave in strange ways.")
+
+setFrameType("goal")
+
+setParent("triumph:societyrebirth/resources/root")
+
+//Set the toast notification in the top right corner of the screen to not show up when this advancement is achieved. 
+setShowToast(true)
+
+//Set the advancement to not send a chat message when it is achieved.
+setAnnounceToChat(false)
+
+criteria = addCriteria("oreProsperity", "triumph:player_break_block")
+criteria.setBlock(<mysticalagriculture:prosperity_ore>)
+
+criteria = addCriteria("oreInferium", "triumph:player_break_block")
+criteria.setBlock(<mysticalagriculture:inferium_ore>)
+
+setRequirements("all")

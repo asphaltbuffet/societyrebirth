@@ -6,3 +6,5 @@ config/MouseTweaks\.cfg
 release_notes\.bat
 
 config/codechicken/supporters\.json
+
+config/agricraft/json/server_*/
