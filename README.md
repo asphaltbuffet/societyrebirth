@@ -65,7 +65,7 @@ Mod | Version | Note
 [Random Patches](https://minecraft.curseforge.com/projects/randompatches) | v1.5.0.4 |
 [Storage Drawers](https://minecraft.curseforge.com/projects/storage-drawers) | v5.3.6 |
 [Storage Drawers Extras](https://minecraft.curseforge.com/projects/storage-drawers-extras) | v3.1.0 |
-[The Lost Cities](https://minecraft.curseforge.com/projects/the-lost-cities) | v2.0.7 | Server-side Only
+[Tech Guns](https://minecraft.curseforge.com/projects/techguns) | v2.0.1.1 |
 [Thermal Expansion](https://minecraft.curseforge.com/projects/thermalexpansion) | v5.4.2.27 |
 [Thermal Foundation](https://minecraft.curseforge.com/projects/thermal-foundation) | v2.4.1.15 |
 [Tinker I/O](https://minecraft.curseforge.com/projects/tinker-i-o) | v2.6.1 |
