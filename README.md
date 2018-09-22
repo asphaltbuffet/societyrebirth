@@ -21,7 +21,6 @@ Mod | Version | Note
 [Biomes O' Plenty](https://minecraft.curseforge.com/projects/biomes-o-plenty) | v7.0.1.2399 |
 [Chameleon](https://minecraft.curseforge.com/projects/chameleon) | v4.1.3 |                         
 [Chisel](https://minecraft.curseforge.com/projects/chisel) | v0.2.1.35 |
-[Chameleon](https://minecraft.curseforge.com/projects/chameleon) | v4.1.3 |                         
 [Chisel](https://minecraft.curseforge.com/projects/chisel) | v0.2.0.31 |
 [ClayBucket](https://minecraft.curseforge.com/projects/clay-bucket) | v1.1 |
 [CodeChicken Lib](https://minecraft.curseforge.com/projects/codechicken-lib-1-8) | v3.1.8.341 | 
@@ -31,6 +30,8 @@ Mod | Version | Note
 [CoroUtil](https://minecraft.curseforge.com/projects/coroutil) | v1.2.9 | 
 [Cooking for Blockheads](https://minecraft.curseforge.com/projects/cooking-for-blockheads) | v6.4.63
 [Cucumber Library](https://minecraft.curseforge.com/projects/cucumber) | v1.1.0 |
+[CraftTweaker](https://minecraft.curseforge.com/projects/crafttweaker) | v4.1.9 |
+[Cucumber Library](https://minecraft.curseforge.com/projects/cucumber) | v1.1.1 |
 [CustomStarterGear](https://minecraft.curseforge.com/projects/custom-starter-gear) | v1.2.0.9 |
 [Default Options](https://minecraft.curseforge.com/projects/default-options) | v9.2.7
 [DefaultWorldGenerator (port)](https://minecraft.curseforge.com/projects/default-world-generator-port) | v2.3 |
@@ -41,7 +42,7 @@ Mod | Version | Note
 [HardcoreDarkness](https://minecraft.curseforge.com/projects/hardcore-darkness) | v2.0 |
 [Hwyla](https://minecraft.curseforge.com/projects/hwyla) | v1.8.25-B40 |
 [InfinityLib](https://minecraft.curseforge.com/projects/infinitylib) | v1.12.0 | 
-[IronBackpacks](https://minecraft.curseforge.com/projects/iron-backpacks) | v3.0.7-10 |
+[Iron Chests](https://minecraft.curseforge.com/projects/iron-chests) | v7.0.46.831 | 
 [Iron Chests](https://minecraft.curseforge.com/projects/iron-chests) | v7.0.42.827 | 
 [JourneyMap](https://minecraft.curseforge.com/projects/journeymap) | v5.5.2 |
 [Just Enough HarvestCraft (JEHC)](https://minecraft.curseforge.com/projects/just-enough-harvestcraft) | v1.5.1 |
@@ -57,20 +58,22 @@ Mod | Version | Note
 [MouseTweaks](https://minecraft.curseforge.com/projects/mouse-tweaks) | v2.8 |
 [Mystical Agradditions](https://minecraft.curseforge.com/projects/mystical-agradditions) | v1.2.8 | 
 [Mystical Agriculture](https://minecraft.curseforge.com/projects/mystical-agriculture) | v1.6.10 | 
+[Nether EX](https://minecraft.curseforge.com/projects/netherex) | v
 [OpenBlocks](https://minecraft.curseforge.com/projects/openblocks) | v1.7.6 |
 [OpenModsLib](https://minecraft.curseforge.com/projects/openmodslib) | v0.11.5 |
 [Ore Excavation](https://minecraft.curseforge.com/projects/ore-excavation) | v1.4.118 |
 [Pam's HarvestCraft](https://minecraft.curseforge.com/projects/pams-harvestcraft) | v1.12.2u |
 [Quark](https://minecraft.curseforge.com/projects/quark) | r1.4-123 | 
 [Random Patches](https://minecraft.curseforge.com/projects/randompatches) | v1.5.0.4 |
-[Storage Drawers](https://minecraft.curseforge.com/projects/storage-drawers) | v5.3.6 |
+[Redstone Flux](https://minecraft.curseforge.com/projects/redstone-flux) | v2.0.2.3 |
+[Storage Drawers](https://minecraft.curseforge.com/projects/storage-drawers) | v5.3.7 |
 [Storage Drawers Extras](https://minecraft.curseforge.com/projects/storage-drawers-extras) | v3.1.0 |
 [Tech Guns](https://minecraft.curseforge.com/projects/techguns) | v2.0.1.1 |
-[Thermal Expansion](https://minecraft.curseforge.com/projects/thermalexpansion) | v5.4.2.27 |
+[The Lost Cities](https://minecraft.curseforge.com/projects/the-lost-cities) | v2.0.11 | Server-side Only
 [Thermal Foundation](https://minecraft.curseforge.com/projects/thermal-foundation) | v2.4.1.15 |
+[Thermal Foundation](https://minecraft.curseforge.com/projects/thermal-foundation) | v2.5.0.19 |
 [Tinker I/O](https://minecraft.curseforge.com/projects/tinker-i-o) | v2.6.1 |
-[Tinkered Hegemony](https://minecraft.curseforge.com/projects/tinkered-hegemony) | v0.1.1 |
-[Tinkers' Construct](https://minecraft.curseforge.com/projects/tinkers-construct) | v2.9.1.65 |
+[Tinkered Hegemony](https://minecraft.curseforge.com/projects/tinkered-hegemony) | v0.2.0 |
 [Tinkers Tool Leveling](https://minecraft.curseforge.com/projects/tinkers-tool-leveling) | v1.0.4 | 
 [ViesCraft - Airships!](https://minecraft.curseforge.com/projects/viescraft-airships) v5.9.13
 [Waila Harvestability](https://minecraft.curseforge.com/projects/waila-harvestability) | v1.1.12 |
