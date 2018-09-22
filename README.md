@@ -62,7 +62,7 @@ Mod | Version | Note
 [Ore Excavation](https://minecraft.curseforge.com/projects/ore-excavation) | v1.4.118 |
 [Pam's HarvestCraft](https://minecraft.curseforge.com/projects/pams-harvestcraft) | v1.12.2u |
 [Quark](https://minecraft.curseforge.com/projects/quark) | r1.4-123 | 
-[Redstone Flux](https://minecraft.curseforge.com/projects/redstone-flux) | v2.0.1.2 |
+[Random Patches](https://minecraft.curseforge.com/projects/randompatches) | v1.5.0.4 |
 [Storage Drawers](https://minecraft.curseforge.com/projects/storage-drawers) | v5.3.6 |
 [Storage Drawers Extras](https://minecraft.curseforge.com/projects/storage-drawers-extras) | v3.1.0 |
 [The Lost Cities](https://minecraft.curseforge.com/projects/the-lost-cities) | v2.0.7 | Server-side Only
