@@ -14,13 +14,13 @@ Mod | Version | Note
 [Actually Additions](https://minecraft.curseforge.com/projects/actually-additions) | vr140 |
 [AppleSkin](https://minecraft.curseforge.com/projects/appleskin) | v1.0.9 |
 [AutoRegLib](https://minecraft.curseforge.com/projects/autoreglib) | v1.3-17 |
-[Better Advancements]() | v0.0.5.17 |
+[Backpacks!](https://minecraft.curseforge.com/projects/backpacks) | v
 [Better Title Screen](https://minecraft.curseforge.com/projects/better-title-screen) | v1.4b |
 [BetterFps](https://minecraft.curseforge.com/projects/betterfps) | v1.4.8 | 
 [BiblioCraft](https://minecraft.curseforge.com/projects/bibliocraft) | v2.4.5 |                   
 [Biomes O' Plenty](https://minecraft.curseforge.com/projects/biomes-o-plenty) | v7.0.1.2389 |
-[BnBGamingCore]() | v0.8.0 |
-[BnBGamingLib]() | v11.2 |
+[Chameleon](https://minecraft.curseforge.com/projects/chameleon) | v4.1.3 |                         
+[Chisel](https://minecraft.curseforge.com/projects/chisel) | v0.2.1.35 |
 [Chameleon](https://minecraft.curseforge.com/projects/chameleon) | v4.1.3 |                         
 [Chisel](https://minecraft.curseforge.com/projects/chisel) | v0.2.0.31 |
 [ClayBucket](https://minecraft.curseforge.com/projects/clay-bucket) | v1.1 |
@@ -72,7 +72,7 @@ Mod | Version | Note
 [Tinkered Hegemony](https://minecraft.curseforge.com/projects/tinkered-hegemony) | v0.1.1 |
 [Tinkers' Construct](https://minecraft.curseforge.com/projects/tinkers-construct) | v2.9.1.65 |
 [Tinkers Tool Leveling](https://minecraft.curseforge.com/projects/tinkers-tool-leveling) | v1.0.4 | 
-[Triumph](https://minecraft.curseforge.com/projects/triumph) | v1.13.0 |
+[ViesCraft - Airships!](https://minecraft.curseforge.com/projects/viescraft-airships) v5.9.13
 [Waila Harvestability](https://minecraft.curseforge.com/projects/waila-harvestability) | v1.1.12 |
 [Wawla](https://minecraft.curseforge.com/projects/wawla-what-are-we-looking-at) | v2.5.253 |
 [Zombie Awareness](https://minecraft.curseforge.com/projects/zombie-awareness) | v1.11.12 |
