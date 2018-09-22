@@ -62,9 +62,10 @@ Mod | Version | Note
 [OpenBlocks](https://minecraft.curseforge.com/projects/openblocks) | v1.7.6 |
 [OpenModsLib](https://minecraft.curseforge.com/projects/openmodslib) | v0.11.5 |
 [Ore Excavation](https://minecraft.curseforge.com/projects/ore-excavation) | v1.4.118 |
-[Pam's HarvestCraft](https://minecraft.curseforge.com/projects/pams-harvestcraft) | v1.12.2u |
+[NetherEx](https://minecraft.curseforge.com/projects/netherex) | v2.0.8
 [Quark](https://minecraft.curseforge.com/projects/quark) | r1.4-123 | 
 [Random Patches](https://minecraft.curseforge.com/projects/randompatches) | v1.5.0.4 |
+[Random Tweaks]() | v |
 [Redstone Flux](https://minecraft.curseforge.com/projects/redstone-flux) | v2.0.2.3 |
 [Storage Drawers](https://minecraft.curseforge.com/projects/storage-drawers) | v5.3.7 |
 [Storage Drawers Extras](https://minecraft.curseforge.com/projects/storage-drawers-extras) | v3.1.0 |
