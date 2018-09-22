@@ -14,7 +14,7 @@ Mod | Version | Note
 [Actually Additions](https://minecraft.curseforge.com/projects/actually-additions) | vr140 |
 [AppleSkin](https://minecraft.curseforge.com/projects/appleskin) | v1.0.9 |
 [AutoRegLib](https://minecraft.curseforge.com/projects/autoreglib) | v1.3-17 |
-[Backpacks!](https://minecraft.curseforge.com/projects/backpacks) | v
+[Backpacks!](https://minecraft.curseforge.com/projects/backpacks) | v3.5.4
 [Better Title Screen](https://minecraft.curseforge.com/projects/better-title-screen) | v1.4b |
 [BetterFps](https://minecraft.curseforge.com/projects/betterfps) | v1.4.8 | 
 [BiblioCraft](https://minecraft.curseforge.com/projects/bibliocraft) | v2.4.5 |                   
