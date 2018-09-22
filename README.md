@@ -11,7 +11,7 @@ Forge: v14.23.3.2691
 ## Mods Included
 Mod | Version | Note
 --- | ------- | -------
-[Agricraft](https://minecraft.curseforge.com/projects/agricraft) | v2.12.0-1.12.0-a4 | 
+[Actually Additions](https://minecraft.curseforge.com/projects/actually-additions) | vr140 |
 [AppleSkin](https://minecraft.curseforge.com/projects/appleskin) | v1.0.9 |
 [AutoRegLib](https://minecraft.curseforge.com/projects/autoreglib) | v1.3-17 |
 [Better Advancements]() | v0.0.5.17 |
