@@ -77,7 +77,7 @@ Mod | Version | Note
 [Tinkers Tool Leveling](https://minecraft.curseforge.com/projects/tinkers-tool-leveling) | v1.0.4 | 
 [ViesCraft - Airships!](https://minecraft.curseforge.com/projects/viescraft-airships) v5.9.13
 [Waila Harvestability](https://minecraft.curseforge.com/projects/waila-harvestability) | v1.1.12 |
-[Wawla](https://minecraft.curseforge.com/projects/wawla-what-are-we-looking-at) | v2.5.253 |
+[Wawla](https://minecraft.curseforge.com/projects/wawla-what-are-we-looking-at) | v2.5.261 |
 [Zombie Awareness](https://minecraft.curseforge.com/projects/zombie-awareness) | v1.11.14 |
 
 ## Recommended Mods
