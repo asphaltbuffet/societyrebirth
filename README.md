@@ -18,7 +18,7 @@ Mod | Version | Note
 [Better Title Screen](https://minecraft.curseforge.com/projects/better-title-screen) | v1.4b |
 [BetterFps](https://minecraft.curseforge.com/projects/betterfps) | v1.4.8 | 
 [BiblioCraft](https://minecraft.curseforge.com/projects/bibliocraft) | v2.4.5 |                   
-[Biomes O' Plenty](https://minecraft.curseforge.com/projects/biomes-o-plenty) | v7.0.1.2389 |
+[Biomes O' Plenty](https://minecraft.curseforge.com/projects/biomes-o-plenty) | v7.0.1.2399 |
 [Chameleon](https://minecraft.curseforge.com/projects/chameleon) | v4.1.3 |                         
 [Chisel](https://minecraft.curseforge.com/projects/chisel) | v0.2.1.35 |
 [Chameleon](https://minecraft.curseforge.com/projects/chameleon) | v4.1.3 |                         
