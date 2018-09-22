@@ -58,7 +58,7 @@ Mod | Version | Note
 [MouseTweaks](https://minecraft.curseforge.com/projects/mouse-tweaks) | v2.8 |
 [Mystical Agradditions](https://minecraft.curseforge.com/projects/mystical-agradditions) | v1.2.8 | 
 [Mystical Agriculture](https://minecraft.curseforge.com/projects/mystical-agriculture) | v1.6.10 | 
-[Nether EX](https://minecraft.curseforge.com/projects/netherex) | v
+[Nether EX](https://minecraft.curseforge.com/projects/netherex) | v2.0.8
 [OpenBlocks](https://minecraft.curseforge.com/projects/openblocks) | v1.7.6 |
 [OpenModsLib](https://minecraft.curseforge.com/projects/openmodslib) | v0.11.5 |
 [Ore Excavation](https://minecraft.curseforge.com/projects/ore-excavation) | v1.4.118 |
