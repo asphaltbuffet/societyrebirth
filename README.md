@@ -29,7 +29,7 @@ Mod | Version | Note
 [CoFH World](https://minecraft.curseforge.com/projects/cofh-world) | 1.1.1.12 |
 [ConnectedTexturesMod](https://minecraft.curseforge.com/projects/ctm) | v0.2.3.12 | 
 [CoroUtil](https://minecraft.curseforge.com/projects/coroutil) | v1.2.9 | 
-[CraftTweaker](https://minecraft.curseforge.com/projects/crafttweaker) | v4.1.8 |
+[Cooking for Blockheads](https://minecraft.curseforge.com/projects/cooking-for-blockheads) | v6.4.63
 [Cucumber Library](https://minecraft.curseforge.com/projects/cucumber) | v1.1.0 |
 [CustomStarterGear](https://minecraft.curseforge.com/projects/custom-starter-gear) | v1.2.0.9 |
 [Default Options](https://minecraft.curseforge.com/projects/default-options) | v9.2.7
