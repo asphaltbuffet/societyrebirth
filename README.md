@@ -75,7 +75,7 @@ Mod | Version | Note
 [ViesCraft - Airships!](https://minecraft.curseforge.com/projects/viescraft-airships) v5.9.13
 [Waila Harvestability](https://minecraft.curseforge.com/projects/waila-harvestability) | v1.1.12 |
 [Wawla](https://minecraft.curseforge.com/projects/wawla-what-are-we-looking-at) | v2.5.253 |
-[Zombie Awareness](https://minecraft.curseforge.com/projects/zombie-awareness) | v1.11.12 |
+[Zombie Awareness](https://minecraft.curseforge.com/projects/zombie-awareness) | v1.11.14 |
 
 ## Recommended Mods
 OptiFine - this is STRONGLY recommended with included darkness mods
