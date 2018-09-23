@@ -60,7 +60,7 @@ Mod | Version | Note
 [Nether EX](https://minecraft.curseforge.com/projects/netherex) | v2.0.8
 [OpenBlocks](https://minecraft.curseforge.com/projects/openblocks) | v1.7.6 |
 [OpenModsLib](https://minecraft.curseforge.com/projects/openmodslib) | v0.11.5 |
-[Ore Excavation](https://minecraft.curseforge.com/projects/ore-excavation) | v1.4.118 |
+[Ore Excavation](https://minecraft.curseforge.com/projects/ore-excavation) | v1.4.129 |
 [NetherEx](https://minecraft.curseforge.com/projects/netherex) | v2.0.8
 [Quark](https://minecraft.curseforge.com/projects/quark) | r1.4-123 | 
 [Random Patches](https://minecraft.curseforge.com/projects/randompatches) | v1.5.0.4 |
