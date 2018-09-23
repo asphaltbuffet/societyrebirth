@@ -8,3 +8,5 @@ release_notes\.bat
 config/codechicken/supporters\.json
 
 config/agricraft/json/server_*/
+
+config/randomtweaks/data\.json
