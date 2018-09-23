@@ -28,7 +28,7 @@ Mod | Version | Note
 [ConnectedTexturesMod](https://minecraft.curseforge.com/projects/ctm) | v0.3.2.18 | 
 [Construct's Armory](https://minecraft.curseforge.com/projects/constructs-armory) | v1.1.1
 [Cooking for Blockheads](https://minecraft.curseforge.com/projects/cooking-for-blockheads) | v6.4.63
-[Cucumber Library](https://minecraft.curseforge.com/projects/cucumber) | v1.1.0 |
+[CoroUtil](https://minecraft.curseforge.com/projects/coroutil) | v1.2.13 | 
 [CraftTweaker](https://minecraft.curseforge.com/projects/crafttweaker) | v4.1.9 |
 [Cucumber Library](https://minecraft.curseforge.com/projects/cucumber) | v1.1.1 |
 [CustomStarterGear](https://minecraft.curseforge.com/projects/custom-starter-gear) | v1.2.0.9 |
