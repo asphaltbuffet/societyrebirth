@@ -74,7 +74,8 @@ Mod | Version | Note
 [Thermal Foundation](https://minecraft.curseforge.com/projects/thermal-foundation) | v2.5.0.19 |
 [Tinker I/O](https://minecraft.curseforge.com/projects/tinker-i-o) | v2.6.1 |
 [Tinkered Hegemony](https://minecraft.curseforge.com/projects/tinkered-hegemony) | v0.2.0 |
-[Tinkers Tool Leveling](https://minecraft.curseforge.com/projects/tinkers-tool-leveling) | v1.0.4 | 
+[Tinkers' Construct](https://minecraft.curseforge.com/projects/tinkers-construct) | v2.10.1.87 |
+[Tinkers Tool Leveling](https://minecraft.curseforge.com/projects/tinkers-tool-leveling) | v1.0.5 | 
 [ViesCraft - Airships!](https://minecraft.curseforge.com/projects/viescraft-airships) v5.9.13
 [Waila Harvestability](https://minecraft.curseforge.com/projects/waila-harvestability) | v1.1.12 |
 [Wawla](https://minecraft.curseforge.com/projects/wawla-what-are-we-looking-at) | v2.5.261 |
