@@ -39,7 +39,7 @@ Mod | Version | Note
 [Geolosys](https://minecraft.curseforge.com/projects/geolosys) | v2.1.2 |
 [GraveStone Mod](https://minecraft.curseforge.com/projects/gravestone-mod) | 1.10.1 |
 [HardcoreDarkness](https://minecraft.curseforge.com/projects/hardcore-darkness) | v2.0 |
-[Hwyla](https://minecraft.curseforge.com/projects/hwyla) | v1.8.25-B40 |
+[Hwyla](https://minecraft.curseforge.com/projects/hwyla) | v1.8.26-B41 |
 [InfinityLib](https://minecraft.curseforge.com/projects/infinitylib) | v1.12.0 | 
 [Iron Chests](https://minecraft.curseforge.com/projects/iron-chests) | v7.0.46.831 | 
 [JourneyMap](https://minecraft.curseforge.com/projects/journeymap) | v5.5.2 |
