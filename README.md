@@ -27,7 +27,7 @@ Mod | Version | Note
 [CoFH Core](https://minecraft.curseforge.com/projects/cofhcore) | v4.4.1.12 |
 [CoFH World](https://minecraft.curseforge.com/projects/cofh-world) | 1.1.1.12 |
 [ConnectedTexturesMod](https://minecraft.curseforge.com/projects/ctm) | v0.2.3.12 | 
-[CoroUtil](https://minecraft.curseforge.com/projects/coroutil) | v1.2.9 | 
+[Construct's Armory](https://minecraft.curseforge.com/projects/constructs-armory) | v1.1.1
 [Cooking for Blockheads](https://minecraft.curseforge.com/projects/cooking-for-blockheads) | v6.4.63
 [Cucumber Library](https://minecraft.curseforge.com/projects/cucumber) | v1.1.0 |
 [CraftTweaker](https://minecraft.curseforge.com/projects/crafttweaker) | v4.1.9 |
