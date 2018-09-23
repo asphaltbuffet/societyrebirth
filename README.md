@@ -50,8 +50,8 @@ Mod | Version | Note
 [MalisisCore](https://minecraft.curseforge.com/projects/malisiscore) | v6.4.0 |
 [MalisisDoors](https://minecraft.curseforge.com/projects/malisisdoors) | v7.3.0 |
 [Mantle](https://minecraft.curseforge.com/projects/mantle) | v1.3.2.24 |
-[Mekanism](https://minecraft.curseforge.com/projects/mekanism) | v9.4.10.345 |
-[Mekanism Generators](https://minecraft.curseforge.com/projects/mekanism-generators) | v9.4.10.345 | 
+[Mekanism](https://minecraft.curseforge.com/projects/mekanism) | v9.4.13.349 |
+[Mekanism Generators](https://minecraft.curseforge.com/projects/mekanism-generators) | v9.4.13.349 | 
 [Morpheus](https://minecraft.curseforge.com/projects/morpheus) | v3.3.2 | Server-side Only
 [MouseTweaks](https://minecraft.curseforge.com/projects/mouse-tweaks) | v2.8 |
 [Mystical Agradditions](https://minecraft.curseforge.com/projects/mystical-agradditions) | v1.2.8 | 
