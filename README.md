@@ -21,7 +21,6 @@ Mod | Version | Note
 [Biomes O' Plenty](https://minecraft.curseforge.com/projects/biomes-o-plenty) | v7.0.1.2399 |
 [Chameleon](https://minecraft.curseforge.com/projects/chameleon) | v4.1.3 |                         
 [Chisel](https://minecraft.curseforge.com/projects/chisel) | v0.2.1.35 |
-[Chisel](https://minecraft.curseforge.com/projects/chisel) | v0.2.0.31 |
 [ClayBucket](https://minecraft.curseforge.com/projects/clay-bucket) | v1.1 |
 [CodeChicken Lib](https://minecraft.curseforge.com/projects/codechicken-lib-1-8) | v3.2.2.353 | 
 [CoFH Core](https://minecraft.curseforge.com/projects/cofhcore) | v4.4.1.12 |
