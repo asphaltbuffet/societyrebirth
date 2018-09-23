@@ -50,7 +50,6 @@
       "amountPerChunk": 0.1,
       "enable": true
     },
-    "clover_patches": {},
     "amber": {
       "minHeight": 4,
       "with": {
@@ -74,7 +73,6 @@
       "amountPerChunk": 4.0,
       "enable": true
     },
-    "trees": {},
     "toadstools": {
       "with": {
         "block": "biomesoplenty:mushroom",
@@ -87,6 +85,14 @@
       "enable": true
     },
     "poison_ivy": {
+      "with": {
+        "block": "biomesoplenty:plant_0",
+        "properties": {
+          "variant": "poisonivy"
+        }
+      },
+      "generationAttempts": 32,
+      "amountPerChunk": 0.25,
       "enable": true
     },
     "flax": {
