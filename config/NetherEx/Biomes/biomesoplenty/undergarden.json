@@ -2,6 +2,7 @@
   "biome": "biomesoplenty:undergarden",
   "weight": 4,
   "enabled": true,
+  "genDefaultFeatures": true,
   "entities": [
     {
       "entity": "minecraft:ghast",
@@ -60,6 +61,5 @@
       "spawn": true
     }
   ],
-  "features": [],
-  "genDefaultFeatures": true
+  "features": []
 }

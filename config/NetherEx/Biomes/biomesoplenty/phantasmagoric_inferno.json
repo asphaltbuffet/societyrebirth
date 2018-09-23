@@ -2,6 +2,7 @@
   "biome": "biomesoplenty:phantasmagoric_inferno",
   "weight": 6,
   "enabled": true,
+  "genDefaultFeatures": true,
   "entities": [
     {
       "entity": "minecraft:ghast",
@@ -60,6 +61,5 @@
       "spawn": true
     }
   ],
-  "features": [],
-  "genDefaultFeatures": true
+  "features": []
 }
