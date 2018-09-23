@@ -23,7 +23,7 @@ Mod | Version | Note
 [Chisel](https://minecraft.curseforge.com/projects/chisel) | v0.2.1.35 |
 [ClayBucket](https://minecraft.curseforge.com/projects/clay-bucket) | v1.1 |
 [CodeChicken Lib](https://minecraft.curseforge.com/projects/codechicken-lib-1-8) | v3.2.2.353 | 
-[CoFH Core](https://minecraft.curseforge.com/projects/cofhcore) | v4.4.1.12 |
+[CoFH Core](https://minecraft.curseforge.com/projects/cofhcore) | v4.5.3.20 |
 [CoFH World](https://minecraft.curseforge.com/projects/cofh-world) | 1.1.1.12 |
 [ConnectedTexturesMod](https://minecraft.curseforge.com/projects/ctm) | v0.2.3.12 | 
 [Construct's Armory](https://minecraft.curseforge.com/projects/constructs-armory) | v1.1.1
