@@ -7,6 +7,5 @@
     "0:2": "tconstruct:broadsword,1,0,{StatsOriginal:{AttackSpeedMultiplier:1.0f,MiningSpeed:2.0f,FreeModifiers:3,Durability:82,HarvestLevel:0,Attack:3.0f},Stats:{AttackSpeedMultiplier:1.0f,MiningSpeed:2.0f,FreeModifiers:3,Durability:82,HarvestLevel:0,Attack:3.0f},Special:{Categories:[\"tool\",\"weapon\"]},TinkerData:{Materials:[\"wood\",\"wood\",\"wood\"],Modifiers:[\"toolleveling\"]},Modifiers:[{identifier:\"ecological\",color:-7444965,level:1},{identifier:\"toolleveling\",color:16777215,level:1}],Traits:[\"ecological\",\"toolleveling\"]}",
     "0:0": "tconstruct:pickaxe,1,0,{StatsOriginal:{AttackSpeedMultiplier:1.0f,MiningSpeed:2.0f,FreeModifiers:3,Durability:75,HarvestLevel:0,Attack:2.0f},Stats:{AttackSpeedMultiplier:1.0f,MiningSpeed:2.0f,FreeModifiers:3,Durability:75,HarvestLevel:0,Attack:2.0f},Special:{Categories:[\"aoe\",\"tool\",\"harvest\"]},TinkerData:{Materials:[\"wood\",\"wood\",\"wood\"],Modifiers:[\"toolleveling\"]},Modifiers:[{identifier:\"ecological\",color:-7444965,level:1},{identifier:\"toolleveling\",color:16777215,level:1}],Traits:[\"ecological\",\"toolleveling\"]}",
     "0:8": "minecraft:torch,16",
-    "0:13": "questbook:itemquestbook"
   }
 }
