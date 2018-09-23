@@ -25,7 +25,7 @@ Mod | Version | Note
 [CodeChicken Lib](https://minecraft.curseforge.com/projects/codechicken-lib-1-8) | v3.2.2.353 | 
 [CoFH Core](https://minecraft.curseforge.com/projects/cofhcore) | v4.5.3.20 |
 [CoFH World](https://minecraft.curseforge.com/projects/cofh-world) | 1.2.0.5 |
-[ConnectedTexturesMod](https://minecraft.curseforge.com/projects/ctm) | v0.2.3.12 | 
+[ConnectedTexturesMod](https://minecraft.curseforge.com/projects/ctm) | v0.3.2.18 | 
 [Construct's Armory](https://minecraft.curseforge.com/projects/constructs-armory) | v1.1.1
 [Cooking for Blockheads](https://minecraft.curseforge.com/projects/cooking-for-blockheads) | v6.4.63
 [Cucumber Library](https://minecraft.curseforge.com/projects/cucumber) | v1.1.0 |
