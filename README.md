@@ -62,7 +62,7 @@ Mod | Version | Note
 [OpenModsLib](https://minecraft.curseforge.com/projects/openmodslib) | v0.11.5 |
 [Ore Excavation](https://minecraft.curseforge.com/projects/ore-excavation) | v1.4.129 |
 [NetherEx](https://minecraft.curseforge.com/projects/netherex) | v2.0.8
-[Quark](https://minecraft.curseforge.com/projects/quark) | r1.4-123 | 
+[Pam's HarvestCraft](https://minecraft.curseforge.com/projects/pams-harvestcraft) | v1.12.2z |
 [Random Patches](https://minecraft.curseforge.com/projects/randompatches) | v1.5.0.4 |
 [Random Tweaks]() | v |
 [Redstone Flux](https://minecraft.curseforge.com/projects/redstone-flux) | v2.0.2.3 |
