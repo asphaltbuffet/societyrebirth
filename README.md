@@ -58,8 +58,8 @@ Mod | Version | Note
 [Mystical Agradditions](https://minecraft.curseforge.com/projects/mystical-agradditions) | v1.2.8 | 
 [Mystical Agriculture](https://minecraft.curseforge.com/projects/mystical-agriculture) | v1.6.13 | 
 [Nether EX](https://minecraft.curseforge.com/projects/netherex) | v2.0.8
-[OpenBlocks](https://minecraft.curseforge.com/projects/openblocks) | v1.7.6 |
-[OpenModsLib](https://minecraft.curseforge.com/projects/openmodslib) | v0.11.5 |
+[OpenBlocks](https://minecraft.curseforge.com/projects/openblocks) | v1.8 |
+[OpenModsLib](https://minecraft.curseforge.com/projects/openmodslib) | v0.12 |
 [Ore Excavation](https://minecraft.curseforge.com/projects/ore-excavation) | v1.4.129 |
 [NetherEx](https://minecraft.curseforge.com/projects/netherex) | v2.0.8
 [Pam's HarvestCraft](https://minecraft.curseforge.com/projects/pams-harvestcraft) | v1.12.2z |
