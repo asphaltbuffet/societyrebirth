@@ -14,6 +14,7 @@ issue-labels-include:
 - Bug
 - Feature
 - Mod Change
+- Update
 issue-labels-exclude:
 - Duplicate
 - Won't Fix
