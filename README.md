@@ -78,6 +78,7 @@ Mod | Version | Note
 [ViesCraft - Airships!](https://minecraft.curseforge.com/projects/viescraft-airships) v5.9.13
 [Waila Harvestability](https://minecraft.curseforge.com/projects/waila-harvestability) | v1.1.12 | Client-only
 [Wawla](https://minecraft.curseforge.com/projects/wawla-what-are-we-looking-at) | v2.5.261 |
+[Waystones](https://minecraft.curseforge.com/projects/waystones) | v4.0.63 | 
 [Zombie Awareness](https://minecraft.curseforge.com/projects/zombie-awareness) | v1.11.14 |
 
 ## Recommended Mods
