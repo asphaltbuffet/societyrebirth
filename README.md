@@ -63,6 +63,7 @@ Mod | Version | Note
 [Random Patches](https://minecraft.curseforge.com/projects/randompatches) | v1.5.0.4 |
 [Random Tweaks]() | v |
 [Redstone Flux](https://minecraft.curseforge.com/projects/redstone-flux) | v2.0.2.3 |
+[Signpost](https://minecraft.curseforge.com/projects/signpost) | v1.06.1 | 
 [Storage Drawers](https://minecraft.curseforge.com/projects/storage-drawers) | v5.3.7 |
 [Storage Drawers Extras](https://minecraft.curseforge.com/projects/storage-drawers-extras) | v3.1.0 |
 [Tech Guns](https://minecraft.curseforge.com/projects/techguns) | v2.0.1.1 |
