@@ -39,6 +39,8 @@ Mod | Version | Note
 [GraveStone Mod](https://minecraft.curseforge.com/projects/gravestone-mod) | 1.10.1 |
 [HardcoreDarkness](https://minecraft.curseforge.com/projects/hardcore-darkness) | v2.0 |
 [Hwyla](https://minecraft.curseforge.com/projects/hwyla) | v1.8.26-B41 |
+[Immersive Engineering] (https://minecraft.curseforge.com/projects/immersive-engineering) | v0.12-85 |
+[Immersive Petroleum](https://minecraft.curseforge.com/projects/immersive-petroleum) | v1.1.9 | 
 [InfinityLib](https://minecraft.curseforge.com/projects/infinitylib) | v1.12.0 | 
 [Iron Chests](https://minecraft.curseforge.com/projects/iron-chests) | v7.0.46.831 | 
 [JourneyMap](https://minecraft.curseforge.com/projects/journeymap) | v5.5.2 | Client-only
