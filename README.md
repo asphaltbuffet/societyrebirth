@@ -51,7 +51,6 @@ Mod | Version | Note
 [Mantle](https://minecraft.curseforge.com/projects/mantle) | v1.3.2.24 |
 [Mekanism](https://minecraft.curseforge.com/projects/mekanism) | v9.4.13.349 |
 [Mekanism Generators](https://minecraft.curseforge.com/projects/mekanism-generators) | v9.4.13.349 | 
-[Memory Tester](https://minecraft.curseforge.com/projects/memorytester) | v0.3.3 | Client-only
 [Morpheus](https://minecraft.curseforge.com/projects/morpheus) | v3.3.2 | Server-only
 [MouseTweaks](https://minecraft.curseforge.com/projects/mouse-tweaks) | v2.8 | Client-only
 [Nether EX](https://minecraft.curseforge.com/projects/netherex) | v2.0.8
