@@ -55,7 +55,6 @@ Mod | Version | Note
 [Memory Tester](https://minecraft.curseforge.com/projects/memorytester) | v0.3.3 | Client-only
 [Morpheus](https://minecraft.curseforge.com/projects/morpheus) | v3.3.2 | Server-only
 [MouseTweaks](https://minecraft.curseforge.com/projects/mouse-tweaks) | v2.8 | Client-only
-[Mystical Agradditions](https://minecraft.curseforge.com/projects/mystical-agradditions) | v1.2.8 | 
 [Mystical Agriculture](https://minecraft.curseforge.com/projects/mystical-agriculture) | v1.6.13 | 
 [Nether EX](https://minecraft.curseforge.com/projects/netherex) | v2.0.8
 [OpenBlocks](https://minecraft.curseforge.com/projects/openblocks) | v1.8 |
