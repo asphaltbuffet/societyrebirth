@@ -31,7 +31,6 @@ Mod | Version | Note
 [Cooking for Blockheads](https://minecraft.curseforge.com/projects/cooking-for-blockheads) | v6.4.63
 [CoroUtil](https://minecraft.curseforge.com/projects/coroutil) | v1.2.13 | 
 [CraftTweaker](https://minecraft.curseforge.com/projects/crafttweaker) | v4.1.9 |
-[Cucumber Library](https://minecraft.curseforge.com/projects/cucumber) | v1.1.1 |
 [CustomStarterGear](https://minecraft.curseforge.com/projects/custom-starter-gear) | v1.2.0.9 |
 [Default Options](https://minecraft.curseforge.com/projects/default-options) | v9.2.7 | Client-only
 [DefaultWorldGenerator (port)](https://minecraft.curseforge.com/projects/default-world-generator-port) | v2.3 |
