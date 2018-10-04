@@ -71,7 +71,6 @@ Mod | Version | Note
 [Storage Drawers Extras](https://minecraft.curseforge.com/projects/storage-drawers-extras) | v3.1.0 |
 [Tech Guns](https://minecraft.curseforge.com/projects/techguns) | v2.0.1.1 |
 [The Lost Cities](https://minecraft.curseforge.com/projects/the-lost-cities) | v2.0.11 | Server-only
-[Thermal Foundation](https://minecraft.curseforge.com/projects/thermal-foundation) | v2.5.0.19 |
 [Tinker I/O](https://minecraft.curseforge.com/projects/tinker-i-o) | v2.6.1 |
 [Tinkered Hegemony](https://minecraft.curseforge.com/projects/tinkered-hegemony) | v0.2.0 |
 [Tinkers' Construct](https://minecraft.curseforge.com/projects/tinkers-construct) | v2.10.1.87 |
