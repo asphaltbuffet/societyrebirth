@@ -19,6 +19,7 @@ Mod | Version | Note
 [BetterFps](https://minecraft.curseforge.com/projects/betterfps) | v1.4.8 | 
 [BiblioCraft](https://minecraft.curseforge.com/projects/bibliocraft) | v2.4.5 |                   
 [Biomes O' Plenty](https://minecraft.curseforge.com/projects/biomes-o-plenty) | v7.0.1.2399 |
+[Block Drops Tweaker](https://minecraft.curseforge.com/projects/block-drops-tweaker |v2.4 |
 [BonsaiTrees](https://www.curseforge.com/minecraft/mc-mods/bonsai-trees) | v1.0.5-b77 | 
 [Chameleon](https://minecraft.curseforge.com/projects/chameleon) | v4.1.3 |                         
 [Chisel](https://minecraft.curseforge.com/projects/chisel) | v0.2.1.35 |
