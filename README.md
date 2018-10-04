@@ -23,7 +23,6 @@ Mod | Version | Note
 [Chameleon](https://minecraft.curseforge.com/projects/chameleon) | v4.1.3 |                         
 [Chisel](https://minecraft.curseforge.com/projects/chisel) | v0.2.1.35 |
 [ClayBucket](https://minecraft.curseforge.com/projects/clay-bucket) | v1.1 |
-[CodeChicken Lib](https://minecraft.curseforge.com/projects/codechicken-lib-1-8) | v3.2.2.353 | 
 [ConnectedTexturesMod](https://minecraft.curseforge.com/projects/ctm) | v0.3.2.18 | Client-only
 [Construct's Armory](https://minecraft.curseforge.com/projects/constructs-armory) | v1.1.1
 [Cooking for Blockheads](https://minecraft.curseforge.com/projects/cooking-for-blockheads) | v6.4.63
