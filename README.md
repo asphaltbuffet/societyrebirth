@@ -38,6 +38,7 @@ Mod | Version | Note
 [Hwyla](https://minecraft.curseforge.com/projects/hwyla) | v1.8.26-B41 |
 [Immersive Engineering] (https://minecraft.curseforge.com/projects/immersive-engineering) | v0.12-85 |
 [Immersive Petroleum](https://minecraft.curseforge.com/projects/immersive-petroleum) | v1.1.9 | 
+[Immersive Tech](https://minecraft.curseforge.com/projects/immersive-tech) | v1.3.10 | 
 [InfinityLib](https://minecraft.curseforge.com/projects/infinitylib) | v1.12.0 | 
 [Iron Chests](https://minecraft.curseforge.com/projects/iron-chests) | v7.0.46.831 | 
 [JourneyMap](https://minecraft.curseforge.com/projects/journeymap) | v5.5.2 | Client-only
