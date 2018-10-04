@@ -23,9 +23,6 @@ Mod | Version | Note
 [Chameleon](https://minecraft.curseforge.com/projects/chameleon) | v4.1.3 |                         
 [Chisel](https://minecraft.curseforge.com/projects/chisel) | v0.2.1.35 |
 [ClayBucket](https://minecraft.curseforge.com/projects/clay-bucket) | v1.1 |
-[CodeChicken Lib](https://minecraft.curseforge.com/projects/codechicken-lib-1-8) | v3.2.2.353 | 
-[CoFH Core](https://minecraft.curseforge.com/projects/cofhcore) | v4.5.3.20 |
-[CoFH World](https://minecraft.curseforge.com/projects/cofh-world) | 1.2.0.5 |
 [ConnectedTexturesMod](https://minecraft.curseforge.com/projects/ctm) | v0.3.2.18 | Client-only
 [Construct's Armory](https://minecraft.curseforge.com/projects/constructs-armory) | v1.1.1
 [Cooking for Blockheads](https://minecraft.curseforge.com/projects/cooking-for-blockheads) | v6.4.63
@@ -71,8 +68,6 @@ Mod | Version | Note
 [Storage Drawers Extras](https://minecraft.curseforge.com/projects/storage-drawers-extras) | v3.1.0 |
 [Tech Guns](https://minecraft.curseforge.com/projects/techguns) | v2.0.1.1 |
 [The Lost Cities](https://minecraft.curseforge.com/projects/the-lost-cities) | v2.0.11 | Server-only
-[Thermal Expansion](https://minecraft.curseforge.com/projects/thermalexpansion) | v5.5.0.29 |
-[Thermal Foundation](https://minecraft.curseforge.com/projects/thermal-foundation) | v2.5.0.19 |
 [Tinker I/O](https://minecraft.curseforge.com/projects/tinker-i-o) | v2.6.1 |
 [Tinkered Hegemony](https://minecraft.curseforge.com/projects/tinkered-hegemony) | v0.2.0 |
 [Tinkers' Construct](https://minecraft.curseforge.com/projects/tinkers-construct) | v2.10.1.87 |
