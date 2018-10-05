@@ -33,7 +33,7 @@ Mod | Version | Server/Client
 [CustomStarterGear](https://minecraft.curseforge.com/projects/custom-starter-gear) | v1.2.0.9 |
 [Default Options](https://minecraft.curseforge.com/projects/default-options) | v9.2.7 | Client-only
 [DefaultWorldGenerator (port)](https://minecraft.curseforge.com/projects/default-world-generator-port) | v2.3 |
-[Extra Utilities](https://minecraft.curseforge.com/projects/extra-utilities) | v1.9.3 |
+[Extra Utilities](https://minecraft.curseforge.com/projects/extra-utilities) | v1.9.4 |
 [Fast Leaf Decay](https://minecraft.curseforge.com/projects/fast-leaf-decay) | v14 |
 [GraveStone Mod](https://minecraft.curseforge.com/projects/gravestone-mod) | 1.10.1 |
 [HardcoreDarkness](https://minecraft.curseforge.com/projects/hardcore-darkness) | v2.0 |
