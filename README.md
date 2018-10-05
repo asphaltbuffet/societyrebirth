@@ -9,9 +9,10 @@ Forge: v14.23.3.2760
 
 
 ## Mods Included
-Mod | Version | Note
+Mod | Version | Server/Client
 --- | ------- | -------
 [Actually Additions](https://minecraft.curseforge.com/projects/actually-additions) | vr140 |
+[Advanced Generators](https://minecraft.curseforge.com/projects/advanced-generators) | v0.9.20.12 | 
 [AppleSkin](https://minecraft.curseforge.com/projects/appleskin) | v1.0.9 |
 [AutoRegLib](https://minecraft.curseforge.com/projects/autoreglib) | v1.3-20 |
 [Backpacks!](https://minecraft.curseforge.com/projects/backpacks) | v3.5.4
