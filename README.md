@@ -26,8 +26,8 @@ Mod | Version | Server/Client
 [Chisel](https://minecraft.curseforge.com/projects/chisel) | v0.2.1.35 |
 [ClayBucket](https://minecraft.curseforge.com/projects/clay-bucket) | v1.1 |
 [ConnectedTexturesMod](https://minecraft.curseforge.com/projects/ctm) | v0.3.2.18 | Client-only
-[Construct's Armory](https://minecraft.curseforge.com/projects/constructs-armory) | v1.1.1
-[Cooking for Blockheads](https://minecraft.curseforge.com/projects/cooking-for-blockheads) | v6.4.63
+[Construct's Armory](https://minecraft.curseforge.com/projects/constructs-armory) | v1.1.2 |
+[Cooking for Blockheads](https://minecraft.curseforge.com/projects/cooking-for-blockheads) | v6.4.63 |
 [CoroUtil](https://minecraft.curseforge.com/projects/coroutil) | v1.2.13 | 
 [CraftTweaker](https://minecraft.curseforge.com/projects/crafttweaker) | v4.1.9 |
 [CustomStarterGear](https://minecraft.curseforge.com/projects/custom-starter-gear) | v1.2.0.9 |
