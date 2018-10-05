@@ -42,7 +42,7 @@ Mod | Version | Server/Client
 [Immersive Petroleum](https://minecraft.curseforge.com/projects/immersive-petroleum) | v1.1.9 | 
 [Immersive Tech](https://minecraft.curseforge.com/projects/immersive-tech) | v1.3.10 | 
 [InfinityLib](https://minecraft.curseforge.com/projects/infinitylib) | v1.12.0 | 
-[Iron Chests](https://minecraft.curseforge.com/projects/iron-chests) | v7.0.46.831 | 
+[Iron Chests](https://minecraft.curseforge.com/projects/iron-chests) | v7.0.48.883 | 
 [JourneyMap](https://minecraft.curseforge.com/projects/journeymap) | v5.5.2 | Client-only
 [Just Enough HarvestCraft (JEHC)](https://minecraft.curseforge.com/projects/just-enough-harvestcraft) | v1.6.1.0 | Client-only
 [Just Enough Items (JEI)](https://minecraft.curseforge.com/projects/jei) | v4.11.0.212 |
