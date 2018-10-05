@@ -16,3 +16,5 @@ config/randomtweaks/data\.json
 server\.manifest
 
 releases/server/*.zip
+
+config/splash\.properties
