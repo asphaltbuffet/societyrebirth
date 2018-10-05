@@ -1,0 +1,37 @@
+As part of this release we had [25 issues](https://github.com/asphaltbuffet/societyrebirth/issues?milestone=9&state=closed) closed.
+
+
+__Features__
+
+- [__#167__](https://github.com/asphaltbuffet/societyrebirth/issues/167) Disable spawner pickup
+- [__#155__](https://github.com/asphaltbuffet/societyrebirth/issues/155) Enable full TechGuns mod recipies for evaluation and game balance measurements
+- [__#142__](https://github.com/asphaltbuffet/societyrebirth/issues/142) remove version check from actually additions
+- [__#135__](https://github.com/asphaltbuffet/societyrebirth/issues/135) Fast travel/Teleportation
+
+__Mod Changes__
+
+- [__#166__](https://github.com/asphaltbuffet/societyrebirth/issues/166) remove thermal foundation/expansion
+- [__#165__](https://github.com/asphaltbuffet/societyrebirth/issues/165) add immersive tech
+- [__#163__](https://github.com/asphaltbuffet/societyrebirth/issues/163) Add Block Drops Tweaker
+- [__#154__](https://github.com/asphaltbuffet/societyrebirth/issues/154) remove geolosys
+- [__#153__](https://github.com/asphaltbuffet/societyrebirth/issues/153) remove mystical agradditions
+- [__#152__](https://github.com/asphaltbuffet/societyrebirth/issues/152) remove mystical agriculture
+- [__#151__](https://github.com/asphaltbuffet/societyrebirth/issues/151) add immersive petroleum
+- [__#150__](https://github.com/asphaltbuffet/societyrebirth/issues/150) add immersive engineering
+- [__#148__](https://github.com/asphaltbuffet/societyrebirth/issues/148) add signpost mod
+- [__#147__](https://github.com/asphaltbuffet/societyrebirth/issues/147) add waystones mod
+- [__#145__](https://github.com/asphaltbuffet/societyrebirth/issues/145) remove memory tester mod
+- [__#144__](https://github.com/asphaltbuffet/societyrebirth/issues/144) Add light level visibility (Torch Optimizer)
+- [__#143__](https://github.com/asphaltbuffet/societyrebirth/issues/143) add PlusTic mod
+- [__#137__](https://github.com/asphaltbuffet/societyrebirth/issues/137) Add Advanced Generator
+
+__Updates__
+
+- [__#162__](https://github.com/asphaltbuffet/societyrebirth/issues/162) Update Just Enough Items
+- [__#161__](https://github.com/asphaltbuffet/societyrebirth/issues/161) Update IronChests
+- [__#160__](https://github.com/asphaltbuffet/societyrebirth/issues/160) Update Extra Utilities
+- [__#159__](https://github.com/asphaltbuffet/societyrebirth/issues/159) Update Cooking for Blockheads
+- [__#158__](https://github.com/asphaltbuffet/societyrebirth/issues/158) Update Construct's Armory
+- [__#156__](https://github.com/asphaltbuffet/societyrebirth/issues/156) Update ActuallyAdditions
+- [__#129__](https://github.com/asphaltbuffet/societyrebirth/issues/129) update Quark
+
