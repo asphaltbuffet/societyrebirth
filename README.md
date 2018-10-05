@@ -45,7 +45,7 @@ Mod | Version | Server/Client
 [Iron Chests](https://minecraft.curseforge.com/projects/iron-chests) | v7.0.46.831 | 
 [JourneyMap](https://minecraft.curseforge.com/projects/journeymap) | v5.5.2 | Client-only
 [Just Enough HarvestCraft (JEHC)](https://minecraft.curseforge.com/projects/just-enough-harvestcraft) | v1.6.1.0 | Client-only
-[Just Enough Items (JEI)](https://minecraft.curseforge.com/projects/jei) | v4.11.0.212 |
+[Just Enough Items (JEI)](https://minecraft.curseforge.com/projects/jei) | v4.12.1.217 |
 [Just Enough Resources (JER)](https://minecraft.curseforge.com/projects/just-enough-resources-jer) | v0.8.9.48 | Client-only
 [Lost Souls](https://minecraft.curseforge.com/projects/lost-souls) | v1.1.4 | Server-side Only
 [MalisisCore](https://minecraft.curseforge.com/projects/malisiscore) | v6.4.0 |
