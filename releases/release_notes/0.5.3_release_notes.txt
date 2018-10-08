@@ -1,0 +1,14 @@
+As part of this release we had [5 issues](https://github.com/asphaltbuffet/societyrebirth/issues?milestone=12&state=closed) closed.
+
+
+__Bugs__
+
+- [__#182__](https://github.com/asphaltbuffet/societyrebirth/issues/182) Mob balance off in nether
+- [__#181__](https://github.com/asphaltbuffet/societyrebirth/issues/181) Nether is too dark
+- [__#178__](https://github.com/asphaltbuffet/societyrebirth/issues/178) Default options missing servers.dat
+- [__#174__](https://github.com/asphaltbuffet/societyrebirth/issues/174) Game crashes in haunted buildings
+
+__Mod Change__
+
+- [__#175__](https://github.com/asphaltbuffet/societyrebirth/issues/175) remove lost souls
+
